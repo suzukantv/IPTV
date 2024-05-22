@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wizard>
+	<info>
+		<version>версия 3.9, 09032024-1923</version>
+		<name>IPTV# GEDEMTV Wizard</name>
+		<comment>Wizard-SuzuS-file, ver.3.9, файл для android-приложения LazyIPTV#</comment>
+		<warning></warning>
+</info>
+
+<playlists>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>2.0 @ m3url</name>
+		<url>https://m3url.ru/2.0.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>2024Dl</name>
+		<url>https://dl.dropboxusercontent.com/scl/fi/5153istx5rd2v8vau5osw/2024.m3u?rlkey=oz3idqm6v6dg9lfm3u96xygq7&dl=0</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>4eburNET</name>
+		<url>https://dl.dropboxusercontent.com/scl/fi/vuj6oesoevfcsq1piokiq/.NET_1.m3u?rlkey=g5barth3y9yrua1q25rrz9nec&dl=0</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ASIA @ iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/regions/asia.m3u</url>
+		<update_hours>24</update_hours>
+		<group>asia, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Adultiptv webcams</name>
+		<url>http://adultiptv.net/lists/all.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Alex</name>
+		<url>https://dl.dropbox.com/scl/fi/74m171q8t8opwhve485pf/Moi_ip.m3u?rlkey=8cj23dvra85s2u7eh1kfzq4bp</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>All @ iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/index.language.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Another @ m3url</name>
+		<url>https://m3url.ru/Another.TV.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Antifriz Films @ m3url</name>
+		<url>https://m3url.ru/antifriz.tv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Armenia @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/Armenia-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>am, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Armenija @ AVD</name>
+		<url>https://avdmono.do.am/AVD/armenija.m3u</url>
+		<update_hours>24</update_hours>
+		<group>am, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Avto Iptv TVA</name>
+		<url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, ua, world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Az @ m3url</name>
+		<url>https://m3url.ru/Az.m3u</url>
+		<update_hours>24</update_hours>
+		<group>az, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Bgdc</name>
+		<url>http://bgdc.live:25461/get.php?username=6066278099&password=buddyburnette&type=m3u_plus</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Bluecrabstv XXL</name>
+		<url>http://bluecrabstv.do.am/porno.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Brazil @ tviptv.site</name>
+		<url>https://tviptv.site/upl/1_brazil_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>brazil, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Bruce_Willies_M3url</name>
+		<url>https://m3url.ru/Bruce_Willies_31.05.23.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>CTV @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/CTV-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Canada @ tviptv.site</name>
+		<url>https://tviptv.site/upl/1_canada_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>canada, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>China @ tviptv.ru</name>
+		<url>https://tviptv.site/upl/1_china_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>china, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Cs2_Iptv</name>
+		<url>https://raw.githubusercontent.com/Cartoonworldcs2/tsiptvmay/main/Cs2_Iptv.m3u8 </url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/CAMERA</name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/CAMERA</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/FILMS</name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/FILMS</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/RADIO</name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/RADIO.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/RADIO_GENRES</name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/RADIO_GENRES.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/TV </name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dimonovich/FREE/ZARUB Raw</name>
+		<url>https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/ZARUB</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Dl/iptv</name>
+		<url>https://dl.dropbox.com/s/zs5nkfqjz7c8jwj/iptv</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>EN @ iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/languages/eng.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Eralash</name>
+		<url>http://vekart.ucoz.net/v/Eralash.m3u</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Films @ mater.com.ua</name>
+		<url>https://mater.com.ua/ip/iptv-s-2021.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Films @ samigiptv</name>
+		<url>http://samigiptv.ucoz.net/ottfilms.m3u8</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Films2 @ samigiptv</name>
+		<url>http://samigiptv.ucoz.net/film1800.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Free @ bluecrabstv</name>
+		<url>http://bluecrabstv.do.am/Free.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Free Blue Crabs TV</name>
+		<url>http://iptv-2020.do.am/Free.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, ua</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Free-TV/IPTV</name>
+		<url>https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_russia.m3u8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>FreeWebCamsWorld.</name>
+		<url>http://topplay.do.am/FreeWebCamsWorld.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>G.NET</name>
+		<url>https://gavrilovka.net/G.NET.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GEdemtv</name>
+		<url>https://edemtv.my1.ru/Gedem.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GEdemtv CatcastTV</name>
+		<url>https://edemtv.my1.ru/CatcastTV.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GEdemtv TorrentTV</name>
+		<url>https://edemtv.my1.ru/TorrentTV.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GEdemtv WinkZabava.</name>
+		<url>https://edemtv.my1.ru/WinkZabava.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GEdemtv mediateka.</name>
+		<url>https://edemtv.my1.ru/mediateka.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>GOLD_Angelina_Jolie_M3url</name>
+		<url>https://m3url.ru/IPTV_GOLD_Angelina_Jolie_13.06.23.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Gedem</name>
+		<url>https://edemtv.my1.ru/iptv/Gedem.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Germany @ tviptv.ru</name>
+		<url>https://tviptv.site/upl/1_germany_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>germany, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Globaltv</name>
+		<url>http://413994677292339256.of2100.xyz/get.php?username=fe316596&password=fS4bBbVf5rW&type=m3u_plus</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Hideip</name>
+		<url>http://hideip.me/IPTV-list.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>IPTV @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/IPTV-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>India @ tviptv.ru</name>
+		<url>https://tviptv.site/upl/1_india_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>india, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv @ mater.com.ua</name>
+		<url>https://mater.com.ua/ip/iptv-s-2021.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv @ samigiptv</name>
+		<url>http://samigiptv.ucoz.net/iptvfull2121.txt</url>
+		<update_hours>24</update_hours>
+		<group>ru, music, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv S @ mater.com.ua</name>
+		<url>https://mater.com.ua/ip/iptv-s-2021.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/countries/ua.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/countries/ru.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv-org @ github</name>
+		<url>https://iptv-org.github.io/iptv/index.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv-org music</name>
+		<url>https://iptv-org.github.io/iptv/categories/music.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptv-org sports</name>
+		<url>https://iptv-org.github.io/iptv/categories/sports.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Iptvforall</name>
+		<url>https://iptvforall.ucoz.net/zf.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Italy @ tviptv.site</name>
+		<url>https://tviptv.site/upl/1_italy_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>italy, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Japan @ tviptv.ru</name>
+		<url>https://tviptv.site/upl/1_japan_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>japan, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Jekalich</name>
+		<url>https://jekalich.github.io/smtk/tv.smtk.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Kino @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/kino-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>LazyPlaylist (ver 1.48)</name>
+		<url>http://bit.ly/lazyiptvplaylist</url>
+		<update_hours>0</update_hours>
+		<group>ru, ua, статические</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Lime @ iptvsmotri</name>
+		<url>http://fork.iptvsmotri.ru/lime.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Mediateka @ Bluecrabstv</name>
+		<url>http://bluecrabstv.do.am/mediateka.m3u</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Megogo @ Bluecrabstv</name>
+		<url>http://bluecrabstv.do.am/megogo.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые, films</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Multi.Streams @ m3url</name>
+		<url>https://m3url.ru/Multi.Streams.m3u</url>
+		<update_hours>24</update_hours>
+		<group>cartoon, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Muzz @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/Muzz-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>music, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Mzab</name>
+		<url>http://bezbe.my1.ru/t/mzab.m3u8</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Mzab</name>
+		<url>http://bezbe.my1.ru//t/mzab.m3u8</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>OTA @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/OTA-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Okko @ m3url</name>
+		<url>https://m3url.ru/okko.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Playlive @ jeka345</name>
+		<url>https://jeka345.github.io/playlive.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>RU @ iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/languages/rus.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>RadioTopPlay.</name>
+		<url>http://topplay.do.am/RadioTopPlay.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Riopretodigital</name>
+		<url>http://riopretodigital.com.br/iptv/18.txt</url>
+		<update_hours>24</update_hours>
+		<group>adult, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Runetki</name>
+		<url>https://ekzo.ucoz.net/m3u/runetki.m3u</url>
+		<update_hours>24</update_hours>
+		<group>adult, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Rus @ Avdmono</name>
+		<url>https://avdmono.do.am/AVD/Rustv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, обновляемый</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Rus @ m3url</name>
+		<url>https://m3url.ru/Rus.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>S-net @ m3url</name>
+		<url>https://m3url.ru/s-net.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>SL @ tva.in.ua</name>
+		<url>https://tva.org.ua/ip/u/iptv_ukr.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>SNTV_iptv (Обновляемый)</name>
+		<url>https://bit.ly/3L9WduW</url>
+		<update_hours>0</update_hours>
+		<group>основной</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Sam @ tva.in.ua</name>
+		<url>https://tva.org.ua/ip/sam/sam-03-2021.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Shamil_Bro</name>
+		<url>https://www.dropbox.com/scl/fi/4cguthaanirgxa9hbqoac/Shamil_Bro.m3u8?rlkey=xdcwtuqqfvgxgvrwgs6e7388o&dl=1</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Siptv.eu(example)</name>
+		<url>http://siptv.eu/lists/example.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, world, обновляемый</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Smartoteka @ strannikmodz</name>
+		<url>https://strannikmodz.me/uploads/smartoteka.m3u</url>
+		<update_hours>12</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Smolnp IPTVru</name>
+		<url>https://smolnp.github.io/IPTVru//IPTVru.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Source @ m3url</name>
+		<url>https://m3url.ru/source.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Sport @ m3url</name>
+		<url>https://m3url.ru/Sport.m3u</url>
+		<update_hours>24</update_hours>
+		<group>sport, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Sports @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/sports-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>sport, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Stb.ge</name>
+		<url>http://stb.ge/tv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ge, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Stream @ samigiptv</name>
+		<url>http://samigiptv.ucoz.net/Stream2121.txt</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>TBmir</name>
+		<url>https://raw.githubusercontent.com/jura00/mytest.m3u/master/TBmir.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>TTV @ AVD</name>
+		<url>https://avdmono.do.am/AVD/TTV-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>TTV @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/TTV-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Topplay Adults</name>
+		<url>http://topplay.do.am/AdultsTopPlay.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Topplay FreeBest tv</name>
+		<url>http://topplay.do.am/FreeBestTV.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Topplay freeWorld</name>
+		<url>http://topplay.do.am/FreeWorldTV.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Troya</name>
+		<url>http://troya.today/pl/11/62a77fd7a1547/playlist.m3u8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Tva.in.ua</name>
+		<url>https://tva.in.ua/iptv/iptv_ukr.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, обновляемый</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Tvbox.one</name>
+		<url>https://www.tvbox.one/iptv/playlist.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Tvpremiumhd.club</name>
+		<url>http://tvpremiumhd.club/hd/tv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UA @ iptv-org</name>
+		<url>https://iptv-org.github.io/iptv/languages/ukr.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UA @ ott.blue</name>
+		<url>https://url.ott.blue/war</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UA Linux</name>
+		<url>http://iptv.ualinux.com/m3u/iptv_ualinux_mega.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, обновляемый</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UA reg</name>
+		<url>https://mater.com.ua/ip/ua+reg-14.08.21-ip.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UA2 @ samigiptv</name>
+		<url>http://samigiptv.ucoz.net/ukraine.txt</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>UADl</name>
+		<url>https://dl.dropbox.com/s/u9a0m18jmdr44tb/playlist_free.m3u8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Ua @ myplaylists</name>
+		<url>https://myplaylists.github.io/iptv/ua.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Ukr @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/Ukr-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Ukraine @ m3url</name>
+		<url>https://m3url.ru/Ukraine.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Urk @ m3url</name>
+		<url>https://m3url.ru/ukr.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Usa @ tviptv.ru</name>
+		<url>https://tviptv.site/upl/1_usa_2023.m3u</url>
+		<update_hours>24</update_hours>
+		<group>usa, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Uzbekistan @ AVD</name>
+		<url>https://avdmono.do.am/AVD/Uzbekistan.m3u</url>
+		<update_hours>24</update_hours>
+		<group>uz, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Uzbekistan @ m3url</name>
+		<url>https://m3url.ru/Uzbekistan.m3u</url>
+		<update_hours>24</update_hours>
+		<group>uz, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Viva Russia</name>
+		<url>http://viva-russia.ru/iptv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Woobl</name>
+		<url>https://dl.dropbox.com/s/zs5nkfqjz7c8jwj/iptv_full_playlist.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Youriptv</name>
+		<url>http://uiptv.do.am/pl/youriptv.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ZEN @ AVD</name>
+		<url>https://avdmono.do.am/AVD/ZEN-AVD.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Zabava @ iptvsmotri.ru</name>
+		<url>http://fork.iptvsmotri.ru/zabava.m3u8</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Zabava @ m3url</name>
+		<url>https://m3url.ru/zabava.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>alltv @ m3url</name>
+		<url>https://m3url.ru/alltv_111.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>avto-iptv-tva</name>
+		<url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
+		<update_hours>24</update_hours>
+		<group>films, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>empty180/IPTVrus/main/ekb.</name>
+		<url>https://raw.githubusercontent.com/empty180/IPTVrus/main/ekb.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>empty180/IPTVrus/main/ekb.</name>
+		<url>https://raw.githubusercontent.com/empty180/IPTVrus/main/ekb.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>empty180/IPTVrus/main/pishma</name>
+		<url>https://raw.githubusercontent.com/empty180/IPTVrus/main/pishma.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>fix-rom</name>
+		<url>http://fix-rom.ucoz.com/iptv_full_playlist.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>iloock</name>
+		<url>https://edemtv.my1.ru/ilook.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>iloock 2</name>
+		<url>http://c60e879f2dcb.faststreem.org/playlists/uplist/814ec891b59d5b67015397bf65d7bd3f/playlist.m3u8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ilook</name>
+		<url>https://ilook.epg.one/GNR4H3U46DQNX8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>iptv-org/iptv/master/streams</name>
+		<url>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>iptv.ucoz</name>
+		<url>https://iptv.ucoz.org/iptv_ru.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ua, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>live_5Dl</name>
+		<url>https://dl.dropbox.com/scl/fi/11dofsqizkkv7u9cn1sao/Live_5.m3u?rlkey=px9rag3hhctpxjkqg0r0u49kj</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ott club</name>
+		<url>https://edemtv.my1.ru/ottclub.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>pindostv </name>
+		<url>https://www.apsattv.com/rakuten.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>plush158</name>
+		<url>http://158.101.194.132:8080/playlist.m3u8?q=eyJ1c2VySWQiOiJBa3VkamkifQ.stFYGe-D7fLuWsranXPN4VmSqsoRLLASEQd9v-ppQSQS1a7A4S2sYc5B9X0ODyIo30SBnV6IGFvyVdiUprOc1Q</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>roman @ avdmono</name>
+		<url>https://avdmono.do.am/AVD/roman-avd.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ro, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>rp @ m3url</name>
+		<url>https://m3url.ru/rp.m3u</url>
+		<update_hours>24</update_hours>
+		<group>ru, ua, автообновляемые</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>santix</name>
+		<url>https://m3url.ru/santix_tv_.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>santix-tv.</name>
+		<url>https://www.dropbox.com/scl/fi/ggpduxik0438c3246lag5/santix-tv.m3u?rlkey=7j5a2kg4i7b8z914f6rdk6qz8&dl=1</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>tv-wd-2 @ m3url</name>
+		<url>https://m3url.ru/tv-wd-2.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>tv-wd-2 @ m3url</name>
+		<url>https://m3url.ru/tv-wd-2.m3u</url>
+		<update_hours>24</update_hours>
+		<group>world, автообновляемые, new</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ua Mater</name>
+		<url>https://mater.com.ua/ip/ua.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>ubuztv_M3u</name>
+		<url>https://m3u.in/uBuZtv.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>xxx M3url</name>
+		<url>https://m3url.ru/xxx_94.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Армения</name>
+		<url>https://edemtv.my1.ru/ucomhaykakan.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Дискография</name>
+		<url>http://sascha.ucoz.net/plst/radio/radio_po_ispolniteljam.m3u</url>
+		<update_hours>0</update_hours>
+		<group>радио</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Казхстан beetv VPN</name>
+		<url>https://edemtv.my1.ru/beetv.m3u</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>САНЕК</name>
+		<url>https://dl.dropbox.com/scl/fi/a5k0wkr42vwem0coxldl8/1.m3u?rlkey=58gg6tn8ss8d54iv1dgvm3myq&dl=0</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Украинское радио</name>
+		<url>http://sascha.ucoz.net/plst/radio/radio_ukrainy.m3u</url>
+		<update_hours>0</update_hours>
+		<group>ua, радио, обновляемый</group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>Шрамиль</name>
+		<url>https://github.com/Shamilbro/Shamil_bro/releases/download/ShamS.TV/Shamil_Bro.m3u8</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>⚽ Спорт IPTV</name>
+		<url>https://dl.dropbox.com/scl/fi/vfhlfx6ciw4bovbtann6z/telegram-gruppa-free-tv-sport.m3u8?rlkey=8j2c3jl5b9hbjbc8sbgh83t4h&dl=0</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+	<playlist>
+		<date>13.03.2024</date>
+		<name>💊 Торрент ТВ SHARED</name>
+		<url>https://dl.dropbox.com/scl/fi/yrc1lpomt612b4qvlowj9/TOPPEHT_TB.m3u?rlkey=1pi40ollx19ae0q7pag6r22gn</url>
+		<update_hours>0</update_hours>
+		<group></group>
+	</playlist>
+</playlists>
+
+<epgs>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.team/tvteam.xml.7.2</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Filmax-tv</name>
+		<url>https://filmax-tv.ru/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>https://iptvx.one/EPG</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>https://iptvx.one/EPG_LITE</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.geniptv.com/epg/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Bcumedia</name>
+		<url>http://bcumedia.pro/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Cineman</name>
+		<url>https://cineman.su/epg/epg_cineman.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Libertytv</name>
+		<url>https://libertytv.ru/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>https://iptvx.one/epg/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropbox.com</name>
+		<url>http://myott.top/api/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Api</name>
+		<url>http://api.catcast.tv/api/timetable/epg.xml?channel_ids=39161,38801,38821,38896,38850</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.it999.ru/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Cache</name>
+		<url>http://cache.lanet.tv/epg/xmltv_uk.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.team/tvteam.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.streaming-elbrus.su/xmltv/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Teleguide (Jtv)</name>
+		<url>http://teleguide.info/download/new3/jtv.zip</url>
+		<group>jtv,exussr,world</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Gabbarit</name>
+		<url>https://gabbarit.page.link/epg</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropbox.com</name>
+		<url>http://api.catcast.tv/api/timetable/epg.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.g-cdn.app/xmltv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptv-content</name>
+		<url>http://iptv-content.rv77.pw/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста www.dropbox.com</name>
+		<url>http://nasharu.tv/iptv/epg/epg_full.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Ottepg</name>
+		<url>https://1ottepg.my1.ru/xmltv.xml.gz</url>
+		<group>xmltv,exussr,world</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Www</name>
+		<url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.it999.ru/epg2.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropbox.com</name>
+		<url>https://epgx.site/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg-iptv</name>
+		<url>http://epg-iptv.ru/premiere-group.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropbox.com</name>
+		<url>http://iptvx.one/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.g-cdn.app/xmltv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Zuram Epg</name>
+		<url>http://epg.zuram.net/xmltv.xml.gz</url>
+		<group>xmltv,exussr,md,ro</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>http://iptvx.one/epg/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Bit</name>
+		<url>http://bit.ly/voc-tv</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Tapitv</name>
+		<url>http://tapitv.com/ttv.xmltv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Fiptv</name>
+		<url>https://fiptv.page.link/epg</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.it999.ru/epg2.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Idc Epg</name>
+		<url>http://iptv.idc.md/files/jtv.zip</url>
+		<group>jtv,exussr,world</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.tvfor.pro/epgtv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Triolan Epg</name>
+		<url>http://triolan.tv/App_Files/jtv.zip</url>
+		<group>jtv,exussr,world</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Klimedia</name>
+		<url>https://klimedia.space/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Ip-tv</name>
+		<url>https://ip-tv.dev/epg/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.it999.ru/epg.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.team/tvteam.xml.3.1</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.iptvx.tv/xmltv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.do.am/tv.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>https://iptvx.one/epg/epg_lite.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Fiptv</name>
+		<url>https://fiptv.page.link/lite-epg</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>List</name>
+		<url>https://list.playtv.pro/f/epg_vod.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Ottg</name>
+		<url>http://ottg.tv/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Nasharu</name>
+		<url>http://nasharu.tv/iptv/epg/epg_full.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.it999.ru/edem.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>List</name>
+		<url>https://list.satfor.pro/f/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>https://epg.greatiptv.cc/iptv.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Iptvx</name>
+		<url>https://iptvx.one/EPG.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Spacetv</name>
+		<url>http://spacetv.in/api/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>VocTV Epg</name>
+		<url>http://bit.ly/voc-tv</url>
+		<group>xmltv,exussr,world</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.roshen.live/tvguide.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropbox.com</name>
+		<url>http://152.228.154.144/api/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>EPG for Edem</name>
+		<url>http://epg.it999.ru/edem.xml.gz</url>
+		<group>xmltv,icons,exussr</group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Api</name>
+		<url>http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Из плейлиста dl.dropboxusercontent.com</name>
+		<url>http://epg.one/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Epg</name>
+		<url>http://epg.lightiptv.cc/epg.xml.gz</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>1lot</name>
+		<url>http://1lot.tv/epg/epg.xml</url>
+		<group></group>
+	</epg>
+	<epg>
+		<date>13.03.2024</date>
+		<name>Myott</name>
+		<url>http://myott.tv/api/epg.xml.gz</url>
+		<group></group>
+	</epg>
+</epgs>
+</wizard>
+<links>
+    
+    <link>
+      <date>01.05.2021</date>
+      <url>https://edemtv.my1.ru/</url>
+      <url_ref>https://t.me/iptvsuzukan2</url_ref>
+      <name>Техподдержка</name>
+      <comment>Техподдержка Телега.</comment>
+      <description>Новый lidwizard от группы GedemTV и от наших 
+IPTV-ШНЫХ ЗАКАДЫК IPTV# & LazyIPTV lidwizard-noext-☆GEDEMTV☆,👈🙃👉"ポルノブロック" ☆SuzuS☆, ☆«❖»❱❱❱SUZUKANTV❰❰❰«❖»☆, ☆ZEUS☆👉 "Само обновляемые бесплатные листы".👉•Сборник плейлистов iptv
+🗣• Для приложения LazyIptv# deluxe Wizard 🗣•☝️ Их надо самому добавлять.👉• Открой раздел wizard, добавь туда этУ ссылкУ:📌• НО☝️─➤Работоспособность листов зависит от их владельцев</description>
+      <group>iptv,service</group>
+    </link>
+    
+    <link>
+      <date>07.07.2020</date>
+      <url>https://edemtv.my1.ru/</url>
+      <url_ref>https://mssg.me/suzusgedemtv</url_ref>
+      <name>GEdemTV</name>
+      <comment>Мы предоставляем вам уникальную возможность для просмотра свыше 3000 каналов 100 руб 50 грн = $1 в месяц</comment>
+      <description>EdemTV - это один из самых дешёвых сервисов iptv. Cамых популярных ТВ каналов. для этого всего лишь необходимо иметь доступ к интернету. Возможность просматривать каналы на разных устройствах и разных системах. Огромный выбор постоянно пополняющихся каналов разных стран! И все это за 100 руб 50 грн $1 в месяц за все каналы!</description>
+      <group>iptv,service</group>
+    </link>
+
+    <link>
+      <date>01.05.2021</date>
+      <url>https://t.me/Che_iPTV</url>
+      <url_ref>https://t.me/Che_iPTV</url_ref>
+      <name>Chebur.Net iPTV</name>
+      <comment> ⚜️Chebur.Net iPTV⚜️ "БЕСПЛАТНЫЙ тест Iptv с самым полным пакетом каналов на 7 ДНЕЙ, хватай здесь".</description>
+      <group>iptv,service</group>
+    </link>
+    
+    <link>
+      <date>01.04.2021</date>
+      <url>https://ilook.tv</url>
+      <url_ref>https://ilook.tv/welcome/signup/e2b3dc99e9dc4c10</url_ref>
+      <name>iLookTV</name>
+      <comment>За $1 в месяц, вы получаете более 2000 каналов + архив телепередач на все каналы за 4 дня.</comment>
+      <description>Ilook TV — это современное решение по просмотру любимых телеканалов в любой точке планеты по средствам технологи IPTV (ОТТ). Это новый проект Эдем TV, iptv сервер ilooktv является по своей сути ребрендингом, уже известного iptv сервера Эдем. После регистрации на сайте ilook-TV, на 1 день Вам будет доступен бесплатно полный пакет каналов, для тестирования и ознакомления с сервисом. После чего, Вы сможете продлить подписку или отказаться отказаться.</description>
+      <group>iptv,service</group>
+    </link>
+        
+  </links> 
