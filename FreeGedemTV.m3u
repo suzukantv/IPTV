@@ -247,8 +247,6 @@ https://mults.info/mp4/vasilisa_mikulishna.mp4
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/1HD.png",1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/1HD.png",1HD
-https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",1HD Music
 http://sc.id-tv.kz/test.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="http://epg.one/img2/4037.png",1HD Music Television
@@ -557,8 +555,6 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 http://135.181.115.81:8000/play/a00s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/ejRJqSI.png",A&R Canal Adventista (720p)
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/yOW0vyP.png",A+ Ivoire (720p)
-http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/A1.png",A1
 http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="../Channel/Logo/A1 HD.png",A1 HD
@@ -605,8 +601,6 @@ https://c.mjh.nz/abc-me.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 group-title="International",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="Австралия | Australia 🇦🇺" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News Australia (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News Live
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 #EXTINF:-1 group-title="International",ABC News Live 1 (720p)
@@ -2054,10 +2048,6 @@ http://ibb-media4.ibb.gov.tr:1935/live/131.stream/chunklist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
 http://ibb-media4.ibb.gov.tr:1935/live/135.stream/chunklist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
-http://ibb-media4.ibb.gov.tr:1935/live/136.stream/chunklist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
-http://ibb-media4.ibb.gov.tr:1935/live/137.stream/chunklist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
 https://5d881567b7568.streamlock.net/live/Steenuil2Binnen.stream/chunklist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
 http://stream.elblag.net:18080/mosir/index.m3u8
@@ -2607,8 +2597,6 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 group-title="Арабские | عربي" tvg-logo="https://i.imgur.com/U9z8WBY.png",CharityTV (1080p) [Not 24/7]
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-#EXTINF:-1 group-title="Франция | France 🇫🇷",Charlotte aux Fraises
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60dc6937b450ad0007377e48/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=647718a5-2915-4d3e-af3e-84f437cb7b7e
 #EXTINF:-1 group-title="International",Charrúa Televisión (720p)
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",CHCO-TV (720p) [Geo-blocked]
@@ -2619,8 +2607,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee87-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24ad2bd4-299f-4716-aef9-02a85807bad5
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Cheers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb7f0db2eb30007376d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799155-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=794ad915-7321-49a1-8f52-1d90f588cfd9
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/xIlF92v.png",Cheers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d96d22d-3148-4e7e-b0e9-67b35648c724
 #EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/F1it6fh.png",Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV (480p)
@@ -2739,14 +2725,6 @@ http://tkosportz.live:25461/6066278099/buddyburnette/97229
 http://tkosportz.live:25461/6066278099/buddyburnette/97230
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 13 FHD
 http://tkosportz.live:25461/6066278099/buddyburnette/97231
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 14 FHD
-http://tkosportz.live:25461/6066278099/buddyburnette/97232
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 15 FHD
-http://tkosportz.live:25461/6066278099/buddyburnette/97233
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 16 FHD
-http://tkosportz.live:25461/6066278099/buddyburnette/97234
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 17 FHD
-http://tkosportz.live:25461/6066278099/buddyburnette/97235
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 18 FHD
 http://tkosportz.live:25461/6066278099/buddyburnette/97236
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",CineMania Hollywood 19 FHD
@@ -4289,100 +4267,6 @@ http://edge02.odtv.az/o3/istoriya/playlist.m3u8
 http://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
 http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/U-MyTIU00L3VBtyMudlqYQ/1729620684/2391/0x5000c500f2b43337/d67559e76b5443bea16336bf56faf95f.mp4.m3u8?i=3840x2160_43614
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/I_yTEh1SxKWWnnmHlfL-Gg/1729620676/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/_8SIr41Hi7Yb2Vg-DnKzLQ/1729620689/2211/0x5000c500e6995753/9db95b7858c347348a200119379788af.mp4.m3u8?i=3840x2160_21989
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/R-4RqIJdeQ8LIyUQA7cFhQ/1729620671/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/HMEYUQ37P_ESwg6jy3XmQA/1729620679/1786/0x5000c500c4dfacbe/dceb5bc875f842a59f490722403c46cd.mp4.m3u8?i=1280x720_7221
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/0G5VXOSsFHXnrqbIfyAQ-g/1729620696/1832/0x5000c500c922666b/abada6c634ff488db2e1b0dd9a2b9b3e.mp4.m3u8?i=3840x2160_24551
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/EA1hHBre90h1S3pFzDUO5A/1729620673/2211/0x5000c500e72ad81b/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160_22872
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/JAiCZpo64pus-rD11uddJQ/1729620677/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160_29461
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/0sOazRkZ7susVbdmnluN0w/1729620699/1780/0x5000c500db534d37/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160_22813
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/FXr9T9_sprmws0dITdlyLQ/1729620681/2185/0x5000c500e684f914/e7e20f314a5b473e89887400d316bb49.mp4.m3u8?i=3840x2160_18313
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/1OHZ03D4iT0NczaedeO1Wg/1729620692/2201/0x5000c5007446b38a/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160_32942
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/Fg9IBRIfph79DWa7hPCWzA/1729620683/1859/0x5000c500e5356d38/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/7UWKOEnmOlEnkhHj_WoSqA/1729620680/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160_19712
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/sY0cR06eMnVBWd5Hy2EySQ/1729620698/2177/0x5000c500e7511b89/d63189c8aecd49699d9e0db5a7302ee4.mp4.m3u8?i=3840x2160_30250
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/JwsiysrDBtlbkd4_JbEptw/1729620685/1780/0x5000c500c3527c11/cad2b76eaaa84797b8543b7cae4ac2f1.mp4.m3u8?i=3840x2160_26198
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/NnOiPkqHW8C22hlfShMTcg/1729620706/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/-D9saBHGmu1x2Nj6bu7HTQ/1729620707/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/KiJiE5KXY9ObM14V1Pop8g/1729620713/1820/0x5000c500c3e64d56/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/V0Yd1_KorESJyafVwxNhMQ/1729620717/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/ZaGBmvpBMeMX4P6zm7gF7w/1729620691/1790/0x5000c500db14be00/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/qEgt0-3aetYtPgkTpiPueA/1729620731/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/i8VUV6Xl10ua6lXesU3YdQ/1729620709/1792/0x5000c500dba52688/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/XSssukEzI4y8jQPjl3ch1w/1729620737/1865/0x5000c500e53951e2/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/FpOauersgE3FzbxmJJ9eAw/1729620735/1871/0x5000c500e511605b/5fc452403be54483bc4c8c5b19ee7742.mp4.m3u8?i=3840x2160_16319
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/41uCw9kYulHLN_tk4MUuMg/1729620726/1798/0x5000c500dbb6334e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/jq9zbj0EgQhj-Cu0672y3A/1729620739/1764/0x5000c500dcea0ef9/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/VVhN0gWcfiK16RmM91PQiQ/1729620670/1859/0x5000c500e53c6fdf/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/kfyzvvsnJ5xcQ4-xfUVwAw/1729620719/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/TU0GppPIwEEvgICq-P-X9g/1729620701/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/E8C2f_dOzZA7OHlfsf8Tlg/1729620716/1792/0x5000c500c2b7894b/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/jQ4MNKTiu2Xs_4MpX8TL6g/1729620721/1899/0x5000c500e51127eb/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/cuu-4Fsajv_9UyNpo9MhmA/1729620703/1865/0x5000c500e537c2c8/ba01d890ec944bdcb082cffe9bbdf1b2.mp4.m3u8?i=3840x2160_27042
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/9MEZ_NJtREbBLkY5Xmq8fg/1729620742/1834/0x5000c500db000b92/403549b2e2354f1595a7dbb9b7f8478c.mp4.m3u8?i=1920x1080_7958
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/SXT5L-s7n-oqDUdAqERM5A/1729620725/1846/0x5000c500c7262c36/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/QHtyo3pkLsUwjS0DDQCENw/1729620712/1826/0x5000c500c432e5a6/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/_oLG6D_5_6GStrpnIr3EqQ/1729620723/1832/0x5000c500c49bad1b/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160_16178
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/bHWyWkYYlieW7_RIoxn4FA/1729620720/1764/0x5000c500e34cbd12/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/Z6tMDBAmFKHAn9q8WpToDg/1729620694/1766/0x5000c500e3493e2d/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160_17089
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/b2cyBoizTwM3Ep8qF3hIHQ/1729620741/1832/0x5000c500c3cf2bf8/d45abdfeb45549659cbcaabe82f06b07.mp4.m3u8?i=1920x1080_10932
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/JJrNJGWFdp1E7LEGheUP1g/1729620714/1893/0x5000c500e539c5d1/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/9QQhZGqhFXqZU8OgyplWlQ/1729620740/1822/0x5000c500c8c54e6e/6af8cef44f914cc7aedc3965a294e385.mp4.m3u8?i=1920x1080_3714
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/33uuCjLQ17wHZ_2NOaKL3g/1729620734/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/nUOHzvRPRuPiP1plqCbZRw/1729620695/1780/0x5000c500c8e66220/9b3049d858f744bb9212feff045bc341.mp4.m3u8?i=3840x2160_24383
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/FiKkKFVBQ4315IBuADwyHw/1729620687/1822/0x5000c500c9978ccd/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/lYTW0xjsKH8LdbU9wyIqFA/1729620732/1822/0x5000c500db176770/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/Yq0HUV9ouGHGM4fq12wtSw/1729620722/1796/0x5000c500c99753ea/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160_17442
-#EXTINF:-1 group-title="EXTVLCOPT Релакс 🏝",EXTVLCOPT
-https://river-1.rutube.ru/hls-vod/ZnXxR184nv6jkr4MCcAhqA/1729620700/2395/0x5000c500f2b435eb/e95a64a11f52468fa5ea91ac552b1f5f.mp4.m3u8?i=3840x2160_74994
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",F.B.I. Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1db1d0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c68735b3-0d52-4773-a642-eee6dbdabda0
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",F.B.I. Files
@@ -6145,8 +6029,6 @@ http://grets.co21.net:2082/play/live.php?mac=00:1A:79:70:82:1F&stream=30865&exte
 http://178.124.179.122:8088/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",KHL HD
 http://80.94.225.126:8080/KHLTVHD/mono.m3u8?token=test
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",KHL Prime FHD
-http://95.216.40.210/khlhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",KHL Prime HD
 http://95.142.88.250:80/KHL_TV/index.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Kid Squad
@@ -6367,8 +6249,6 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",La Grosse Radio Meta
 http://ice1.lagrosseradio.info/lagrosseradio-metal-192.mp3
-#EXTINF:-1 group-title="International",La Hora TV
-https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/UdMsgkt.png",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/XIwTM1h.png",LA MIA TV (720p) [Not 24/7]
@@ -7095,12 +6975,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad2127ef83900085f8910/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb628-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e56c1fd6-210e-4009-bdfa-feed08d1e2f1
 #EXTINF:-1 group-title="Швейцария | Switzerland",Mork vom Ork
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad2127ef83900085f8910/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65c6f571-a832-4e6a-89d5-575b49a65c62
-#EXTINF:-1 group-title="International",Morro Bay Channel 20 (480p)
-https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
 #EXTINF:-1 group-title="Арабские | عربي" tvg-logo="https://i.imgur.com/GDUykah.png",Mosaïque FM (480p) [Not 24/7]
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Most Video HD
-http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Motion Fm
 https://vm.motionfm.com/motiontwo_free
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
@@ -7705,8 +7581,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1166-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13c43849-7db8-4ef1-bfef-74e513441e1a
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f08-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c15d1002-05a1-4c9d-82b6-2c554bbbf97f
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/tyHDvK8.png",Nick Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3870-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=049a72e8-4188-4f01-bc67-f697b36df6c5
 #EXTINF:-1 group-title="Детские 👶",Nick Teen
@@ -7909,8 +7783,6 @@ https://helga.iptv2022.com/NTI_Television/index.m3u8
 http://5.56.77.9:50000
 #EXTINF:-1 group-title="International",NTV (720p)
 https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1 group-title="Узбекистан | UZ",Ntv UZ
-https://stream1.cinerama.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Арабские | عربي" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg",NUBAR Plus TV (720p)
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 group-title="Арабские | عربي" tvg-logo="https://i.imgur.com/h4LWHr5.png",NUBAR TV (1080p)
@@ -10449,8 +10321,6 @@ https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
 http://icecast.livetv.az:8000/yurdfm
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio ZigZag
 http://radiocast.rtp.pt/zigzag80a.mp3
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Ziniur
-https://netradio.ziniur.lt/ziniur.mp3
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio: FAMA Kielce
 http://stream2.nadaje.com:8076/;
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio: FAMA Tomaszуw
@@ -10733,8 +10603,6 @@ https://stream01.pcradio.ru/record_raphits-med
 https://stream01.pcradio.ru/record_rave_fm-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Remix
 https://stream01.pcradio.ru/record_remix-med
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Rock
-https://stream01.pcradio.ru/record_rock-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Russian Gold
 https://stream01.pcradio.ru/record_rusgold-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Tech House
@@ -10747,8 +10615,6 @@ https://stream01.pcradio.ru/record_techpop-med
 https://stream01.pcradio.ru/record_tecktonik-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Trancehouse
 https://stream01.pcradio.ru/record_tranhouse-med
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Uplifting
-https://stream01.pcradio.ru/record_uplift-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Веснушка FM
 https://stream01.pcradio.ru/record_vesnush-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Record Гоп FM
@@ -11133,8 +10999,6 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="International",RTRS Plus (576p) [Not 24/7]
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/YypHsF4.png",RTS 2 (720p)
-http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 group-title="Италия | Italy 🇮🇹",Rttr
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="International",RTV (1080p)
@@ -11147,8 +11011,6 @@ https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/TBAtPH6.png",RTV Bap (480p)
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 group-title="International",RTV Caraibes (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",RTV Dordrecht (480p)
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱" tvg-logo="../Channel/Logo/RTV Drenthe.png",RTV Drenthe
@@ -11541,8 +11403,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Sitcom Legends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb091-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=54f06638-b224-4723-bc88-9b4986c6cd72
-#EXTINF:-1 group-title="Швейцария | Switzerland" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="International",SIXO TV (360p)
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",SIXX HD
@@ -12175,8 +12035,6 @@ https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 https://usa6.fastcast4u.com/proxy/sjtbhd?mp=/1
 #EXTINF:-1 group-title="International",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 group-title="Арабские | عربي" tvg-logo="https://i.imgur.com/iBAhM2v.png",Tanasuh TV (1080p)
-https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Tanz FM
 https://stream01.pcradio.ru/tanzfm_ru-med
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Taraz 24 (Тараз)
@@ -12205,8 +12063,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 group-title="International",TBD. (720p)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 group-title="Турция | Türk 🇹🇷",TBMM TV (720p)
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",TBN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232
 #EXTINF:-1 group-title="International",TBN Asia (360p)
@@ -12645,8 +12501,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=783c6417-7359-42c8-af71-bebb9ae0e7b6
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Thrillers 365
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6da41afad500077e9178/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7786-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26fc9e3f-7675-48b8-bf64-46d20af3ec80
-#EXTINF:-1 group-title="Австралия | Australia 🇦🇺",Ticker News (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="International",Tide TV (1080p)
@@ -13023,8 +12877,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/4yZV72X.png",TV Arad (720p)
-https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 #EXTINF:-1 group-title="International",TV Arbëria 1 (720p)
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸",TV Artequatre (576p)
@@ -13085,8 +12937,6 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://i.imgur.com/58EQ5qX.png",TV do Povo (540p)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия | Brasil",TV Educativa de Porto Alegre HD
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия | Hungary 🇭🇺",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",TV Ellef (1080p)
@@ -13385,10 +13235,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-#EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVE RS (1080p)
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 group-title="Италия | Italy 🇮🇹",TVI Ficção (480p) [Geo-blocked]
@@ -13875,14 +13721,10 @@ http://91.205.199.3/viasatexplorer/tracks-v1a1/mono.m3u8
 http://91.205.199.3/viasatexplorer/index.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="http://epg.one/img2/521.png",viju Explore
 https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Viju Explore
-http://91.207.115.228:12000/play/a02j
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="http://epg.one/img2/521.png",viju Explore HD
 http://87.99.87.203:2007/channel/n2df545ab/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="http://epg.one/img2/277.png",viju History
 https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍",Viju History
-http://91.207.115.228:12000/play/a02k
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="http://epg.one/img2/765.png",viju Nature
 https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍",Viju Nature
@@ -13909,8 +13751,6 @@ http://158.101.214.187:8080/channel/n51877d66/index.m3u8?q=b3aed6023d7c12e2be7c0
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.one/img2/267.png",Viju TV1000 Русское
 http://45.143.108.104/TV1000RU_HD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Viju TV1000 Русское
-http://91.207.115.228:12000/play/a010
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://i.imgur.com/Meak2y4.png",viju Русское кино
 http://82.209.197.187:8080/udp/239.0.100.82:1234
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.one/img2/1011.png",Viju+ Comedy
@@ -14109,8 +13949,6 @@ https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 group-title="International",WCBI (News)
 https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
-#EXTINF:-1 group-title="International",WCCV-DT1 (CDM TV) (480p) [Not 24/7]
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 group-title="International",WDEF-TV News Chattanooga TN (720p)
 http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",WDR Fernsehen Aachen (720p) [Geo-blocked]
@@ -15287,8 +15125,6 @@ https://mults.info/mp4/karusel_21.mp4
 https://mults.info/mp4/karusel_22.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весёлая карусель № 23 1991г.
 https://mults.info/mp4/karusel_23.mp4
-#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/Ветта 24 (Пермь).png",Ветта 24 (Пермь)
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Вещдок
 http://158.101.214.187:8080/channel/238e5c10/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Вещдок
@@ -16231,8 +16067,6 @@ https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Казахстан 24
 https://stream1.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Казахстан Актау
-http://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Казахстан Актобе
 http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Казахстан Атырау
@@ -16878,8 +16712,6 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/83/hls/pl.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ
 http://80.94.225.126:8080/KuhnyaTV/mono.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ
-http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ
 http://93.125.121.75:80/KuhnyaTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Кухня ТВ.png",КУХНЯ ТВ
 http://77.235.1.17/kuhnya/index.m3u8
@@ -17509,8 +17341,6 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/81/hls/pl.m3u8
 https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/Музыка первого.png",Музыка первого
 http://91.205.199.3:80/roos-muzika1/manifest.m3u8
-#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/Музыка первого.png",Музыка Первого
-http://91.207.115.228:12000/play/a03b
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Музыкальный магазинчик 1989г.
 https://mults.info/mp4/muzykaljny_magazinchik_1989.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мук-скороход
@@ -19541,8 +19371,6 @@ http://listen7.myradio24.com:9000/bolshevek
 https://stream01.pcradio.ru/radioshockru-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Шоколад (Нижний Новгород)
 http://online2.gkvr.ru:8000/chocolate_nno_128.aac
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Эрмитаж
-https://stream01.pcradio.ru/radio_hermitage-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Юмор FM
 http://ic7.101.ru:8000/v5_1
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Юмор FM (Абакан)
@@ -20575,8 +20403,6 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/91/hls/pl.m3u8
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман
 http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Русский роман.png",Русский Роман
-http://91.207.115.228:12000/play/a00v
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Русский Рэп 18+
 https://stream01.pcradio.ru/Rap-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Русское
@@ -20883,8 +20709,6 @@ https://stream01.pcradio.ru/spravedlivo-med
 https://stream01.pcradio.ru/sputnik_ria_ru-med
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="http://epg.one/img2/9083.png",Среда HD
 http://8c902592.rossteleccom.net/iptv/DSY4CY6M8DWFS6/16002/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Старт HD
-http://95.216.40.210/start/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",СТАРТ ТРИУМФ
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Старые знакомые
@@ -21007,8 +20831,6 @@ http://178.124.179.122:8088/Malish/index.m3u8
 http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские 👶",Супергерои
 http://95.142.88.250:80/SuperGeroi/index.m3u8
-#EXTINF:-1 group-title="Детские 👶",Супергерои
-http://91.207.115.228:12000/play/a01y
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Суспільне Київ
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33761/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Суспільне Київ HD
@@ -21079,8 +20901,6 @@ https://stream01.pcradio.ru/Tatu-med
 https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ-3.png",ТВ-3
 http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ-3 HD.png",ТВ-3 HD
-https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
@@ -21253,8 +21073,6 @@ http://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 https://stream01.pcradio.ru/tm26_online-med
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",ТНВ Планета. Elemental
 http://87.99.87.203:2007/channel/137e7f44/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/ТНВ Татарстан.png",ТНВ Татарстан
-http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/ТНВ Татарстан.png",ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТНТ.png",ТНТ
@@ -21889,10 +21707,6 @@ http://5.188.172.179/Shant/index.m3u8
 http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="International",⚽ GsTV
 https://owifavo5.rocketcdn.com/gstv/gstv/chunklist.m3u8
-#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",三明公共 (720p) [Not 24/7]
-https://stream.smntv.cn/smtv2/playlist.m3u8
-#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",三明新闻综合 (720p) [Not 24/7]
-https://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",上虞1新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",上虞1新闻综合 (720p) [Not 24/7]
@@ -21905,8 +21719,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",中国气象 (576p) [Not 24/7]
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",丰宁综合
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
