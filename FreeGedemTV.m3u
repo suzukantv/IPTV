@@ -564,8 +564,6 @@ https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/A2.png",A2
 http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/A2.png",A2
-http://91.205.199.3:80/amedia2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/A2.png",A2
 http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
@@ -959,8 +957,6 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/25386/hls/pl.m3u8
 http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
 http://45.143.108.104/AMEDIA2_HD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
-http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
 http://93.189.224.24/Amedia2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
@@ -1363,8 +1359,6 @@ http://5.191.241.101:8000/avtofm
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Awkward
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca062-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50a5387f-9836-4d86-abe5-44dbc233ba2e
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Awkward
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5692-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2c2d7cc-7d4d-4255-a842-24443e529840
 #EXTINF:-1 group-title="Швейцария | Switzerland",Awkward
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82e214-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06497a37-2586-4025-8811-148a0db9d501
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Ax Men
@@ -1719,8 +1713,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70bd007d-e40d-4b1d-9a2b-bdc5dfd3741f
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Blaze und die Monstermaschinen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc776-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6481e761-19c2-4479-848a-03b08cd2ee8e
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Blaze und die Monstermaschinen
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4041af9-036d-4b63-bc69-460e45fdcf98
 #EXTINF:-1 group-title="Швейцария | Switzerland",Blaze und die Monstermaschinen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833032-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6651ade0-7e17-4dfd-b123-6e44ad87b240
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",BLK TV
@@ -3369,8 +3361,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a566-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ee4d2e15-28c7-48f8-873c-62c0e7583103
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Der Hundetrainer
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634924e185427200076c67f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ecf04f3-2353-4392-9bb9-6a1be8a5f054
-#EXTINF:-1 group-title="Швейцария | Switzerland",Der Hundetrainer
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634924e185427200076c67f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83cc70-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dded114e-3789-4ba1-b3e8-2d43d8b7c771
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Desi Play TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c7c122808b7400075c070f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0680-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b39071e5-3029-4bb5-90be-39bd80bbc6a6
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",DetectiveJam HD
@@ -3645,6 +3635,8 @@ https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
 https://stream01.pcradio.ru/Drum_n_Bass-med
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="../Channel/Logo/dstv.png",DSTV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/dstv.png",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 group-title="International",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",DSTV [hu]
@@ -3857,8 +3849,6 @@ http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Испания | Spain 🇪🇸",Elche 7 TV (576p)
-https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 group-title="International",Electric Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",ELECTRO [rs] [1024x576]
@@ -5899,8 +5889,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f17-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06cb634-30f9-492b-b1b6-c1c3af23164b
 #EXTINF:-1 group-title="Швейцария | Switzerland",Just.fishing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8441a4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4054ebe5-daab-4ba7-b43b-a2cf1cd66202
-#EXTINF:-1 group-title="Франция | France 🇫🇷",Juste pour Rire
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 #EXTINF:-1 group-title="International",Jászsági Térségi TV (440p)
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/lRy231d.png",K-Content by CJ ENM
@@ -7586,8 +7574,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 group-title="Детские 👶",Nick Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Nick Ukraine
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622882350f6aad0008c76e77/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3871-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=27a14e4a-a17d-41ca-bcdb-02eba6ccff9a
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Nick Ukraine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622882350f6aad0008c76e77/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5261-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b3b9970c-0d30-47d7-83dd-c40190676ffa
 #EXTINF:-1 group-title="Швейцария | Switzerland",Nick Ukraine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622882350f6aad0008c76e77/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3eeea5fc-8510-4fa4-8566-3ce999210f9e
@@ -7969,8 +7955,6 @@ https://ms2.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/playli
 https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",Omroep Land van Cuijk (720p)
 https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
-#EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",Omroep Lingewaard (720p)
-https://58c04fb1d143f.streamlock.net/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",Omroep Meierijstad (480p)
 https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱",Omroep Ons West Brabant (480p)
@@ -9417,8 +9401,6 @@ http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Италия | Italy 🇮🇹",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 group-title="International",Radio Isla TV (720p)
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/Radio Italia.png",Radio Italia
@@ -10007,16 +9989,12 @@ https://live.radiospinner.com/chill-edm-64
 https://live.radiospinner.com/chllhs-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Chillhop
 https://live.radiospinner.com/chill-hop-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Chillout Dreams
-https://live.radiospinner.com/chillout-dreams-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Chillstep
 https://live.radiospinner.com/chillstep-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Christmas EDM Room
 https://live.radiospinner.com/chrstmsrm-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Classic Eurodisco
 https://live.radiospinner.com/clsscrdsc-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Classic Jazz
-https://live.radiospinner.com/classic-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Classical Guitar
 https://live.radiospinner.com/clssclgtr-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Classical Piano
@@ -10025,14 +10003,10 @@ https://live.radiospinner.com/clssclpn-64
 https://live.radiospinner.com/club-sounds-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Club Dance 00s
 https://live.radiospinner.com/clu00dance-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Coffee Jazz
-https://live.radiospinner.com/coffee-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Cool Jazz
 https://live.radiospinner.com/cool-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Costa Del Mar
 https://live.radiospinner.com/costdemar-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Current Jazz
-https://live.radiospinner.com/current-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - David Guetta
 https://live.radiospinner.com/dvdgtt-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Deep House
@@ -10073,8 +10047,6 @@ https://live.radiospinner.com/ndchll-64
 https://live.radiospinner.com/ndppht-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Latin House
 https://live.radiospinner.com/lathouse-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Latin Jazz
-https://live.radiospinner.com/latin-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Latin Pop Hits
 https://live.radiospinner.com/ltnpphts-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Lofi Chill
@@ -10097,8 +10069,6 @@ https://live.radiospinner.com/nature-64
 https://live.radiospinner.com/nclssclwv-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - New Age Wave
 https://live.radiospinner.com/nwagewv-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Night Jazz
-https://live.radiospinner.com/night-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Nightcore Beats
 https://live.radiospinner.com/nghtcrbts-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Nu Disco
@@ -10111,8 +10081,6 @@ https://live.radiospinner.com/rntldphs-64
 https://live.radiospinner.com/prsjzzcf-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Party 80s
 https://live.radiospinner.com/80sprty-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Piano Jazz
-https://live.radiospinner.com/piano-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Pop Cover Hit
 https://live.radiospinner.com/cvrhts-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Pop Hits
@@ -10139,8 +10107,6 @@ https://live.radiospinner.com/saxophone-jazz-64
 https://live.radiospinner.com/smooth-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Smooth Lounge
 https://live.radiospinner.com/smthlng-64
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Smooth Vocal Jazz
-https://live.radiospinner.com/smooth-vocal-jazz-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Soft Rock
 https://live.radiospinner.com/sftrck-64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Synth Pop
@@ -11353,6 +11319,8 @@ https://live.shoppingntmall.com/live/10011.m3u8
 http://95.142.88.250:80/SHOT_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Shot TV.png",Shot TV
 http://91.207.115.228:12000/play/a03j
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Shot TV.png",Shot TV
+http://de.seetv.cc/play/150/996DA9781004412/video.m3u8
 #EXTINF:-1 group-title="⓵ TEST SHLYAPA TV Media" tvg-logo="http://epg.one/img2/431.png",Shot TV HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/84903/hls/pl.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/shobet.png",SHOW X BET
@@ -12715,12 +12683,8 @@ https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Totally Teen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b52-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5daca1df-3fee-4d6a-bb51-db90cf28ee93
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Totally Turtles
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e95265c9fd030007268fb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46f7cece-d4f5-4869-a9e4-bba83d8e7e96
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/XehshcW.png",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 group-title="Швейцария | Switzerland",Totally Turtles
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc868b95-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ee5356-efd5-40b6-a90d-5e5fdd74abb1
 #EXTINF:-1 group-title="США | USA PindosUnited States",TOTALLY TURTLES
@@ -13095,10 +13059,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/play
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV XXI.png",TV XXI
 http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV XXI.png",TV XXI
-http://80.94.225.126:8080/TVXXI/mono.m3u8?token=test
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV XXI.png",TV XXI
-http://93.125.121.75:80/TVXXI/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",TV XXI ВЕК
 http://91.205.199.3:80/tvxxi/index.m3u8
 #EXTINF:-1 group-title="Болгария | Bulgaria 🇧🇬",TV Zagora
@@ -13151,8 +13111,6 @@ https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 http://86.57.198.251:8181/play/1015/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV1000 Русское кино.png",TV1000 Русское Кино
 http://77.235.1.17/tv1000_russkoe_kino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV1000 Русское кино.png",TV1000 Русское кино
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV1000 Русское кино.png",TV1000 Русское Кино
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="International",TV2 Fyn (720p) [Not 24/7]
@@ -13641,8 +13599,6 @@ http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
 #EXTINF:-1 group-title="⓵ TEST SHLYAPA TV Media" tvg-logo="http://epg.one/img2/9066.png",Viasat Kino Megahit HD
 http://8c902592.rossteleccom.net/iptv/DSY4CY6M8DWFS6/14141/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
-http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
@@ -14615,8 +14571,6 @@ http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_194
 http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_458
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Авторадио (Уфа)
 http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_200
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Авторадио (Хабаровск)
-http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_202
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Авторадио (Чаны)
 http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_443
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Авторадио (Чебоксары)
@@ -14921,6 +14875,8 @@ http://80.94.225.126:8080/Bober/mono.m3u8?token=test
 http://93.125.121.75:80/Bober/index.m3u8?token=test
 #EXTINF:-1 group-title="Религиозные 🧿",Бог Благ ТВ
 https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Боевики
+http://fs2.persik.by/Boeviki_13/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Божья коровка
 https://stream01.pcradio.ru/Bozhja_Korovka-med
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Бокс ТВ.png",Бокс ТВ
@@ -15125,6 +15081,8 @@ https://mults.info/mp4/karusel_21.mp4
 https://mults.info/mp4/karusel_22.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весёлая карусель № 23 1991г.
 https://mults.info/mp4/karusel_23.mp4
+#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/Ветта 24.png",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Вещдок
 http://158.101.214.187:8080/channel/238e5c10/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Вещдок
@@ -15163,6 +15121,8 @@ https://stream01.pcradio.ru/Vintage-med
 https://mults.info/mp4/vitamin_rosta.mp4
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Витас
 https://stream01.pcradio.ru/Vitas-med
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Вицин
+http://fs2.persik.by/Vicin_8/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Владимир Высоцкий
 https://stream01.pcradio.ru/Visotskiy-med
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Влюбчивая ворона 1988г.
@@ -15945,6 +15905,8 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Известные актёры
+http://fs2.persik.by/Izvestnie_akteri5/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",Измаил ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",или Проделки ведьмы 1991г.
@@ -16245,6 +16207,8 @@ http://80.94.225.126:8080/KVNTV/mono.m3u8?token=test
 http://93.125.121.75:80/KVNTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/КВН ТВ.png",КВН ТВ
 http://77.235.1.17/kvn_tv/index.m3u8
+#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/КВН ТВ.png",КВН ТВ
+http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡",КВН ТВ [720x576]
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Кекс (Москва)
@@ -16267,6 +16231,8 @@ http://77.235.1.17/kineko/index.m3u8
 http://91.205.199.3:80/tochkaotriva/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",КИНЕКО HD
 http://s1.merlive.am:80/kineko/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино + Subtitles
+http://fs2.persik.by/Kino_Subtitry_10/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кино 1 International.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кино 1 International.png",Кино 1 International
@@ -16275,6 +16241,8 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 http://rr3.vipshara-iptv.com/~109e1a3c05fcad5b22d13b9453dc0db5122/84992/hls/pl.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино без границ
 http://88.218.242.237:8000/play/a009
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино выходного дня
+http://fs2.persik.by/Kino_vihodnogo_dnia7/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кино ТВ.png",Кино ТВ
@@ -16527,6 +16495,8 @@ https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 group-title="⓵ TEST SHLYAPA TV Media" tvg-logo="../Channel/Logo/Комедийное HD.png",Комедийное HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/1667/hls/pl.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Комедийные сериалы
+http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡",КомедиКазахстан HD (RUS)
 http://87.99.87.203:2007/channel/7f6ef267/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Комедия.png",Комедия
@@ -16771,6 +16741,8 @@ https://stream01.pcradio.ru/Laskovyj_maj-med
 https://stream01.pcradio.ru/Latino-med
 #EXTINF:-1 group-title="Детские 👶",Лева
 http://91.205.199.3/planb/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Легкое кино
+http://fs2.persik.by/Legkoe_Kino9/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="../Channel/Logo/Лен ТВ 24.png",Лен ТВ 24
 http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/Лен ТВ 24.png",Лен ТВ 24
@@ -16853,6 +16825,8 @@ http://live.maestrofm.md:8000/rr_balti
 http://live.maestrofm.md:8000/ruradio
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",Любимый HD
 http://77.235.1.17/lubimiy_hd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Любовь и Детективы
+http://fs2.persik.by/Lubov_Detektivi7/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Любовь Успенская
 https://stream01.pcradio.ru/Ljubov_Uspenskaja-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Любэ
@@ -16899,8 +16873,6 @@ https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 http://65.21.85.175:8000/play/a01l/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Мама.png",МАМА
 http://80.94.225.126:8080/Mama/mono.m3u8?token=test
-#EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Мама.png",МАМА
-http://93.125.121.75:80/Mama/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Мама.png",Мама
 http://91.207.115.228:12000/play/a01x
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мама для мамонтенка
@@ -17721,6 +17693,8 @@ https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 http://87.99.87.203:2007/channel/c94a78e/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Новые бременские
 https://mults.info/mp4/novye_bremenskie.mp4
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Новые комедии
+http://fs2.persik.by/Novie_Komedii7/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/Новый век (Тамбов).png",Новый Век (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",Новый век HD(Тамбов)
@@ -18435,6 +18409,8 @@ http://iptv.prosto.tv:7000/ch303/video.m3u8
 http://84.200.70.180:4642/bysid/6950
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/2212.png",Прямий HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18015/hls/pl.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Психологические ужасы
+http://fs2.persik.by/Psihologicheskie_uzhasy6/index.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="../Channel/Logo/Психология.png",Психология
 http://91.207.115.228:12000/play/a04s
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍" tvg-logo="../Channel/Logo/Психология 21.png",Психология 21
@@ -18445,6 +18421,8 @@ https://mults.info/mp4/taribird.mp4
 http://puls-radio.ru:8000/puls
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Путешествие 1989г.
 https://mults.info/mp4/puteshestvie.mp4
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Путешествие во времени
+http://fs2.persik.by/Puteshestvie_vo_vremeni10/index.m3u8
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Пчеловод 2024 Джейсон Стейтем
 https://o8.anwap.be/ohls/5gUyGpOuFXgabybcQVp0Vw/1706742335/Pchelovod-40556_(anwap.org).m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Пятница.png",Пятница
@@ -19481,8 +19459,6 @@ http://srv01.gpmradio.ru:8000/stream/reg/mp3/128/region_humor_45
 https://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="../Channel/Logo/Радиола.jpg",Радиола
 http://online-1.gkvr.ru:8000/radiola_rus_128.mp3
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радиола (Киржач)
-http://online2.gkvr.ru:8000/radiola_kir_64.aac
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Радость Моя.png",Радость моя
 http://135.181.115.81:8000/play/a01h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎" tvg-logo="../Channel/Logo/Радость Моя.png",Радость моя
@@ -20649,6 +20625,8 @@ http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Советская Киноклассика.png",Советская киноклассика
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Советские комедии
+http://fs2.persik.by/Soviet_Comedy11/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Советское кино.png",Советское кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Советское кино.png",Советское Кино
@@ -20673,8 +20651,6 @@ http://s1.merlive.am:80/solnce/index.m3u8
 http://185.223.125.136:1984/play/NickJr/index.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Солнце.png",Солнце
 http://77.235.1.17/disney/index.m3u8
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Солнце.png",Солнце
-http://91.207.115.228:12000/play/a04l
 #EXTINF:-1 group-title="Новости",Соловьев Live
 http://91.207.115.228:12000/play/a00q
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сонце.png",Сонце
@@ -20733,14 +20709,10 @@ https://mults.info/mp4/stepa_morjak.mp4
 https://mults.info/mp4/stereotipi.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стойкий оловяный солдатик
 https://mults.info/mp4/stojkii_olovyannyi_soldatik.mp4
-#EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",Столото ТВ
-https://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Стосується клжного HD
 http://cdnua03.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/Страна FM.png",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Страна FM 102.0 (Санкт-Петербург)
-https://stream01.pcradio.ru/strana_spb-med
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",Страна ФМ
@@ -20966,10 +20938,6 @@ https://stream1.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
 http://jzhxm893.megatv.fun/iptv/BG3TE5HEQRXENC/15229/index.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
-http://80.94.225.126:8080/TVCentr/mono.m3u8?token=test
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
-http://93.125.121.75:80/TVCentr/index.m3u8?token=test
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
 http://91.207.115.228:12000/play/a00a
@@ -21097,8 +21065,6 @@ http://91.205.199.3/tnthd/index.m3u8
 http://80.94.225.126:8080/TNT_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТНТ HD.png",ТНТ HD
 http://93.125.121.75:80/TNT_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТНТ HD.png",ТНТ HD
-http://91.207.115.228:12000/play/a04a
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТНТ International (Европа).png",ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/ТНТ International (Европа).png",ТНТ International (Европа)
@@ -21171,6 +21137,8 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 https://stream01.pcradio.ru/top_50_russia-med
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",ТОП 50 Шансон
 https://stream01.pcradio.ru/top_50_shanson-med
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Топ кино
+http://fs2.persik.by/TopKino_13/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Топ40
 https://stream01.pcradio.ru/Top_40-med
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Топор
@@ -21227,6 +21195,8 @@ https://mults.info/mp4/tri_meshka_hitrostey.mp4
 https://mults.info/mp4/tri_mushketera.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Три синих-синих озера малинового цвета
 https://mults.info/mp4/armenfilm_tri_sinih_sinih_ozera.mp4
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Триллеры-Боевики
+http://fs2.persik.by/Trillery_Boeviki5/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Триллеры-Драма
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixer FlareIncFree 💎",ТРК Евразия (Орск)
@@ -21355,6 +21325,8 @@ https://stream01.pcradio.ru/Faktor_2-med
 https://mults.info/mp4/fedorino_gore.mp4
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",ФЕНИКС
 http://88.218.242.237:8000/play/a007
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Феникс+ Кино.png",Феникс+ Кино
+http://de.seetv.cc/play/204/996DA9781004412/video.m3u8
 #EXTINF:-1 group-title="⓵ TEST SHLYAPA TV Media" tvg-logo="../Channel/Logo/Феникс+Кино.png",Феникс+кино
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/67781/hls/pl.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Феникс+Кино.png",Феникс+Кино
@@ -21367,6 +21339,8 @@ http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 https://stream01.pcradio.ru/Filpp_Kirkorov-med
 #EXTINF:-1 group-title="↕️ 🔺PLAYLIST INFORMATION🔺INFO 🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/410012490049169.png",ФИЛЬМОТЕКА https://drm.clan.su/mediateka.m3u
 http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Фильмы катастрофы
+http://fs2.persik.by/Filmy_katastrofy2/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Фламинго
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_flamingo.stream/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",ФМ-на-Дону
@@ -21893,8 +21867,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",邯郸公共
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",邯郸新闻
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",邯郸科教
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",霸州公共頻道 (576p) [Not 24/7]
