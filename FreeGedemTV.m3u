@@ -1986,14 +1986,32 @@ http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493326&ex
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493325&extension=ts
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/BCU Comedy HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Comedy HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493324&extension=ts
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Cosmo HD
+http://ronaldo.tvfor.pro/WWiumlcYxe/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Criminal HD
+http://ronaldo.tvfor.pro/PUyDTRDUbe/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/BCU Fantastic HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Fantastic HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493323&extension=ts
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/BCU FILMYSTIC HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU FilMystic HD
+http://ronaldo.tvfor.pro/uTOLclPPwX/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Kinorating HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493322&extension=ts
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/BCU MARVEL HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Marvel HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493318&extension=ts
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Media HD
+http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Multserial HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493317&extension=ts
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Reality HD
+http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Ruserial HD
+http://ronaldo.tvfor.pro/fCBwJzbFOp/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Stars HD
+http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Survival HD
+http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU TruMotion HD
+http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/BCU VHS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU VHS
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493313&extension=ts
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Кинозал Premiere 2 HD
