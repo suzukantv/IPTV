@@ -1,4 +1,4 @@
-#EXTM3U url-tvg"https://iptvx.one/EPG.gz,url-tvg=http://epg.it999.ru/epg.xml.gz,url-tvg=http://epg.streaming-elbrus.su/xmltv/epg.xml.gz"
+#EXTM3U url-tvg"https://iptvx.one/EPG.gz,url-tvg=http://epg.it999.ru/epg.xml.gz,url-tvg=http://epg.streaming-elbrus.su/xmltv/epg.xml.gz"; https://gabbarit.page.link/epg"
 
 #USERAGENT: http-user-agent"Mozilla/5.0 SUZUSTV/1.34.1 (AndroidTV/6.1.1) SUZUSTVPlayer"
 
@@ -11,7 +11,7 @@
 #Info: Уважаемые Правообладатели, мы не транслируем и не ретранслируем каналы и остальное.
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
-Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания. $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",#EXTVLCOPT:http-user-agent=SmartTV
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",#EXTVLCOPT:http-user-agent=SmartTV
