@@ -1,0 +1,1501 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/2x2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",2x2
+http://202.181.148.76:8087/channel/n5b3531dc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",30 atv
+http://202.181.148.76:8087/channel/n5311af64/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/kaz-31.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",31 канал
+http://202.181.148.76:8087/channel/c5cb682/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/4 канал Екатеринбург.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",4 канал екатеринбург
+http://202.181.148.76:8087/channel/n2b5e70be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/43 канал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",43 канал
+http://202.181.148.76:8087/channel/n7f13c4a5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv-538-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",538tv
+http://202.181.148.76:8087/channel/35753703/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/7 канал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",7 канал
+http://202.181.148.76:8087/channel/1a0efdf7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",70-80 TV
+http://202.181.148.76:8087/channel/1ca8d993/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/88 Stereo TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",88 STEREO TV
+http://202.181.148.76:8087/channel/n4595c4ed/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/num/9x_music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",9XM
+http://202.181.148.76:8087/channel/7a0559f1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_a_kr.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",A Music
+http://202.181.148.76:8087/channel/60ea21d6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/a58nrjdc820cl7h/a2imus.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",A2i Music
+http://202.181.148.76:8087/channel/n7bfb736f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/efbdft5h6sigu9t/abai.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ABAI TV
+http://202.181.148.76:8087/channel/2b40a907/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Activa TV
+http://202.181.148.76:8087/channel/n4ee5f6d9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Afrobeats TV
+http://202.181.148.76:8087/channel/49c1fe3c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/aghani.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Aghani Aghani TV (1080p)
+http://202.181.148.76:8087/channel/32e74501/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/esjrkjdiqe7egj4/almaty.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Almaty
+http://202.181.148.76:8087/channel/n14fcc2ea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Altai(Усть-Каменогорск)
+http://202.181.148.76:8087/channel/n7623759e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/aa/altitude-sports-us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",altitude sport
+http://202.181.148.76:8087/channel/n5dedd951/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Ani.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ani
+http://202.181.148.76:8087/channel/n5b34fa8c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Animal Planet
+http://202.181.148.76:8087/channel/67d6c73a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Aqjaiyq(Уральск)
+http://202.181.148.76:8087/channel/n2cde610f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Aqtobe(Актобе)
+http://202.181.148.76:8087/channel/n18be304/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/7lf4h4mqmi46foq/atomic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Atomic
+http://202.181.148.76:8087/channel/35052e4b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/7lf4h4mqmi46foq/atomic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Atomic Academy TV
+http://202.181.148.76:8087/channel/n3add5ab5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Atyray(Атырау)
+http://202.181.148.76:8087/channel/5e593dc2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Azahares Radio Multimedia
+http://202.181.148.76:8087/channel/n10f5521c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Balkan Trip
+http://202.181.148.76:8087/channel/n393c47ce/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Baraza TV Deep House
+http://202.181.148.76:8087/channel/n3247d145/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Baraza TV Relaxing
+http://202.181.148.76:8087/channel/n5b815cff/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU Comedy HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Comedy HD
+http://202.181.148.76:8087/channel/15259d98/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_criminal.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Criminal HD
+http://202.181.148.76:8087/channel/2666464e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU Fantastic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Fantastic
+http://202.181.148.76:8087/channel/n3b69f26a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU Fantastic HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Fantastic HD
+http://202.181.148.76:8087/channel/n6894be94/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU FILMYSTIC HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU FilMystic HD
+http://202.181.148.76:8087/channel/7cad40f7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_history.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU History HD
+http://202.181.148.76:8087/channel/76b1c0f3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/bcu-kids-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU kids
+http://202.181.148.76:8087/channel/n4ae6d42e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kids.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Kids HD
+http://202.181.148.76:8087/channel/n580aa97c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kids+.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Kids+ HD
+http://202.181.148.76:8087/channel/56b9e4a9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kinorating.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Kinorating HD
+http://202.181.148.76:8087/channel/21aecd5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU MARVEL HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Marvel HD
+http://202.181.148.76:8087/channel/570b38f2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Premiere HD
+http://202.181.148.76:8087/channel/56826178/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu-reality.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Reality HD
+http://202.181.148.76:8087/channel/n4ea97649/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_romantic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Romantic HD
+http://202.181.148.76:8087/channel/n77631180/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/bcu-russian-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Russian
+http://202.181.148.76:8087/channel/n78fa4012/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU RUSSIAN HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Russian HD
+http://202.181.148.76:8087/channel/n4b527e6c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_stars.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Stars HD
+http://202.181.148.76:8087/channel/n29640f3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu-ultra-4k.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Ultra 4K
+http://202.181.148.76:8087/channel/1f905336/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/BCU VHS HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU VHS HD
+http://202.181.148.76:8087/channel/5d23be6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Кинозал Premiere 1 HD
+http://202.181.148.76:8087/channel/n7ec0d0f6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Кинозал Premiere 2 HD
+http://202.181.148.76:8087/channel/n7ec05c97/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Кинозал Premiere 3 HD
+http://202.181.148.76:8087/channel/n7ebfe838/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_multserial.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BCU Мультсериал HD
+http://202.181.148.76:8087/channel/nfa5fba/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Beats Radio
+http://202.181.148.76:8087/channel/n42a5a2a2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/BeIn sports.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",bein sports
+http://202.181.148.76:8087/channel/78c43e5e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bet_east.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BET
+http://202.181.148.76:8087/channel/n2a087828/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/bb/biz_tv_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BIZ MUSIC
+http://202.181.148.76:8087/channel/642266bf/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Blues TV
+http://202.181.148.76:8087/channel/n11300cc0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BOKTV
+http://202.181.148.76:8087/channel/n3c6126b3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Bolt.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Bolt
+http://202.181.148.76:8087/channel/n67361a09/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BOX Cyber HD
+http://202.181.148.76:8087/channel/n3e8fd449/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",BTA TV
+http://202.181.148.76:8087/channel/52783b02/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Busuioc TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Busuioc TV
+http://202.181.148.76:8087/channel/4eea79b3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",C1
+http://202.181.148.76:8087/channel/n1bba8be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",C86
+http://202.181.148.76:8087/channel/n35b96df3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cadena Elite
+http://202.181.148.76:8087/channel/63c5957d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cmc_califonia_music_channel_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",California Music Channel
+http://202.181.148.76:8087/channel/n75197a6e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cantina TV
+http://202.181.148.76:8087/channel/3d1fcf5d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cartoonito_it.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cartoonito
+http://202.181.148.76:8087/channel/51e2bc37/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/ct6tslmjdupjn1e/caspnews.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Caspian News
+http://202.181.148.76:8087/channel/294fe08a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CGTN Русский
+http://202.181.148.76:8087/channel/n5a1d4f8f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CHD-TV Rock HD
+http://202.181.148.76:8087/channel/6856981f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CHD-TV RU Rock HD
+http://202.181.148.76:8087/channel/141040f2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cinema
+http://202.181.148.76:8087/channel/28f6a059/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CINEMA
+http://202.181.148.76:8087/channel/n9559689/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan
+http://202.181.148.76:8087/channel/n4e0ec922/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-action.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Action
+http://202.181.148.76:8087/channel/1306c5d8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-marvel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Marvel
+http://202.181.148.76:8087/channel/27640521/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-melodrama.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Melodrama
+http://202.181.148.76:8087/channel/46945b4a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan MiniSeries
+http://202.181.148.76:8087/channel/51b3d850/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-thriller.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Thriller
+http://202.181.148.76:8087/channel/2737237a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-top.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Top
+http://202.181.148.76:8087/channel/56ae6cf3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-vhs.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan VHS
+http://202.181.148.76:8087/channel/56ae6f9f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Глухарь + Карпов
+http://202.181.148.76:8087/channel/3619e42e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Интерны
+http://202.181.148.76:8087/channel/37cfe394/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-katastrofy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Катастрофы
+http://202.181.148.76:8087/channel/43e55e2c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-comedy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Комедия
+http://202.181.148.76:8087/channel/n5d0387f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-lesnik.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Лесник
+http://202.181.148.76:8087/channel/n22cff5e6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-mentwar.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Ментовские Войны
+http://202.181.148.76:8087/channel/n34c36c5b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-pes.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan ПёС
+http://202.181.148.76:8087/channel/56bd260d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-rukino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan РуКино
+http://202.181.148.76:8087/channel/n19943e5c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-svaty.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Сваты
+http://202.181.148.76:8087/channel/n63e5511a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-ambulance.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Скорая помощь
+http://202.181.148.76:8087/channel/1ded3888/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman-uzhasy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Ужасы
+http://202.181.148.76:8087/channel/n63c750bb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/cineman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CineMan Универ
+http://202.181.148.76:8087/channel/n14bcb5df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/c-comedy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Citrus Comedy
+http://202.181.148.76:8087/channel/4d156e8a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Citrus History
+http://202.181.148.76:8087/channel/5435fec3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Citrus Inques
+http://202.181.148.76:8087/channel/57467868/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/c-marvel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Citrus Marvel
+http://202.181.148.76:8087/channel/5d632170/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Clubbing TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Clubbing TV
+http://202.181.148.76:8087/channel/n4c06d07b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cmc_califonia_music_channel_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMC TV
+http://202.181.148.76:8087/channel/nda64c0d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cmc_califonia_music_channel_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cmc tv
+http://202.181.148.76:8087/channel/n57e387cf/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS UFO
+http://202.181.148.76:8087/channel/33d8b8dd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Ваш любимый детектив
+http://202.181.148.76:8087/channel/n17c35003/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Вокруг смеха
+http://202.181.148.76:8087/channel/n7ad943b8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Голубой огонек
+http://202.181.148.76:8087/channel/nd319c1f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Города Советского Союза
+http://202.181.148.76:8087/channel/5c1e3692/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Ералаш
+http://202.181.148.76:8087/channel/113a554f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Жизнь в 90-е
+http://202.181.148.76:8087/channel/63d6e7aa/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Киностудия Горького
+http://202.181.148.76:8087/channel/4fc5a1d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Комедия! Комедия!!!
+http://202.181.148.76:8087/channel/n24233361/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Космический
+http://202.181.148.76:8087/channel/58d81b80/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Музыкальные фильмы
+http://202.181.148.76:8087/channel/f1a9450/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Очевидное  невероятное
+http://202.181.148.76:8087/channel/38705ab7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Программа ''Время''
+http://202.181.148.76:8087/channel/3150a243/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Рок советского периода
+http://202.181.148.76:8087/channel/n6d52b401/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Театр "Современник"
+http://202.181.148.76:8087/channel/1e757c59/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://nice-tv.ru/ico/https://starcinemax.ru/logo_cms.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CMS Фронт
+http://202.181.148.76:8087/channel/n27e8787a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/cartoon-network.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",CN
+http://202.181.148.76:8087/channel/n6a8a40f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/nc05oz8p7e5qb6v/company.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Company TV
+http://202.181.148.76:8087/channel/411e0666/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Cubscribe Now
+http://202.181.148.76:8087/channel/11f01876/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dance_channel_jp.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Dance FM
+http://202.181.148.76:8087/channel/n4f8b4de8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Dancehits
+http://202.181.148.76:8087/channel/538f33fe/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Deluxe Dance
+http://202.181.148.76:8087/channel/31f251d7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Deluxe Flashback
+http://202.181.148.76:8087/channel/75622cfb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Deluxe Music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Deluxe Music
+http://202.181.148.76:8087/channel/327a5049/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Deluxe Rap
+http://202.181.148.76:8087/channel/n7ac0acbb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Discovery
+http://202.181.148.76:8087/channel/n3075872/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Dismar Radio TV
+http://202.181.148.76:8087/channel/2c65fd53/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",DJ
+http://202.181.148.76:8087/channel/214bdeb9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dream_tv_tr_turk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Dream Türk
+http://202.181.148.76:8087/channel/n7aaffc7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",DT
+http://202.181.148.76:8087/channel/n38f55b1f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",DT
+http://202.181.148.76:8087/channel/2554e98c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",DT tv
+http://202.181.148.76:8087/channel/n505655df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ee/ebs_us_musika.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",EBS Musika
+http://202.181.148.76:8087/channel/2d54c08b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",EcuaMundo Radio TV
+http://202.181.148.76:8087/channel/n4dc905ee/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6201c2a4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n10e1f347/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/66907dce/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/785ed93f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/3c4726b7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4fa6ea31/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/72f06ad/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5a6020b6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n263e96e7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/26fbf9a8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4e9081a2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/39ee5658/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5e803b4e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/nc276139/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4c813a8b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/nabfba0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/244847f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/694164f8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1d4a33e3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/ad1b8ce/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7c39d5ec/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n47fca127/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3b28e18/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6bfa82ec/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n645ba08f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7e824e80/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3c2c45f3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/27585784/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n487c8829/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n54779006/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/508f9d3e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7740ce2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/2f380a3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4938717c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1e444a6a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n11b9ee9b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1742786b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n2a0390e4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/2edcab40/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/58139e39/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4959ce38/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/77f77d95/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n41602684/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1e1bfd9f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/3eb27e7e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/709bcd51/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1ef9f536/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n53b3d2c1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n480de184/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3c223236/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3f5cb325/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5f2dc639/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5140a22a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/299d7bbb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4409c6e3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6bb9c57c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n79aa776b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n8ad5f48/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/e1d5383/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/60867a8c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1dadcffe/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n172d4914/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4009ed21/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/e4432f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n34643be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n19f218df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3875e285/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3667d320/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/322c54e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4b53964c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/5f6d65c5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n74c4df0a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6ecafabd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/66ed1541/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/7606f13f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/625680f7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n44c58bfe/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n32be00f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/nd85ca54/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3c20eb8e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7fa4f06c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n274968e8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/551833a5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/8dfd372/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6e0a2353/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/7ae34dc8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6e8acb58/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n10825f61/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4370926a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n16d56da8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/9f7ee4a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n27496521/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7ddecf3c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4217b951/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n72ed7298/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5dffd408/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/225f5e37/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n57791c98/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6652e8c6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1238add5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3c8b7ea2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n24de5764/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/7f103aec/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4e7b5901/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/7f103934/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1bedb9d5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n79ca01e4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4bf5132a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n50c49d9d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/49b65739/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n3489c0e7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n5c9f4b9b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n322d6f84/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n53b7ab12/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/2c39a41a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/3e1e5b57/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n355c9abf/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n7bc68c62/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/7330f004/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n52016c93/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n58680ed/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4b8ec351/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/6390b4df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/5ab58554/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n184bcc78/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n27495807/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/490c0d18/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n34889c15/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/71b8c272/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n6ed9b0a7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/2293aa06/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n718f1a2d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/nc48ff8a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4da7aadb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/40757aa5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n2bdd24bc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/3946c972/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/1bea9eea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/40cc166b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/4186c03d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n753db2c8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n4cc1615e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n59b35d2a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/442204a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/165111c6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/n210a399c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Entertainment" $ExtFilter="Новыйffffcd",Entertainment
+http://202.181.148.76:8087/channel/nf87581a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ertis HD 1080 (Павлодар)
+http://202.181.148.76:8087/channel/n416af6f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/65sfn54nu92k11u/eimc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Euro Indie Music Chart TV
+http://202.181.148.76:8087/channel/2034cacb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/extreme-sports.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",EXTRIME SPORT
+http://202.181.148.76:8087/channel/5563b1c2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/extreme-sports.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Extrime tv
+http://202.181.148.76:8087/channel/n1aa9d035/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Falastini TV
+http://202.181.148.76:8087/channel/145fc25/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FamilyJam HD
+http://202.181.148.76:8087/channel/33300463/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/fashion-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fashion tv bikini Test
+http://202.181.148.76:8087/channel/450efca4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/fight-box-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fight box
+http://202.181.148.76:8087/channel/n21f2f426/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Finest TV
+http://202.181.148.76:8087/channel/61e33fb9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/d2o2gqcabfympfk/tvfm.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FM ITALIA
+http://202.181.148.76:8087/channel/n778efa6b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Folk Klub
+http://202.181.148.76:8087/channel/n5aec4802/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FOXX MUSIC DNB
+http://202.181.148.76:8087/channel/323934bf/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FOXX-MUSIc DANCE
+http://202.181.148.76:8087/channel/n7679e473/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FOXX-MUSIC Lesplusbellevoix
+http://202.181.148.76:8087/channel/n2de91fc4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fresh Adventure
+http://202.181.148.76:8087/channel/n213844a1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fresh Fantastic
+http://202.181.148.76:8087/channel/n1d673b6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fresh Russian
+http://202.181.148.76:8087/channel/15115ba2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Fresh Series
+http://202.181.148.76:8087/channel/3b4f3488/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/FreshTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FreshTV
+http://202.181.148.76:8087/channel/6dd32d6d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",FX Life
+http://202.181.148.76:8087/channel/6e0c3991/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Gagnetwork
+http://202.181.148.76:8087/channel/n1ebd5999/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Gigant FM
+http://202.181.148.76:8087/channel/n206fef4c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/global-star-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Global TV
+http://202.181.148.76:8087/channel/n166c5831/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Go3 Sport
+http://202.181.148.76:8087/channel/n3a926320/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/History.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",History
+http://202.181.148.76:8087/channel/n351f3d8d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Hit TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Hit Tv
+http://202.181.148.76:8087/channel/5228973d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",HMI PROMZ NEWS
+http://202.181.148.76:8087/channel/n6bdd6de/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IDJtv
+http://202.181.148.76:8087/channel/36970af8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",iHeart 90s
+http://202.181.148.76:8087/channel/n398887d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ii/impact_tv_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Impact TV Dance
+http://202.181.148.76:8087/channel/n42d49319/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ii/impact_tv_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Impact TV Manele
+http://202.181.148.76:8087/channel/n86229b0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ii/intv_de.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",INTV Australia
+http://202.181.148.76:8087/channel/15fe26af/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTV Play Fantastica
+http://202.181.148.76:8087/channel/n6f5ce9b0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTV Play Память
+http://202.181.148.76:8087/channel/4aa961f8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTV Play Ужастик
+http://202.181.148.76:8087/channel/n185697aa/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTVPLAY ВЕДЬМАК HD
+http://202.181.148.76:8087/channel/n4ff38581/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD
+http://202.181.148.76:8087/channel/n74c3e5a3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTVPLAY ИНТЕРНЫ HD
+http://202.181.148.76:8087/channel/11c08f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://i.ibb.co/k3C2GSM/Multskazki1-HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IPTVPLAY МультСказки HD
+http://202.181.148.76:8087/channel/n11e2261e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/moya-planeta-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IQ Channel
+http://202.181.148.76:8087/channel/6aa3fbe7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",IZ
+http://202.181.148.76:8087/channel/n7df5d23e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Jambyl(Тараз)
+http://202.181.148.76:8087/channel/n2a07ddbe/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Joe FM
+http://202.181.148.76:8087/channel/549d9d1a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",JooMusic
+http://202.181.148.76:8087/channel/n8d2c2a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/cw4guiu5ovr6e9d/jrmusic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Junior Music pol
+http://202.181.148.76:8087/channel/38286663/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/K16.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",k16
+http://202.181.148.76:8087/channel/n485c6ad8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kalaignar_tv_in.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kalaignar Murasu
+http://202.181.148.76:8087/channel/n6bba158d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kayo Pops
+http://202.181.148.76:8087/channel/6fc1900b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/KHL.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KHL
+http://202.181.148.76:8087/channel/n2a08560a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kinoshka Russian HD
+http://202.181.148.76:8087/channel/3df642d2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KION XIT тест
+http://202.181.148.76:8087/channel/367269bb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kiss-kiss-tv-it.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kiss Kiss Italia HD
+http://202.181.148.76:8087/channel/n3253f192/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kiss-kiss-tv-it.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kiss Kiss Napoli HD
+http://202.181.148.76:8087/channel/n1dbe9d53/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kiss-kiss-tv-it.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kiss Kiss TV HD
+http://202.181.148.76:8087/channel/2eee3e75/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Klape i Tambure TV
+http://202.181.148.76:8087/channel/n46c16cf8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI ACTION
+http://202.181.148.76:8087/channel/78216507/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI Cinema HD
+http://202.181.148.76:8087/channel/n25053406/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI FAMILY
+http://202.181.148.76:8087/channel/n7f75bdcb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI fentasy
+http://202.181.148.76:8087/channel/6cd8c8f1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI Horror
+http://202.181.148.76:8087/channel/n79726365/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI russian
+http://202.181.148.76:8087/channel/33736e2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI киносерия
+http://202.181.148.76:8087/channel/n65a699ad/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://cdn.server-iptv.live/logo/tv/kli-sssr.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KLI СССР
+http://202.181.148.76:8087/channel/n73f9490a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kokshe HD 720 (Кокшетау)
+http://202.181.148.76:8087/channel/6ef612be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/kral-pop-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",KRAL Pop TV
+http://202.181.148.76:8087/channel/39592a6c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kristal tv
+http://202.181.148.76:8087/channel/nb955fe4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Kronenit tv
+http://202.181.148.76:8087/channel/298dfaed/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",LA MIA TV
+http://202.181.148.76:8087/channel/7973d4c9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",LIBERTY RUS FILM 4K
+http://202.181.148.76:8087/channel/n3729b145/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Littoral FM
+http://202.181.148.76:8087/channel/1c8e9f18/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Loupe TV
+http://202.181.148.76:8087/channel/6419bbfb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/m2o tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",m2o TV
+http://202.181.148.76:8087/channel/73fc6a23/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Magic Action
+http://202.181.148.76:8087/channel/n7a56f918/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Magic Family
+http://202.181.148.76:8087/channel/n71ee1bea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Magic Karate
+http://202.181.148.76:8087/channel/n6963b818/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Magic Russian
+http://202.181.148.76:8087/channel/n2e90a2df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Magik tv
+http://202.181.148.76:8087/channel/n4e4d0bcb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mangystay-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Mangystay
+http://202.181.148.76:8087/channel/n55115552/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Mayotte One TV
+http://202.181.148.76:8087/channel/68ce851b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/brgwbf1lo1efq43/medeniyyet.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Medeniyyet
+http://202.181.148.76:8087/channel/38d78345/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Metropoli Medios TV
+http://202.181.148.76:8087/channel/n50994a78/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myanmar_international_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MiTV Marvel тест
+http://202.181.148.76:8087/channel/n67337b4e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myanmar_international_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MiTV Вестерн
+http://202.181.148.76:8087/channel/n7a214795/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myanmar_international_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MiTV Ералаш
+http://202.181.148.76:8087/channel/n2fcb3aaf/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myanmar_international_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MiTV Карате
+http://202.181.148.76:8087/channel/n281d58e4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myanmar_international_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MiTV Семейный
+http://202.181.148.76:8087/channel/42ec5582/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mn_tv_mm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MNTV Music
+http://202.181.148.76:8087/channel/n57fde9d6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Moto America TV
+http://202.181.148.76:8087/channel/n36ddc1a1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Motor Racing
+http://202.181.148.76:8087/channel/n7ab44dd4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/MTV Classic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MTV Classic
+http://202.181.148.76:8087/channel/n6fd836b8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/mtv-live-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",mtv live
+http://202.181.148.76:8087/channel/n7fb2904a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Munara TV
+http://202.181.148.76:8087/channel/7cc11106/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/musicjapan.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Music Japan TV
+http://202.181.148.76:8087/channel/n324a853e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Music Reload TV HD
+http://202.181.148.76:8087/channel/7e8f2668/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Muzangala TV
+http://202.181.148.76:8087/channel/197e284d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MUZZIK
+http://202.181.148.76:8087/channel/fa004fb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/my_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MYTV
+http://202.181.148.76:8087/channel/155cbecd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/my_tv_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MYTV 2
+http://202.181.148.76:8087/channel/3128439f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myx_us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MYX Philippines
+http://202.181.148.76:8087/channel/n2b2feff4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_mas_mx.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Más FM 95.9
+http://202.181.148.76:8087/channel/6229245e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Armageddon
+http://202.181.148.76:8087/channel/n258ba1cb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Green World
+http://202.181.148.76:8087/channel/n155015be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Man Like
+http://202.181.148.76:8087/channel/n77cebc50/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Music Club
+http://202.181.148.76:8087/channel/167d4624/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Music RU- 2023
+http://202.181.148.76:8087/channel/43805b63/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Spaceship
+http://202.181.148.76:8087/channel/n2e341651/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Top Movies
+http://202.181.148.76:8087/channel/n237fe33f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Top Music
+http://202.181.148.76:8087/channel/n5bf92f19/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",MÖDO Village
+http://202.181.148.76:8087/channel/6a092d59/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Neon tv
+http://202.181.148.76:8087/channel/n6b84575c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/NickToons.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Nicktoons
+http://202.181.148.76:8087/channel/n4e25c54b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/xd7fn9yrdcf45zp/now70.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Now 70's
+http://202.181.148.76:8087/channel/n743c6a2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/40x29stgp62oux0/now80.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Now 80's
+http://202.181.148.76:8087/channel/n7435243/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/j59a145bq3kfhv2/now90.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Now 90's
+http://202.181.148.76:8087/channel/n742dde4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/radio/nn/nrj_bg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",NRJ TV Hits
+http://202.181.148.76:8087/channel/7874aedc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/o2tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",O2TV
+http://202.181.148.76:8087/channel/nb64dd33/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis Action тест
+http://202.181.148.76:8087/channel/287ee8ea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis Disney Classictv
+http://202.181.148.76:8087/channel/631f7d7c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis Family
+http://202.181.148.76:8087/channel/n7106b5c8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis fantastica
+http://202.181.148.76:8087/channel/n5b963f86/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis Pixar
+http://202.181.148.76:8087/channel/2e77b8bc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis RUS мультфильм
+http://202.181.148.76:8087/channel/504c3491/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Oasis RUS сериал
+http://202.181.148.76:8087/channel/1eb0e27b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/ocko.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ocko
+http://202.181.148.76:8087/channel/2bb48da0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Ocko Expres.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ocko expres
+http://202.181.148.76:8087/channel/442f63e3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ocko-star-cz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ocko star
+http://202.181.148.76:8087/channel/679e9d5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Okko Спорт
+http://202.181.148.76:8087/channel/5c8b1abb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",okko футболл
+http://202.181.148.76:8087/channel/n611c7af7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",One1
+http://202.181.148.76:8087/channel/523e81f3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ontustik-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ontustik
+http://202.181.148.76:8087/channel/249bbc3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://dl.dropboxusercontent.com/s/3hn0z70zynai35u/persia.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Persiana Music
+http://202.181.148.76:8087/channel/n1d732ec2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pink_music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Pink Music hits
+http://202.181.148.76:8087/channel/3fc528fd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/plan-b.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Plan b
+http://202.181.148.76:8087/channel/n5585bf7c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/pp/play_tv_br.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Play TV
+http://202.181.148.76:8087/channel/n1a1f6ec/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/PMC.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",PMC
+http://202.181.148.76:8087/channel/n4c23d5ca/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/pp/persian_music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",PMC Royale
+http://202.181.148.76:8087/channel/56170827/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Polo TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",POLO TV
+http://202.181.148.76:8087/channel/n293dd0a8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pop_uk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",POP World TV
+http://202.181.148.76:8087/channel/n294c6285/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/power-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Power DANCE
+http://202.181.148.76:8087/channel/61fcd4ff/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/power-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Power LOVE
+http://202.181.148.76:8087/channel/n3ee37b7a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/pp/prva_rs.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Prva
+http://202.181.148.76:8087/channel/523f0795/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",PTC Dhol
+http://202.181.148.76:8087/channel/2f600181/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",PTC Music
+http://202.181.148.76:8087/channel/n42db05fb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",PTC MUSIC tv
+http://202.181.148.76:8087/channel/6c400e06/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/qsport.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Q Sport League
+http://202.181.148.76:8087/channel/n4973f117/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Qazaq tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",QAZAQ TV
+http://202.181.148.76:8087/channel/n4fb106e6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qazaqstan-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",QAZAQSTAN
+http://202.181.148.76:8087/channel/59a756d6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qostanai-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Qostanai
+http://202.181.148.76:8087/channel/27791aeb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qyzyljar-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",QYZYLJAR
+http://202.181.148.76:8087/channel/n58caef38/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qyzyljar-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Qyzyljar
+http://202.181.148.76:8087/channel/44b4be6d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qyzylorda-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Qyzylorda
+http://202.181.148.76:8087/channel/51e5938e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Radio Ibiza TV
+http://202.181.148.76:8087/channel/33e80d31/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/latina-red.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",RED TV
+http://202.181.148.76:8087/channel/n408c9e27/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Retro Tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Retro tv
+http://202.181.148.76:8087/channel/nb3a8a99/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/ROCK TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",rock TV
+http://202.181.148.76:8087/channel/n304d4236/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/ROCK TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Rock TV
+http://202.181.148.76:8087/channel/n17c6fd92/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",RTG TV
+http://202.181.148.76:8087/channel/n537b328a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",RU TV
+http://202.181.148.76:8087/channel/n7eb8a183/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Salyam tv
+http://202.181.148.76:8087/channel/n5255eefc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/saryarqa-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Saryarqa HD
+http://202.181.148.76:8087/channel/n314426f1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",SCREAM
+http://202.181.148.76:8087/channel/n230e2cfc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/semei-kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Semei
+http://202.181.148.76:8087/channel/n9af8eb8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Senara nv
+http://202.181.148.76:8087/channel/2eeae8c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/setanta-qazaqstan.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Setanta Qazaqstan HD RU
+http://202.181.148.76:8087/channel/n3ba3e874/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/setanta-sports-1-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Setanta Sports 1 HD
+http://202.181.148.76:8087/channel/7637f029/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Setanta Sports 2 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Setanta Sports 2 HD
+http://202.181.148.76:8087/channel/76386488/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/setanta-sports-1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Setanta Sports Moldova
+http://202.181.148.76:8087/channel/n76626f3e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sol_tv_pe.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Sol Música
+http://202.181.148.76:8087/channel/2e7d855e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/song-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Song TV Armenia HD
+http://202.181.148.76:8087/channel/275a10a0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/song-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",SONGTV Russia (720p)
+http://202.181.148.76:8087/channel/461ef390/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Sonus FM.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Sonus FM
+http://202.181.148.76:8087/channel/36c3fd86/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/space_br.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Space
+http://202.181.148.76:8087/channel/n7e9d4e1c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/spectrum-sportsnet-us.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Spectrum Sportsnet LA
+http://202.181.148.76:8087/channel/n147c0953/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Sports Grid
+http://202.181.148.76:8087/channel/7e69ca07/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Sportsnet.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Sportsnet
+http://202.181.148.76:8087/channel/nb00843b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Super TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Super TV
+http://202.181.148.76:8087/channel/6922b45/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tamyr tv
+http://202.181.148.76:8087/channel/n4eb8b160/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TBN Baltia HD
+http://202.181.148.76:8087/channel/1986af1e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TeleMusik Sénégal
+http://202.181.148.76:8087/channel/n1975321a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tennis Channe
+http://202.181.148.76:8087/channel/2d30f3c4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Tezaur TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tezaur TV
+http://202.181.148.76:8087/channel/60ea35d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",The Base Gospel TV
+http://202.181.148.76:8087/channel/nd801ff1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tiji
+http://202.181.148.76:8087/channel/f0a58f5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TMA
+http://202.181.148.76:8087/channel/n7631c313/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tomorrowland 2020
+http://202.181.148.76:8087/channel/n6b48544d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/TOP Sound.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TOP SOUND
+http://202.181.148.76:8087/channel/6370bfc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TopCar tv
+http://202.181.148.76:8087/channel/4fd19aca/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/apl7imfaakmj4h1/tumar.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tumar tv test
+http://202.181.148.76:8087/channel/7868e680/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Turbo Channel
+http://202.181.148.76:8087/channel/3c653279/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/turbo_mix_pe_tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Turbo Mix Radio TV
+http://202.181.148.76:8087/channel/n7d71223b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",tv 4k
+http://202.181.148.76:8087/channel/n45342ed8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/TV BRICS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Tv Brics
+http://202.181.148.76:8087/channel/n1d3f6862/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_tv_ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TV UNO
+http://202.181.148.76:8087/channel/cd814dc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TV XXI
+http://202.181.148.76:8087/channel/44c99bf3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/TV1000.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TV1000
+http://202.181.148.76:8087/channel/44d0bb29/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TV1000 Action
+http://202.181.148.76:8087/channel/n1e9d18d3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/tvm3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVM3
+http://202.181.148.76:8087/channel/47b9b25/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/tvm3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVM3
+http://202.181.148.76:8087/channel/n1afef4ad/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVPlay Большая Разница
+http://202.181.148.76:8087/channel/nb238e7b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVPlay Вкусный канал HD
+http://202.181.148.76:8087/channel/n185a3d8b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVPlay Гарри Поттер HD
+http://202.181.148.76:8087/channel/n1496c283/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVPlay Космический
+http://202.181.148.76:8087/channel/1d8d2ed1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",TVPlay Русский Рок HD
+http://202.181.148.76:8087/channel/e465b38/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Univer TV HD
+http://202.181.148.76:8087/channel/42bedc03/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/v2beat.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",v2beat
+http://202.181.148.76:8087/channel/2883448d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Velari TV
+http://202.181.148.76:8087/channel/n63937266/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",VeleS Киноплёнка
+http://202.181.148.76:8087/channel/2fadc1f1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Verbena TV
+http://202.181.148.76:8087/channel/43aa99e6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/vf-comedia.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",VF комедия
+http://202.181.148.76:8087/channel/n25009749/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Viju+Sport
+http://202.181.148.76:8087/channel/6a9a08a9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",VL Fantastic
+http://202.181.148.76:8087/channel/33ba0190/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",VM Latino
+http://202.181.148.76:8087/channel/n5eb296ea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",VoiceOver Radio TV
+http://202.181.148.76:8087/channel/44c1e1f9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Vuemme TV
+http://202.181.148.76:8087/channel/77201844/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Worldwide Muzzik
+http://202.181.148.76:8087/channel/1f365316/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",XPTV1
+http://202.181.148.76:8087/channel/16dc08fb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/XSport.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",XSPORT
+http://202.181.148.76:8087/channel/n12254dca/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv-cowboy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",YOSSO  TV Ковбойское
+http://202.181.148.76:8087/channel/n58487e20/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso ADRENALINE
+http://202.181.148.76:8087/channel/470e2ab1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso GRAND
+http://202.181.148.76:8087/channel/n405fcd08/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv-best.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV BEST
+http://202.181.148.76:8087/channel/d0d4bce/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv-music-hits.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Music Hits
+http://202.181.148.76:8087/channel/n623918fb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Netflix
+http://202.181.148.76:8087/channel/n6e76d2b8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",YOSSO TV New Кино
+http://202.181.148.76:8087/channel/28d88b09/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv-zabavnoe.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Забавное
+http://202.181.148.76:8087/channel/106ae304/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Русские фильмы тест
+http://202.181.148.76:8087/channel/24137c0a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Советские фильмы
+http://202.181.148.76:8087/channel/2c530066/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/yosso-tv-tragic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Yosso TV Трагичное
+http://202.181.148.76:8087/channel/n557986a6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ZEROUNO TV
+http://202.181.148.76:8087/channel/3a78816d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ZWEI MUSIC TELEVISION
+http://202.181.148.76:8087/channel/n50fb379c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Авто 24
+http://202.181.148.76:8087/channel/n2ca87202/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Аист ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Аист тв
+http://202.181.148.76:8087/channel/1cfb6f77/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Американские комедии
+http://202.181.148.76:8087/channel/1fb30366/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Английские субтитры
+http://202.181.148.76:8087/channel/12cf57c9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Аниме
+http://202.181.148.76:8087/channel/nc8f56af/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Антистресс
+http://202.181.148.76:8087/channel/2d75768c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Арис24
+http://202.181.148.76:8087/channel/n4788431d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Арсенал
+http://202.181.148.76:8087/channel/71fdd54a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astana_tv_kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Астана
+http://202.181.148.76:8087/channel/n5d6af6dc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Астрахань 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Астрахань 24
+http://202.181.148.76:8087/channel/1e6a42fa/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Байкал Универ тв
+http://202.181.148.76:8087/channel/101dfa18/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Балапан.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Балапан
+http://202.181.148.76:8087/channel/n3872a4ba/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Белгород 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Белгород 24
+http://202.181.148.76:8087/channel/n791713df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/belmuztv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",БелМузТВ
+http://202.181.148.76:8087/channel/53e292d9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/БелРос.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",БелРос
+http://202.181.148.76:8087/channel/n60e43bbd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Боевики
+http://202.181.148.76:8087/channel/10586d39/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/boks-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",БОКС
+http://202.181.148.76:8087/channel/10cbc095/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Бортич
+http://202.181.148.76:8087/channel/7c6b2f11/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/БСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",БСТ
+http://202.181.148.76:8087/channel/7dd3305b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",В кругу семьи
+http://202.181.148.76:8087/channel/4a1de00/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Вдовиченков
+http://202.181.148.76:8087/channel/7fedacee/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Вдохновение
+http://202.181.148.76:8087/channel/2e99ad3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Вицин
+http://202.181.148.76:8087/channel/nc75396e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ВОЛГА.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Волга
+http://202.181.148.76:8087/channel/7c5d03f0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Время.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Время
+http://202.181.148.76:8087/channel/n2a4d78ee/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Вторая мировая
+http://202.181.148.76:8087/channel/18c8e77b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Давай поженимся
+http://202.181.148.76:8087/channel/n40d710c3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Дагестан.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Дагестан
+http://202.181.148.76:8087/channel/8312c46/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://dl.dropboxusercontent.com/s/bl0lnaaq73weuwi/detektiv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Детектив джам
+http://202.181.148.76:8087/channel/n11a19d5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Детские песни
+http://202.181.148.76:8087/channel/n2e766356/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Детские фильмы
+http://202.181.148.76:8087/channel/6859fd10/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Документальное кино
+http://202.181.148.76:8087/channel/775ba4a8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Дом кино
+http://202.181.148.76:8087/channel/6a7a5335/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Дом кино
+http://202.181.148.76:8087/channel/251f3dce/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Дом Кино премиум.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Дом кино премиум
+http://202.181.148.76:8087/channel/n79547728/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Дружба
+http://202.181.148.76:8087/channel/n7e58e8ef/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Евразия
+http://202.181.148.76:8087/channel/n691e0b97/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Еврокино
+http://202.181.148.76:8087/channel/n67971f5e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Еврокино
+http://202.181.148.76:8087/channel/n7c9adad/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Европейское кино
+http://202.181.148.76:8087/channel/4f9a041a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Евроспорт.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Евроспорт
+http://202.181.148.76:8087/channel/f117786/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Ералаш.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ералаш
+http://202.181.148.76:8087/channel/64ae17f6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Жар птица.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Жар Птица
+http://202.181.148.76:8087/channel/da9ab0e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Зарубежное кино
+http://202.181.148.76:8087/channel/n3e5311b2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Звязда.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Звязда
+http://202.181.148.76:8087/channel/9f4460c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Зомби-апокалипсис
+http://202.181.148.76:8087/channel/nbcafcd7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Зоопарк.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Зоопарк
+http://202.181.148.76:8087/channel/59f52c5c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Известия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Известия
+http://202.181.148.76:8087/channel/47775b6b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Известные актёры
+http://202.181.148.76:8087/channel/n6e56bfed/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Иллюзион+
+http://202.181.148.76:8087/channel/n14f0cc93/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ИНГУШЕТИЯ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ингушетия
+http://202.181.148.76:8087/channel/6cb98e03/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Индия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Индия
+http://202.181.148.76:8087/channel/91d76c5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Карусель
+http://202.181.148.76:8087/channel/364be326/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/kvn.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",КВН
+http://202.181.148.76:8087/channel/5cb7e31f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино Боевик HD
+http://202.181.148.76:8087/channel/n4bf092a4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино выходного дня
+http://202.181.148.76:8087/channel/2cbcffa6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино и Сериалы
+http://202.181.148.76:8087/channel/ncba6d93/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино Новелла Сити Эдем
+http://202.181.148.76:8087/channel/n11c2838c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино по книгам
+http://202.181.148.76:8087/channel/48b35dbd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино про дружбу
+http://202.181.148.76:8087/channel/n5fda94be/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино с субтитрами
+http://202.181.148.76:8087/channel/6080e2b6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино ТВ
+http://202.181.148.76:8087/channel/n32e56bd7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино ТВ
+http://202.181.148.76:8087/channel/n5455924b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кино Экшен Сити Эдем
+http://202.181.148.76:8087/channel/6fba0d0b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинозал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинозал
+http://202.181.148.76:8087/channel/n669f315e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинозал 1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинозал 1
+http://202.181.148.76:8087/channel/n6505b254/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинозал 2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинозал 2
+http://202.181.148.76:8087/channel/n6505b253/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинозал 3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинозал 3
+http://202.181.148.76:8087/channel/n6505b252/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинокомедия
+http://202.181.148.76:8087/channel/n1ef5dbb7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/atv-kinoman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киноман
+http://202.181.148.76:8087/channel/51c7268/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киномикс
+http://202.181.148.76:8087/channel/728c17b5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киномульт тест
+http://202.181.148.76:8087/channel/2719a1f1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киноновинки
+http://202.181.148.76:8087/channel/3b79bc02/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинопоказ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинопоказ
+http://202.181.148.76:8087/channel/2ae6e11b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинопремьера
+http://202.181.148.76:8087/channel/n439cda5e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/КИНОПРЕМЬЕРА HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинопремьера HD
+http://202.181.148.76:8087/channel/790f16f4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киносвидание
+http://202.181.148.76:8087/channel/n6a4b5f64/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Киносемья
+http://202.181.148.76:8087/channel/n36ce2e3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кинохит
+http://202.181.148.76:8087/channel/n32d5da18/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/yzv5jxyw59s8r3p/chinatv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Китай тв
+http://202.181.148.76:8087/channel/3f962c7c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Козловский
+http://202.181.148.76:8087/channel/6e9e9909/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Колибри ТВ Семейный
+http://202.181.148.76:8087/channel/70af2302/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Комедийные сериалы
+http://202.181.148.76:8087/channel/n20c8b5ca/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Комедия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Комедия
+http://202.181.148.76:8087/channel/n28ab34fa/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/qevdj5cg5j4sdvl/kompas.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Компас тв
+http://202.181.148.76:8087/channel/n416c1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Концерты
+http://202.181.148.76:8087/channel/n4fa0d84c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Космический
+http://202.181.148.76:8087/channel/n1df2b800/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Космос.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Космос
+http://202.181.148.76:8087/channel/n7438d4cb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Крепкое кино test
+http://202.181.148.76:8087/channel/ec6eb30/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/КТК.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",КТК
+http://202.181.148.76:8087/channel/54f9bbe0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Курай ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Курай тв
+http://202.181.148.76:8087/channel/n306d88b9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Кухня.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Кухня
+http://202.181.148.76:8087/channel/93ca06d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Куценко
+http://202.181.148.76:8087/channel/na1642ea/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Легкое кино
+http://202.181.148.76:8087/channel/7580dad4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Леонов
+http://202.181.148.76:8087/channel/n73042920/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",лоренз
+http://202.181.148.76:8087/channel/7b99c2cb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Лучшие клипы
+http://202.181.148.76:8087/channel/2151703c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Любимое Кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Любимое кино
+http://202.181.148.76:8087/channel/n4f2b4894/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Любовь и Детективы
+http://202.181.148.76:8087/channel/n77363b46/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Мама.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мама
+http://202.181.148.76:8087/channel/n656752b6/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Мама.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мама
+http://202.181.148.76:8087/channel/n99b16b0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Маньяки
+http://202.181.148.76:8087/channel/3ed60457/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Матвеев
+http://202.181.148.76:8087/channel/3f1045fb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Матч планета.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",МАТЧ Планета
+http://202.181.148.76:8087/channel/n5baf4c4e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Машков
+http://202.181.148.76:8087/channel/n71914593/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мерзликин
+http://202.181.148.76:8087/channel/628ee75f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Миллет.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Миллет
+http://202.181.148.76:8087/channel/n3af00bd7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мир
+http://202.181.148.76:8087/channel/827114f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мир 24
+http://202.181.148.76:8087/channel/n45a8494d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",МИР сериала
+http://202.181.148.76:8087/channel/67f7c237/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Миронов
+http://202.181.148.76:8087/channel/4ca06f84/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мистер бин
+http://202.181.148.76:8087/channel/1ba9b446/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мосфильм. Золотая коллекция
+http://202.181.148.76:8087/channel/n46534927/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мосфильм. Золотая коллекция
+http://202.181.148.76:8087/channel/n5aa337a5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mtrk_kz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",МТРК
+http://202.181.148.76:8087/channel/4a3eadb2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/muz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",муз иностранный канал
+http://202.181.148.76:8087/channel/ncb19074/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Муз тв
+http://202.181.148.76:8087/channel/581d43a2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Мульт.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мульт
+http://202.181.148.76:8087/channel/n29bf185e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Мульт.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мульт
+http://202.181.148.76:8087/channel/958aba9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Мультиландия
+http://202.181.148.76:8087/channel/n17b6b329/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Наше новое кино
+http://202.181.148.76:8087/channel/n1539aa82/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Наше родное кино
+http://202.181.148.76:8087/channel/n1afa737b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Неизвестная планета
+http://202.181.148.76:8087/channel/1f2e4af2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/НИКИ ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ники тв
+http://202.181.148.76:8087/channel/n75d8d31/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новинки
+http://202.181.148.76:8087/channel/n7504453f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новогодние фильмы
+http://202.181.148.76:8087/channel/n7f43af3d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="https://dl.dropboxusercontent.com/s/e3icv0sdxnq7l6t/novoe-tv.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новое
+http://202.181.148.76:8087/channel/n6cf358a0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/nashe-novoe-kino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новое кино
+http://202.181.148.76:8087/channel/n65f2c056/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/e3icv0sdxnq7l6t/novoe-tv.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новое ТВ
+http://202.181.148.76:8087/channel/n2166ba06/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Новые комедии
+http://202.181.148.76:8087/channel/n62466641/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ностальгия
+http://202.181.148.76:8087/channel/5bba772d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НСТ
+http://202.181.148.76:8087/channel/n5b26074a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ
+http://202.181.148.76:8087/channel/10ae05e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ HD
+http://202.181.148.76:8087/channel/n3edd288b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/НТВ Мир.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ мир
+http://202.181.148.76:8087/channel/67620ae7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ Право
+http://202.181.148.76:8087/channel/n62626721/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ Сериал
+http://202.181.148.76:8087/channel/18eb90b3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ Стиль
+http://202.181.148.76:8087/channel/n62453034/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТВ Хит
+http://202.181.148.76:8087/channel/78d6b0f3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/НТК.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",НТК
+http://202.181.148.76:8087/channel/54f9c723/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/О!.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",О!
+http://202.181.148.76:8087/channel/n1374daf5/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Осн тв
+http://202.181.148.76:8087/channel/423072f0/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Остросюжетные сериалы
+http://202.181.148.76:8087/channel/n643225b1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Отечественное кино
+http://202.181.148.76:8087/channel/n6d4e75e8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Охотник
+http://202.181.148.76:8087/channel/n7cc743cd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Панин
+http://202.181.148.76:8087/channel/nbc1cca2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Первый Канал
+http://202.181.148.76:8087/channel/n7b0f20a8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Первый Канал Евразия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Первый канал Евразия
+http://202.181.148.76:8087/channel/ncf20c45/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/55lfdceteqdunge/1sever.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Первый Северный
+http://202.181.148.76:8087/channel/631ee43a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Перец ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Перец ТВ
+http://202.181.148.76:8087/channel/37d16/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Петренко
+http://202.181.148.76:8087/channel/n1c1f6b6d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Победа.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Победа
+http://202.181.148.76:8087/channel/55c6872e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Победа.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Победа
+http://202.181.148.76:8087/channel/n39cafd5b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Поп-Рок
+http://202.181.148.76:8087/channel/nc5785a4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Популярное кино
+http://202.181.148.76:8087/channel/67370f41/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Пореченков
+http://202.181.148.76:8087/channel/n52e8edba/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="http://202.181.148.76:8087/logos/premialnoe.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Премиальное тв
+http://202.181.148.76:8087/channel/n3ff6509a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Прима.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Прима
+http://202.181.148.76:8087/channel/7d15140f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Про родителей
+http://202.181.148.76:8087/channel/1f7a8934/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://dl.dropboxusercontent.com/s/zu7jplx4kta6roq/promotv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Промо IPTV Play
+http://202.181.148.76:8087/channel/n94b168b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Психологические ужасы
+http://202.181.148.76:8087/channel/5f26b42f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Пускепалис
+http://202.181.148.76:8087/channel/n1b62a372/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Путешествие во времени
+http://202.181.148.76:8087/channel/n6d36f750/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Пятница.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Пятница
+http://202.181.148.76:8087/channel/n369a8b4a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Пятый канал
+http://202.181.148.76:8087/channel/n306f8556/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Радио Шансон.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Радио Шансон
+http://202.181.148.76:8087/channel/fbdfd1e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/РБК.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",РБК
+http://202.181.148.76:8087/channel/n29e47a98/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Рекомендованное кино
+http://202.181.148.76:8087/channel/1f7ddb68/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",РЕН ТВ
+http://202.181.148.76:8087/channel/55212f97/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Ретро.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Ретро
+http://202.181.148.76:8087/channel/n298cfebd/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Родное кино
+http://202.181.148.76:8087/channel/n1509b061/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Рождественские фильмы
+http://202.181.148.76:8087/channel/n6af4335/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Романтические фильмы
+http://202.181.148.76:8087/channel/n6788109e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Русский корабль Test
+http://202.181.148.76:8087/channel/n7c6e370c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Русский роман
+http://202.181.148.76:8087/channel/ne95867e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Рэп
+http://202.181.148.76:8087/channel/83ef5df/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/Светлое тв.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Светлое тв
+http://202.181.148.76:8087/channel/1d9091c9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Семеиный канал test
+http://202.181.148.76:8087/channel/n24f17c6d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Семейное кино
+http://202.181.148.76:8087/channel/9c48264/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Семейное кино 2
+http://202.181.148.76:8087/channel/n5552828a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Сибирь 24
+http://202.181.148.76:8087/channel/1b05c2b1/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Сказки
+http://202.181.148.76:8087/channel/n6887140f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="https://dl.dropboxusercontent.com/s/u38m6767d18jnh8/skif-v.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Скиф беларусь
+http://202.181.148.76:8087/channel/3d1b61da/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="https://dl.dropboxusercontent.com/s/u38m6767d18jnh8/skif-v.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Скиф тв
+http://202.181.148.76:8087/channel/51ec147e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",смотри радио орск ру
+http://202.181.148.76:8087/channel/70085365/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Смотрим Мелодрамы HD
+http://202.181.148.76:8087/channel/97c1435/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Советские комедии
+http://202.181.148.76:8087/channel/n3d6b3a84/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Советское родное
+http://202.181.148.76:8087/channel/n7753b930/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Солнце.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СОЛНЦЕ
+http://202.181.148.76:8087/channel/n7b4598a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Соловьев Live
+http://202.181.148.76:8087/channel/n4ebf9638/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Сочи Live
+http://202.181.148.76:8087/channel/n3800508a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/СоюзМультфильм.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СоюзМультфильм
+http://202.181.148.76:8087/channel/6ca627ab/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Спортивный.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Спортивный
+http://202.181.148.76:8087/channel/2e8d2cee/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/strana-fm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Страна ФМ
+http://202.181.148.76:8087/channel/n37aa7294/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="http://202.181.148.76:8087/logos/strana-fm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",страна фм
+http://202.181.148.76:8087/channel/50e3718c/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Страх тв
+http://202.181.148.76:8087/channel/24587a55/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Страх тв
+http://202.181.148.76:8087/channel/548f84a4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СТРТВ
+http://202.181.148.76:8087/channel/n5eb42b5b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/СТС.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СТС
+http://202.181.148.76:8087/channel/10aef71/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="http://202.181.148.76:8087/logos/sts-kids.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СТС  KIDS
+http://202.181.148.76:8087/channel/44cfb20b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",СТС Love
+http://202.181.148.76:8087/channel/n482fb526/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Тайны и следствие
+http://202.181.148.76:8087/channel/5bfd0164/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Тамбов
+http://202.181.148.76:8087/channel/29cc2db3/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/ТВ21.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТВ21
+http://202.181.148.76:8087/channel/3a47aa75/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ТВ3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТВ3
+http://202.181.148.76:8087/channel/n82d999f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ТВК.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТВК
+http://202.181.148.76:8087/channel/n45084e83/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://dl.dropboxusercontent.com/s/qq07nai48ioorxn/tvoekz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТВОЕ ТВ
+http://202.181.148.76:8087/channel/15f17e17/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Театр.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Театр
+http://202.181.148.76:8087/channel/n2971130d/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Телекафе
+http://202.181.148.76:8087/channel/7483addc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТНТ
+http://202.181.148.76:8087/channel/10af298/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ТНТ 4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТНТ 4
+http://202.181.148.76:8087/channel/n15e74f54/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Топ кино
+http://202.181.148.76:8087/channel/n47a11a11/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Топ Секрет
+http://202.181.148.76:8087/channel/n680ecc3a/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Триллеры США
+http://202.181.148.76:8087/channel/16a2462/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Триллеры-Боевики
+http://202.181.148.76:8087/channel/5eb54df8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Триллеры-Драма
+http://202.181.148.76:8087/channel/64f64ae4/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-logo="../Channel/Logo/ТСВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ТСВ
+http://202.181.148.76:8087/channel/n337875c8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Уникум
+http://202.181.148.76:8087/channel/n2883063/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-logo="../Channel/Logo/Фантастика.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",фантастика
+http://202.181.148.76:8087/channel/446a87/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Фестивальное кино
+http://202.181.148.76:8087/channel/n1056f713/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Фильмы и Сериалы
+http://202.181.148.76:8087/channel/n29dcb67e/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Фильмы катастрофы
+http://202.181.148.76:8087/channel/2af63f43/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Фильмы молодости
+http://202.181.148.76:8087/channel/5c13134f/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Футболл тв
+http://202.181.148.76:8087/channel/13c334b9/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Футбольный.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Футбольный
+http://202.181.148.76:8087/channel/n241ad357/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Фэнтизи
+http://202.181.148.76:8087/channel/177f85f8/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Хабар.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Хабар
+http://202.181.148.76:8087/channel/n1e37ffc/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Хабар 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Хабар 24
+http://202.181.148.76:8087/channel/3695cfde/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Хабенский
+http://202.181.148.76:8087/channel/74ca0a55/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Хиты
+http://202.181.148.76:8087/channel/n5e3e51/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Хокейный
+http://202.181.148.76:8087/channel/n4a32e2bb/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Music" tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Шансон тв
+http://202.181.148.76:8087/channel/7be5cf03/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Щелковское
+http://202.181.148.76:8087/channel/n307606e7/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="Cinemas_Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Экранизации
+http://202.181.148.76:8087/channel/35889bc2/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",Эхо 24
+http://202.181.148.76:8087/channel/627e5282/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ЮУрГу ТВ
+http://202.181.148.76:8087/channel/66321661/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
+#EXTINF:-1 group-title="VPN Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="Новыйffffcd",ЯСНОЕ ТВ
+http://202.181.148.76:8087/channel/40fdca9b/index.m3u8?q=af140295ef8e5d121a45d1e7e9093c1b
