@@ -12,17 +12,16 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания. 
-
 #EXTINF:-1 group-title="Беларусь | Беларускія 🥔🇧🇾" tvg-logo="../Channel/Logo/+TV.png",+TV
 http://87.99.87.203:2007/channel/7143afea/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
 #EXTINF:-1 group-title="↕️ 🔺PLAYLIST INFORMATION🔺INFO 🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico",+✓Обновление:2042/05/08🔺INFO 🔴🔺↕️
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan",.Black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.one/img2/935.png",.black
 https://stream01.vnet.am/Kinosemya/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.one/img2/935.png",.black
 http://stream01.vnet.am/Kinosemya/mono.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="http://epg.one/img2/935.png",.Black
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://ttvrun.one/uploads/8zphUrweAXT3F5xTpqoNyWWBTLjxd8.png",.black
 http://91.205.199.3:80/black/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",.black HD
@@ -35,10 +34,8 @@ http://178.124.152.238:8088/sony
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.it999.ru/img/311.png",.RED HD
 http://91.205.199.3:80/redhd/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="http://epg.one/img2/516.png",.Sci-Fi
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan",.Sci-Fi
 http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",.Sci-Fi
-http://live.admuspeh.my/8115/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.one/img2/516.png",.Sci-fi HD
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210269",.sci-fi HD
@@ -289,10 +286,10 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16190/hls/pl.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",2TV HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43762/hls/pl.m3u8
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/2x2.png",2x2
+http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/2x2.png",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/2x2.png",2x2
-http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/2x2.png",2x2
 http://95.142.88.250:80/2x2/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/2x2.png",2x2
@@ -1315,7 +1312,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31792/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",AMC+ (1080p)
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia 1.png",Amedia 1
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Amedia 1.png",Amedia 1
 http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 1.png",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
@@ -1323,9 +1320,7 @@ http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 1 HD.png",Amedia 1 HD
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia 1 HD.png",Amedia 1 HD
-http://live.admuspeh.my/8204/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
 http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/25386/hls/pl.m3u8
@@ -1335,8 +1330,6 @@ http://sc.id-tv.kz/A2.m3u8
 http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Amedia 2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Amedia 2 HD
-http://live.admuspeh.my/8927/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit
 http://213.226.137.140:81/tl/l90/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia Hit.png",AMEDIA HIT
@@ -1355,10 +1348,10 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia Premium.png",Amedia Premium
 http://91.205.199.3/amediapremiumhd/index.m3u8
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
+http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
-http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.it999.ru/img/2246.png",Amedia Premium HD
 http://91.205.199.3:80/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
@@ -1405,10 +1398,10 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Animal Planet.png",Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
 https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
@@ -1761,12 +1754,6 @@ http://stream.zeno.fm/hpdayz31vd0uv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://i.imgur.com/01UmXRe.png",BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/BCU CATASTROPHE HD.png",BCU Catastrophe HD
-http://live.admuspeh.my/8877/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/BCU CINEMA HD.png",BCU Cinema HD
-http://live.admuspeh.my/8891/index.m3u8?token=TestuspehTva
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Cinema+ HD
-http://live.admuspeh.my/8892/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217387",BCU Comedy HDR
 http://pl01.spr24.net/20841/index.m3u8?token=56BezVcd3iczwr
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Cosmo HD
@@ -1777,22 +1764,12 @@ http://ronaldo.tvfor.pro/PUyDTRDUbe/l6i55j264w9187bml44emph2
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/BCU FILMYSTIC HD.png",BCU FilMystic HD
 http://ronaldo.tvfor.pro/uTOLclPPwX/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/BCU FILMYSTIC HD.png",BCU FilMystic HD
-http://live.admuspeh.my/8880/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU History HD
-http://live.admuspeh.my/8881/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Kids HD
 http://ip1.orgip.net/1610/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Kids+
-http://live.admuspeh.my/8454/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Kids+ HD
 http://ip1.orgip.net/1609/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Kinorating
-http://live.admuspeh.my/8455/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Kinorating HD
 http://ip1.orgip.net/1613/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Little
-http://live.admuspeh.my/8979/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/BCU MARVEL HD.png",BCU Marvel HD
 http://ip1.orgip.net/1612/video.m3u8?token=Md7ac19a92
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=216775",BCU Marvel HDR
@@ -1809,40 +1786,26 @@ http://ip1.orgip.net/1623/video.m3u8?token=Md7ac19a92
 http://ip1.orgip.net/1614/video.m3u8?token=Md7ac19a92
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://epgx.site/p/bcu-premiere-4k.png",BCU Premiere Ultra 4K
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/15023/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Reality
-http://live.admuspeh.my/8910/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Reality HD
 http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Romantic HD
 http://ip1.orgip.net/1616/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Romantic HD
-http://live.admuspeh.my/8884/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Ruserial HD
 http://ronaldo.tvfor.pro/fCBwJzbFOp/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Russian
-http://live.admuspeh.my/8457/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/BCU RUSSIAN HD.png",BCU Russian HD
 http://ip1.orgip.net/1617/video.m3u8?token=Md7ac19a92
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Stars HD
 http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Stars HD
 http://ip1.orgip.net/1618/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Survival
-http://live.admuspeh.my/8912/video.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Survival HD
 http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU TruMotion HD
 http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BCU Ultra 4K
 http://ip1.orgip.net/1619/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/BCU VHS.png",BCU VHS
-http://live.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/BCU VHS HD.png",BCU VHS HD
 http://ip1.orgip.net/1620/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Мультсериал HD
-http://live.admuspeh.my/8874/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BCU Сваты HD
-http://live.admuspeh.my/8889/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png",Be Mad (1080p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000119Q_20240924T010938SQUARE.png",Beach Bonfire Vibes
@@ -1965,7 +1928,7 @@ https://antares.dribbcast.com/proxy/kpop?mp=/s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f30c19d5ac4000816e9b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7100d07b-f28e-45b2-a51d-6e87563b3fba
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Big Noise
 https://stream01.pcradio.ru/bignoise_club-med
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="http://epg.one/img2/7623.png",Big Planet
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan",Big Planet
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
@@ -1997,8 +1960,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Black
 http://91.205.199.3/black/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",black
-http://live.admuspeh.my/8663/index.m3u8?token=tvauspehtest
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/FKBp987.png",Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/2nNpGqy.png",Black Classics
@@ -2077,46 +2038,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
 #EXTINF:-1 group-title="США | USA PindosUnited States",Bounce XL (720p)
 https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Anime
-http://live.admuspeh.my/8984/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Apocalypse HD
-http://live.admuspeh.my/8441/video.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",BOX Be ON Edge HD
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/19424/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",BOX Be ON Edge HD
 http://wps5c7yt.rostelekom.xyz/iptv/43TG4KV2H2ZT3A/19424/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Cyber
-http://live.admuspeh.my/8419/video.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BOX Cyber HD
 http://wps5c7yt.rostelekom.xyz/iptv/B5MWVF2B66GG8B/19421/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Docu
-http://live.admuspeh.my/8424/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Franchise
-http://live.admuspeh.my/8982/video.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=205100",BOX Franchise HDR
 http://pl01.spr24.net/21209/index.m3u8?token=56BezVcd3iczwr
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Ghost
-http://live.admuspeh.my/8428/video.m3u8?token=TestuspehTva
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Kosmo 4K
-http://live.admuspeh.my/8448/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX M.Serial
-http://live.admuspeh.my/8988/video.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://epgx.site/p/box-music-4k.png",BOX Music 4K
 http://ec1df710.edmonst.net/iptv/BG3TE5HEQRXENC/19282/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Music 4K
-http://live.admuspeh.my/8990/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Oscar
-http://live.admuspeh.my/8986/video.m3u8?token=TestuspehTva
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Premiere 4K
-http://live.admuspeh.my/8452/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://epgx.site/p/box-ru-rap.png",BOX RU.RAP HD
 http://ec1df710.edmonst.net/iptv/BG3TE5HEQRXENC/20171/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX SportCast
-http://live.admuspeh.my/8447/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Spy
-http://live.admuspeh.my/8354/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",BOX Western
-http://live.admuspeh.my/8417/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BOX Zombie HD
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/19420/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",BOX Zombie HD
@@ -2153,8 +2086,6 @@ https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/BRIDGE TV.png",Bridge TV
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/BRIDGE TV.png",Bridge TV
-http://live.admuspeh.my/8527/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",Bridge TV Classic
 https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",Bridge TV Classic
@@ -2303,8 +2234,6 @@ https://stream.arkomnet.eu/bacowka_gawel/index.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
 https://5d881567b7568.streamlock.net/live/Slechtvalk1Buiten.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
-http://31.47.96.14:80/hls/eroplan.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
 https://5d881567b7568.streamlock.net/live/Praathuis/chunklist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",CAMERA
@@ -2531,8 +2460,6 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Cartoon Network.png",CARTOON NETWORK
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Cartoon Network.png",Cartoon Network
-http://live.admuspeh.my/8064/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Япония | Japan",Cartoon Network Japan (400p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="http://epg.one/img2/929.png",Cartoonito
@@ -2543,8 +2470,6 @@ http://stream01.vnet.am/Channel_120/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="http://epg.one/img2/929.png",Cartoonito
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Детские 👶",Cartoonito
-http://live.admuspeh.my/8332/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Детские 👶",Cartoonito HD
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Cartoons 90
@@ -3019,8 +2944,6 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 http://213.226.137.140:81/tl/l400/mpegts
 #EXTINF:-1 group-title="США | USA PindosUnited States",CNC Medellín (720p)
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="../Channel/Logo/CNN.png",CNN
-http://tv14s.xyz:8080/4wVQA7/625159/47213
 #EXTINF:-1 group-title="США | USA PindosUnited States",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",CNN International HD
@@ -3467,14 +3390,14 @@ https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 http://95.142.88.250:80/Discovery_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel.png",Discovery Channel
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery channel HD
 https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
-http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝",Discovery ID
@@ -4055,16 +3978,10 @@ http://158.101.214.187:8080/channel/n7bcd1981/index.m3u8?q=b3aed6023d7c12e2be7c0
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Eurosport 2 HD.png",Eurosport 2 HD
 http://95.142.88.250:80/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Eurosport 2 HD.png",Eurosport 2 HD
-http://live.admuspeh.my/8014/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185088",Eurosport 2 HD (Польша)
 http://158.101.214.187:8080/channel/n46e6de40/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Eurosport 2 HD CEE
-http://live.admuspeh.my/8014/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Eurosport HD.png",Eurosport HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Eurosport HD 2 CEE
-http://live.admuspeh.my/8163/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="США | USA PindosUnited States",Everyday Refresh
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/DKmEBLp.png",EVRGRN TV (1080p)
@@ -5003,12 +4920,12 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/Kk0A2o7.png",Hirshabelle TV (576p)
 http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/History HD.png",History HD
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/1394.png",History HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/45221/hls/pl.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/History HD.png",History HD
 http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/History HD.png",History HD
-http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/HISTORY2 HD.png",History2 HD
 http://rr2.73mtv.org/109e1a3c05fcad5b22d13b9453dc0db5122/47392/hls/pl.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Hit FM
@@ -5031,14 +4948,12 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 https://docds5gyr3599.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wadxll2goooqs/SONO61.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900002P8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Holidayscapes (1080p)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
 http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
 http://95.142.88.250:80/Hollywood/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/48359/hls/pl.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood HD
-http://live.admuspeh.my/8651/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 group-title="США | USA PindosUnited States",Hollywood Squares
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64387bb1af2bd90008978a2b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f91-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d81871f-c064-4dcc-9178-9fea4543c8b2
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",Home & Shopping (720p)
@@ -5123,8 +5038,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",HSN2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.it999.ru/img/2105.png",HTH
-http://live.admuspeh.my/8280/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",HTH HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32938/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
@@ -5221,8 +5134,6 @@ http://ott.server-iptv.live/302/video.m3u8?token=M4f082ab4c
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/500/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/ICTV.png",ICTV
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4305/stream.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦",ICTV 2
-http://live.admuspeh.my/8077/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",ICTV 2 HD
 http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",ICTV 2 hd
@@ -5233,8 +5144,6 @@ http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 http://cdnua05.hls.tv/427/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/3307.png",ICTV HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47927/hls/pl.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",ICTV HD
-http://live.admuspeh.my/8092/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",ICTV Серіал HD
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",ICTV Серіал r1
@@ -5389,8 +5298,6 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/rk7fMNe.png",Iron Chef
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6148c756ce8091000748d113/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0631b4f5-34e8-4fb8-b19f-04e5c118a18f
-#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Isango TV [rw]
-http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Ishtar TV (1080p)
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/dum5KJj.png",IskelmäTV (720p)
@@ -5863,10 +5770,6 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://i.imgur.com/qLMcGPT.png",Khanh Hoa TV (720p)
 http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/KHL.png",KHL
-http://live.admuspeh.my/8025/index.m3u8?token=Tva7UspehTest25w
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/KHL.png",KHL
-http://live.admuspeh.my/8025/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",KHL Prime HD
 http://95.142.88.250:80/KHL_TV/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://m3u.admuspeh.my/icon/KHL%20Prime%20FHD.png",KHL Prime HD
@@ -5901,8 +5804,6 @@ http://87.99.87.203:2020/channel/n216d0c1/index.m3u8?q=e329a8ed47aaa7d3d3187d570
 http://ott.watch/stream/A2Q8BAKW82/465.m3u8
 #EXTINF:-1 group-title="Детские 👶",KINO Казка
 http://cdnua03.hls.tv/948/hls/8743361621b245838bee193c9ec28322/4812/stream.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Kinohit
-http://live.admuspeh.my/8039/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/KinoJam 2.png",KINOJAM 2
 http://rr3.vipshara-iptv.com/~109e1a3c05fcad5b22d13b9453dc0db5122/27593/hlsx/pl.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Kinokazka
@@ -5915,8 +5816,6 @@ http://158.101.214.187:8080/channel/n2ea8198f/index.m3u8?q=7ee6da511c20602ecb091
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/9123.png",Kinoliving
 http://ott.server-iptv.live/1663/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Kinoliving
-http://live.admuspeh.my/8148/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Kinoliving
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Kinoshka Thriller HD
@@ -6149,8 +6048,6 @@ https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8
 https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/tMfEsVr.png",LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
-#EXTINF:-1 group-title="Телемагазины 🧿",Leomax 24
-https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/JmAYoJH.png",Les Cordier
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057881-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5245267d-c5fb-4400-bd66-dc84e2d51b0d
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/ego8ozn.png",Les Nouveaux Detectives
@@ -6431,8 +6328,6 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Mar tv.png",Mar TV
 http://iptv.services.everywan.net:8080/martv-web/video.m3u8
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Marco Polo TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e4e14-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86370235-72a6-4e96-963e-db24b49333fb
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/tAaMdp0.png",Marco Polo TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb624-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c670d03b-8683-44b1-822a-72919a68ae4d
 #EXTINF:-1 group-title="Швейцария | Switzerland",Marco Polo TV
@@ -6493,8 +6388,6 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="Япония | Japan",MBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/MCM Top.png",MCM Top
-https://live.admuspeh.my/8351/index.m3u8?token=UKbckkfX25PMSzWo
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",MCOT HD
 https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD (720p)
@@ -6679,24 +6572,14 @@ http://wps5c7yt.rostelekom.xyz/iptv/PN72TRC6UNHLF9/19412/index.m3u8
 http://5azloj1g.ottclub.xyz/iptv/PPSXXCCMQBN2L9/13015/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="http://epg.one/img2/5128.png",MM Rock HD
 http://5azloj1g.ottclub.xyz/iptv/MCNKPHD9Y8P8C7/13015/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM Walt Disney HD
-http://live.admuspeh.my/8914/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183128",MM Боевик Classic HD
 http://345f89f7.ottrast.com/iptv/BG3TE5HEQRXENC/13027/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM Боевик Classic HD
-http://live.admuspeh.my/8411/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183129",MM Боевик HD
 http://345f89f7.ottrast.com/iptv/BG3TE5HEQRXENC/13028/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM История HD
-http://live.admuspeh.my/8933/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM Катастрофа HD
-http://live.admuspeh.my/8746/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="http://epg.one/img2/5148.png",MM Квартирник HD
 http://5azloj1g.ottclub.xyz/iptv/MCNKPHD9Y8P8C7/13035/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://epgx.site/p/minimax-kinofestival.png",MM Кинофестиваль HD
 http://pe7bw0xr.tvclub.xyz/iptv/BG3TE5HEQRXENC/31621/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM Кунг-Фу HD
-http://live.admuspeh.my/8559/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝",MM Макромир HD
 http://ecc91067.rossteleccom.net/iptv/VBRXVR8ZAEZMQ5/18194/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",MM Макромир HD
@@ -6711,8 +6594,6 @@ http://ecc91067.rossteleccom.net/iptv/NMES8T6ZCFEU65/18193/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/7ED3BNGL3REZNT/19415/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",MM Открытия HD
 http://wps5c7yt.rostelekom.xyz/iptv/HW2USPFUYN593P/19415/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MM Семейный 2 HD
-http://live.admuspeh.my/8449/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",MMA TV
 http://sc.id-tv.kz/M-1.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",MMA-TV
@@ -6731,8 +6612,6 @@ https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540ff2d770cf1000866b90a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b3230b6-e0bb-4431-bee9-87f6c6f5b2d2
 #EXTINF:-1 group-title="США | USA PindosUnited States",Modern Marvels Presented by HISTORY
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
-#EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹",Moldova 1 MD
-http://live.admuspeh.my/8900/index.m3u8?token=7tiTkgdug3Hkgr
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹",Moldova TV
 http://89.38.8.130:39435
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Moleta mix 12
@@ -6843,8 +6722,6 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/MTV.png",Mtv
 http://destinyip.tv:2086/live/SOTVtqq7LN/PIPQzBlxCm/4730.ts
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",MTV 00s
-http://live.admuspeh.my/8032/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/MTV 90s.png",MTV 90S
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/1038/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="https://iptvx.one/picons/mtv-rocks.png",MTV 90s
@@ -6865,8 +6742,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",MTV Classic East [us]
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/MTV Club.png",MTV Club
-http://live.admuspeh.my/8998/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",MTV Dating
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a0c230ab3300084369b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70f03476-c602-474c-9bec-e1c4bbf13a02
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/dD7WbQC.png",MTV Dating
@@ -6881,8 +6756,6 @@ http://213.226.137.140:81/tl/l302/mpegts
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/MTV Live HD.png",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/MTV Live HD.png",MTV Live HD
-http://live.admuspeh.my/8177/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="../Channel/Logo/MTV Music.png",MTV Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
 #EXTINF:-1 group-title="Швейцария | Switzerland" tvg-logo="../Channel/Logo/MTV Music.png",MTV Music
@@ -7291,8 +7164,6 @@ http://95.142.88.250:80/Nick_Jr./index.m3u8
 http://ott.watch/stream/FW77EY74W5/220.m3u8
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Nick jr.png",Nick Jr
 http://158.101.214.187:8080/channel/nfad333e/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-#EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/Nick Jr..png",Nick Jr.
-http://live.admuspeh.my/8153/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Детские 👶",Nick Jr. Baltic
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/72837/hls/pl.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr. East (720p)
@@ -8285,8 +8156,6 @@ http://s1.worldcam.live:8081/lotniskoleszno/tracks-v1/mono.m3u8
 https://s1.worldcam.live:8082/rabien/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://4.imimg.com/data4/TV/CX/MY-12278352/cctv-camera-office-250x250.jpg",Poland 30
 https://stream.arkomnet.eu/ciecina/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Poland 4
-http://s1.worldcam.live:8081/mwgmazury/index.m3u8
 #EXTINF:-1 group-title="Чехия | Czech Republic 🇨🇿",POLAR 2 HD
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Polar Bear Family
@@ -8845,8 +8714,6 @@ http://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-96.aac
 http://chantefranceparty.ice.infomaniak.ch/chantefranceparty-96.aac
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Chveneburi
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Citrus FM (GE)
-http://iis.ge:8000/CitrusFm.mp3
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio City BG
 http://stream81.metacast.eu/city128
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio City BG-HipHop & RNB
@@ -9001,8 +8868,6 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Italia Anni 60
 http://ice04.fluidstream.net/ria60_ba.mp3
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Italo Melody
-http://stream.italomelody.uk:8680/live320.mp3
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Italo4you (PL)
 https://ssl-1.radiohost.pl:8018/stream/1/
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Jard (PL)
@@ -10257,7 +10122,7 @@ http://213.226.137.140:81/tl/l321/mpegts
 http://213.226.137.140:81/tl/l321/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/RTG HD.png",RTG HD
 http://91.205.199.3/rtghd/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/RTG TV.png",RTG TV
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/RTG TV.png",RTG TV
 http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/RTG TV.png",RTG TV
 http://178.124.152.238:8088/rtg
@@ -10487,8 +10352,6 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Scharbeutz Ferienwohnung Meersehen
 https://ch-fra-n2.livespotting.com/vpu/azcqykit/qovrg03j_720.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",sci-fi
-http://live.admuspeh.my/8115/index.m3u8?token=tvauspehtest
 #EXTINF:-1 group-title="США | USA PindosUnited States",Scientology Network (1080p)
 https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Scooore
@@ -10595,8 +10458,6 @@ http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/2209/index.m3u8
 http://34900a7f.megogo.xyz/iptv/BG3TE5HEQRXENC/6543/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203770",Setanta Sports Eurasia+ HD
 http://34900a7f.megogo.xyz/iptv/BG3TE5HEQRXENC/6544/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Setanta Sports HD.png",Setanta Sports HD
-http://live.admuspeh.my/8565/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://lighticons.art/storage/images/channels/c4a9d14351d77ae72574654044aa611c.png?d=1697096937",Setanta Sports Moldova HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63395/hls/pl.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Setanta Sports UA.png",Setanta Sports UA
@@ -10609,8 +10470,6 @@ http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=a19e02912cc0858ab3f097
 http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210532",Setanta Sports Ukraine HD
 http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Setanta Sports+ HD.png",Setanta Sports+ HD
-http://live.admuspeh.my/8676/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210533",Setanta Sports+ Ukraine HD
 http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Setanta Ukraine Plus HD
@@ -10717,10 +10576,6 @@ http://tkosportz.live:25461/6066278099/buddyburnette/14930
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/19404/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Sky High Brain HD
 http://wps5c7yt.rostelekom.xyz/iptv/T44L2UABCLH42U/19404/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝",SKY HIGH DOCU HD
-http://live.admuspeh.my/8686/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCHits.png",SKY HIGH MIX 4K
-http://live.admuspeh.my/8682/video.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCHits.png",SKY HITS
 http://tkosportz.live:25461/6066278099/buddyburnette/14931
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCScifi.png",SKY HORROR
@@ -10751,16 +10606,10 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2.m3u8
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35238
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/4577.png",SKY SPORTS CRICKET UK
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/45940
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports Darts.png",Sky Sports Darts
-http://live.admuspeh.my/8688/index.m3u8?token=iptvshared
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports F1 HD.png",Sky Sports F1 HD
-http://live.admuspeh.my/8687/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/4576.png",SKY SPORTS F1 UK
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53704
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",SKY SPORTS FOOTBALL UK HD
 http://ronaldo.tvfor.pro/LKGg4xhJ/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports Golf.png",Sky Sports Golf
-http://live.admuspeh.my/8918/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/4578.png",SKY SPORTS GOLF UK
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35240
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports HD.png",Sky Sports HD
@@ -10769,12 +10618,8 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35243
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/4573.png",SKY SPORTS MIX
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53706
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports Mix HD.png",Sky Sports Mix HD
-http://live.admuspeh.my/8674/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports News.png",SKY Sports News
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35241
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Sky Sports Premier League HD.png",Sky Sports Premier League HD
-http://live.admuspeh.my/8917/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/4569.png",SKY SPORTS PREMIER LEAGUE UK
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53705
 #EXTINF:-1 group-title="США | USA PindosUnited States",Sky Thoroughbred Central (720p)
@@ -10855,8 +10700,6 @@ https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 http://e79.kr:80/ballad
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",South Park
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦",South Park En Français
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb919d36cbd0007e6ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0254-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3779233e-781d-466c-a70d-0dbdb22e3f67
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",South Park: Butters Collection
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c33f5b82-5c79-40fb-b393-4882708946ac
 #EXTINF:-1 group-title="Швейцария | Switzerland",South Park: Butters Collection
@@ -11013,7 +10856,7 @@ http://185.23.80.28:8080/StarCinema/index.m3u8?token=test
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=fas-tv.com
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Star Cinema.png",Star Cinema
 https://s1.merlive.am/starsinema/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Star Cinema HD
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Star Cinema HD.png",Star Cinema HD
 http://158.101.214.187:8080/channel/n2e9da519/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Star Cinema HD.png",Star Cinema HD
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
@@ -11033,7 +10876,7 @@ http://185.23.80.28:8080/StarFamily/index.m3u8?token=fas-tv.com
 http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="Индия | India 🇮🇳",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Star Family HD
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Star Family HD.png",Star Family HD
 http://158.101.214.187:8080/channel/21103994/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
@@ -11661,7 +11504,7 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/TLC.png",TLC
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/232/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/TLC HD.png",TLC HD
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/TLC HD.png",TLC HD
 http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
 #EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/TLC HD.png",TLC HD
 http://178.219.128.68:64888/TLCHD
@@ -11759,8 +11602,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",TopEstrada TV
-http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Toronto 360 TV (720p) [Not 24/7]
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="https://i.imgur.com/YJYdHKO.png",Toronto 360 TV (720p) [Not 24/7]
@@ -11821,17 +11662,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b54-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abddc540-8919-4da1-b7b9-ffa5730e3bfb
 #EXTINF:-1 group-title="США | USA PindosUnited States",Transformers TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Trash TV
-http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Trash TV
 http://ip1.orgip.net/674/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Trash TV
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/613.png",Travel Channel
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/43872/hls/pl.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Travel channel.png",TRAVEL channel
 http://cdnua03.hls.tv/544/hls/8743361621b245838bee193c9ec28322/307/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Travel+Adventure.png",Travel+Adventure
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Travel+Adventure.png",Travel+Adventure
 http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/1035.png",Travel+Adventure
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/44662/hls/pl.m3u8
@@ -11938,11 +11779,7 @@ http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",TV Berlin (720p)
 https://live2.telvi.de/hls/tvberlin.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/TV BRICS.png",TV BRICS
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/TV BRICS.png",TV BRICS
 http://185.23.80.28:8080/TVBRICS/index.m3u8?token=test
-#EXTINF:-1 group-title="Новости",Tv Brics russian
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Чехия | Czech Republic 🇨🇿",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/hHrIn0r.png",TV BUAP (1080p)
@@ -11959,16 +11796,12 @@ https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://i.imgur.com/wNULjux.png",TV Cordeiro (360p)
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/ChonoKb.png",TV CRET (1080p)
-https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://i.imgur.com/JdCKNZ4.png",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",TV Daja (1080p)
-https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/kLl3ar5.png",TV Dielli (720p) [Not 24/7]
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil" tvg-logo="https://i.imgur.com/hEd25Cr.png",TV Difusora Leste (1080p)
@@ -12121,10 +11954,10 @@ http://87.246.60.6:11015?token=fas-tv.com
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36234/hls/pl.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/TV1 KG HD (Кыргызстан).png",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/TV1000.png",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV1000.png",TV1000
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/TV1000.png",TV1000
-http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/TV1000.png",TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/TV1000.png",TV1000
@@ -12223,8 +12056,6 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/TVM Channel.png",TVM Channel
 http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
-#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/fyCC8R6.png",TVM El Salvador
-http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",TVMChannel
 http://185.23.80.28:8080/TVMChannel/index.m3u8?token=test
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹",TVN (1080p)
@@ -12643,7 +12474,7 @@ http://213.226.137.140:81/tl/l94/mpegts
 http://158.101.214.187:8080/channel/2bba7434/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Viasat explore HD.png",Viasat Explore HD
 https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Viasat history.png",Viasat History
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Viasat history.png",Viasat History
 http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Viasat history.png",Viasat History
 http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
@@ -12679,12 +12510,12 @@ http://8c902592.rossteleccom.net/iptv/DSY4CY6M8DWFS6/14141/index.m3u8
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/14141/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",VIASAT KINO WORLD
 http://ip1.orgip.net/1608/video.m3u8?token=Md7ac19a92
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
 http://213.226.137.140:81/tl/l96/mpegts
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Viasat nature.png",Viasat Nature
-http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Viasat nature HD.png",Viasat Nature HD
 http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Viasat nature HD.png",Viasat Nature HD
@@ -12729,16 +12560,10 @@ http://158.101.214.187:8080/channel/58b8c63d/index.m3u8?q=7ee6da511c20602ecb091c
 http://158.101.214.187:8080/channel/73d3b296/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",VIJU TV1000 Новелла
 http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Viju TV1000 новелла HD
-http://live.admuspeh.my/8973/index.m3u8?token=Sgir7vDiv8Rk9fKO
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Viju TV1000 Новелла HD
 http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Viju TV1000 Русское
 http://213.226.137.140:81/tl/l93/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Viju TV1000 Русское HD
-http://live.admuspeh.my/8050/index.m3u8?token=iptvshared
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Viju+ Comedy
-http://live.admuspeh.my/8108/index.m3u8?token=Sgir7vDiv8Rk9fKO
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.it999.ru/img/2823.png",Viju+ Comedy HD
 http://91.205.199.3:80/vipcomedi/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Viju+ Comedy HD
@@ -12781,14 +12606,10 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/VIP Comedy HD.png",VIP Comedy HD
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/VIP Comedy HD.png",VIP COMEDY HD
-http://live.admuspeh.my/8108/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/VIP Comedy HD.png",Vip Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 group-title="Азербайджан | Azərbaycan",VIP HD
 http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/VIP Megahit HD.png",VIP MEGAHIT HD
-http://live.admuspeh.my/8109/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/VIP Megahit HD.png",VIP Megahit HD
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/VIP Megahit HD.png",Vip Megahit HD
@@ -12799,10 +12620,10 @@ http://ronaldo.tvfor.pro/btQcuCtcIt/l6i55j264w9187bml44emph2
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/VIP Premiere HD.png",VIP PREMIERE HD
 http://213.226.137.140:81/tl/l319/mpegts
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.it999.ru/img/2838.png",VIP Serial HD
 http://91.205.199.3/vipserialhd/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",VIP Serial HD
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7539.png",ViP Sport 1
 http://eqatmiyg.megogo.xyz/iptv/MVTMCC4UTAZVDT/20099/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7539.png",ViP Sport 1
@@ -13459,7 +13280,7 @@ https://hls.augrea.stream/coral/hls/stream.m3u8
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Авто 24.png",Авто 24
 http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Авто Плюс.png",Авто плюс
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Авто Плюс.png",Авто плюс
 http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="http://epg.one/img2/153.png",Авто Плюс
 http://u.vipl.one/high/kyhnzwfmb2/266.m3u8
@@ -13747,8 +13568,6 @@ https://mults.info/mp4/arhangelskie_novelly.mp4
 http://185.23.80.28:8080/Arxyz24/index.m3u8?token=test
 #EXTINF:-1 group-title="📺 Региональные",АСТВ(Южно-Сахалинск)
 https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Астрахань 24 HD
-http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Атмосфера
 https://stream01.pcradio.ru/atmoradio_ru-med
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ах эти жмурки!
@@ -13811,7 +13630,7 @@ http://194.158.222.36:6101
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Беларусь | Беларускія 🥔🇧🇾" tvg-logo="../Channel/Logo/Беларусь 2.png",Беларусь 2
 http://93.189.224.246:52900/play/a003/index.m3u8
-#EXTINF:-1 group-title="Беларусь | Беларускія 🥔🇧🇾" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24
 http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24
 http://sc.id-tv.kz/Belarus24.m3u8
@@ -13893,14 +13712,10 @@ https://camera.ihlas.kg/stream/cam14/index.m3u8
 https://camera.ihlas.kg/stream/cam12/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Бишкек 7
 https://camera.ihlas.kg/stream/cam15/index.m3u8
-#EXTINF:-1 group-title="Религиозные 🧿",Благая Весть
-https://bv.mediacdn.ru/cdn/blagvest/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Блокбастер.png",Блокбастер
 http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/BLOKBASTER200.png",Блокбастер HD
 http://vasilijsd.kazaktelekom.com/iptv/MZU7GD5DBKVFLL/2436/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Блокбастер HD.png",Блокбастер HD
-http://live.admuspeh.my/8939/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Бобер.png",Бобер
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/126/hls/pl.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Бобер.png",Бобер
@@ -14022,11 +13837,7 @@ https://mults.info/mp4/bremenskie_muzykanty.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Брэк
 https://mults.info/mp4/brek.mp4
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/БСТ.png",БСТ
-http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/БСТ.png",БСТ
 http://185.23.80.28:8080/BST/index.m3u8?token=test
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",БСТ HD
-http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",БТРК:Первый национальный канал
 http://stream2.datacenter.by:8005/1kanal
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",БТРК:Радио Беларусь
@@ -14149,8 +13960,6 @@ https://mults.info/mp4/karusel_21.mp4
 https://mults.info/mp4/karusel_22.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весёлая карусель № 23 1991г.
 https://mults.info/mp4/karusel_23.mp4
-#EXTINF:-1 group-title="📺 Региональные" tvg-logo="../Channel/Logo/Ветта 24.png",Ветта 24
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://i.postimg.cc/CKWWVX9S/IMG-20240720-071620-847.jpg",Видеокассета VHS
 http://158.101.214.187:8080/channel/6a3b84aa/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Вильнюс 3
@@ -14481,7 +14290,7 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png",Дикая рыбалка HD
 http://91.205.199.3/dikayaribalkahd/index.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Дикий.png",Дикий
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Дикий.png",Дикий
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/2283.png",Дикий
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/34/hls/pl.m3u8
@@ -14555,12 +14364,12 @@ http://213.226.137.140:81/tl/l75/mpegts
 http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Дом Кино Премиум HD
 http://213.226.137.140:81/tl/l75/index.m3u8
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Домашний.png",Домашний
+http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Домашний.png",ДОМАШНИЙ
 http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Домашний.png",Домашний
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Домашний.png",Домашний
-http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Домашний.png",ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="http://woobl.ru/hls987/img/domashny.png",Домашний
@@ -14611,7 +14420,7 @@ https://mults.info/mp4/dudochka_i_kuvshinchik.mp4
 http://185.23.80.28:8080/DumaTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Думская ТВ
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Душевное HD
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Душевное HD.png",Душевное HD
 http://ott.server-iptv.live/615/video.m3u8?token=S53B863B2A
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Душевное HD.png",Душевное HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/1662/hls/pl.m3u8
@@ -14833,8 +14642,6 @@ http://185.23.80.28:8080/ZooTV/index.m3u8?token=test
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjA3NDQ3MiwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDY5NjcyLCJzZXNzaW9uX2lkIjoiNTQ0MzNjZmRlYzE1ZWRiZjU0ODg1ZDZhY2QwZTBjNTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qNTswbuFF5cBkCMHDkuC5SgNtc5PzAyjlFgnEfbBvRE
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Зоопарк.png",Зоопарк
 http://91.205.199.3/zoopark/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Зоопарк.png",Зоопарк
-http://live.admuspeh.my/8655/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝",ЗООСВІТ
 http://cdnua03.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4865/stream.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝",ЗООСВІТ HD
@@ -14885,17 +14692,13 @@ https://mults.info/mp4/priklyucheniya_volshebnogo_globusa_ili_prodelki_vedmy.mp4
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион+
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион+
-http://live.admuspeh.my/8134/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Иллюзион+ HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/61052/hls/pl.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Иллюзион+ HD
-http://live.admuspeh.my/8134/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Илья Муромец и Соловей-Разбойник
 https://mults.info/mp4/ilya_muromets_i_solovey_razboynik.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",ИНДИАНА ДЖ0НС И К0ЛЕС0 СУДЬБЫ 2023
 https://kinoleha.net/player/indiana-dzhons-5.mp4?original
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Индийское кино.png",Индийское кино
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Индийское кино.png",Индийское кино
 http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Индийское кино.png",ИНДИЙСКОЕ КИНО
 http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
@@ -14983,8 +14786,6 @@ http://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 http://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Казахстан Тараз
 http://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿",Казахстан Усть-Каменогорск
-http://stream.kaztrk.kz/regional/oskementv/index.m3u8
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Как казаки в футбол играли
 https://mults.info/mp4/kak_kazaki_v_futbol_igrali.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Как казаки в хоккей играли
@@ -15149,7 +14950,7 @@ http://91.205.199.3/tochkaotriva/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/kineko.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/kineko.png",Кинеко HD
 http://91.205.199.3:80/tochkaotriva/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Кино 1 International
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кино 1 International.png",Кино 1 International
 http://158.101.214.187:8080/channel/n6ca4e83c/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кино 2.png",Кино 2
 http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18070/index.m3u8
@@ -15159,8 +14960,6 @@ http://rr3.vipshara-iptv.com/~109e1a3c05fcad5b22d13b9453dc0db5122/84992/hls/pl.m
 http://87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кино UHD.png",Кино UHD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44332/hls/pl.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Кино без границ
-http://live.admuspeh.my/8972/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png",Кино выходного дня
 http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино Меню
@@ -15169,13 +14968,11 @@ http://158.101.194.132:8080/channel/489a40cb/index.m3u8?q=4965b2524bbd5b7c9cadb3
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Кино ТВ.png",Кино ТВ
 http://185.23.80.28:8080/Kino_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кино ТВ.png",Кино ТВ
-http://live.admuspeh.my/8207/index.m3u8?token=Sgir7vDiv8Rk9fKO
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Кино ТВ +4
 http://91.205.199.3/kinotvplus4/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://epg.it999.ru/img/2506.png",Кино ТВ FHD
 http://91.205.199.3:80/kinotvhd/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ HD
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ HD
 http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ HD
 http://91.205.199.3/kinotvhd/index.m3u8
@@ -15187,8 +14984,6 @@ http://24124fgrhtytry.akadatel.com/iptv/VCHLAQTL3UTM3YBV2LLLZGW4/31714/index.m3u
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31714/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217018",Кинозал! Bond 007 HD
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/31715/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Кинозал! СССР
-http://live.admuspeh.my/8875/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://i.ibb.co/gVc1Pj1/image-92.png",Кинозал! Универ ТВ
 http://rhsbjv7k.tvclub.xyz/iptv/BG3TE5HEQRXENC/11063/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Кинозал! Хит
@@ -15299,8 +15094,6 @@ http://213.226.137.140:81/tl/l52/mpegts
 http://185.37.150.40:8092/Komediya/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кинокомедия.png",Кинокомедия
 http://91.205.199.3/komedia/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кинокомедия.png",Кинокомедия
-http://live.admuspeh.my/8042/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Кинокомедия HD
 http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Киномикс.png",Киномикс
@@ -15323,14 +15116,14 @@ http://185.37.150.40:8092/Kinopokaz/playlist.m3u8
 http://45.159.74.14:80/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера
 http://stream02.vnet.am/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера
 http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера
 http://213.226.137.140:81/tl/l303/mpegts
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/КИНОПРЕМЬЕРА HD.png",Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/КИНОПРЕМЬЕРА HD.png",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/КИНОПРЕМЬЕРА HD.png",Кинопремьера HD
@@ -15495,7 +15288,7 @@ https://mults.info/mp4/kotenok_s_ulitsy_lizjukova.mp4
 https://mults.info/mp4/koshkin_dom_ris.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Кошкин дом (1982) (кукольный)
 https://mults.info/mp4/koshkin_dom_kukolnyj.mp4
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Красная Линия
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Красная линия.png",Красная Линия
 http://158.101.214.187:8080/channel/n612eea61/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Красная линия.png",Красная Линия
 http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8?token=test
@@ -15597,7 +15390,7 @@ http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
 http://185.23.80.28:8080/KurajTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Кус-Кус
 http://iptv.prosto.tv:7000/ch103/video.m3u8
-#EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/614.png",Кухня ТВ
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/83/hls/pl.m3u8
@@ -15751,8 +15544,6 @@ http://ott.watch/stream/33QU9445PB/329.m3u8
 http://live.m2.tv/hls3/stream.m3u8?user-4pda-denms-ru-v1-a1
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://4.imimg.com/data4/TV/CX/MY-12278352/cctv-camera-office-250x250.jpg",Магас
 http://media.zaoitt.ru:8099/Magas_INGGU/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Магас ТВ
-http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://pcradio.ru/images/stations/61b09d3338142.jpg",МакSим
 https://stream05.pcradio.ru/MakSim-hi
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Маленькая колдунья 1991г.
@@ -15977,7 +15768,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/pls
 http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Мир вокруг.png",Мир вокруг
 http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjA3NDQ3MiwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDY5NjcyLCJzZXNzaW9uX2lkIjoiNTQ0MzNjZmRlYzE1ZWRiZjU0ODg1ZDZhY2QwZTBjNTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qNTswbuFF5cBkCMHDkuC5SgNtc5PzAyjlFgnEfbBvRE
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Мир сериала.png",Мир сериала
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Мир сериала.png",Мир сериала
 http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Мир сериала.png",Мир Сериала
 http://91.205.199.3:80/mirseriala/index.m3u8
@@ -16095,7 +15886,7 @@ http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 http://87.99.87.203:2007/channel/6f48303b/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мужество попугая Кеши
 https://mults.info/mp4/muzhestvo_popugaja_keshi.mp4
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Мужское кино.png",Мужское Кино
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Мужское кино.png",Мужское кино
 http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Мужское кино.png",Мужское Кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
@@ -16611,7 +16402,7 @@ http://87.99.87.203:2007/channel/30332566/index.m3u8?q=5a96c7e48a4072ebac1835b78
 https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Нокаут 1990г.
 https://mults.info/mp4/fitil_nokaut.mp4
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Ностальгия.png",Ностальгия
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Ностальгия.png",Ностальгия
 http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Ностальгия.png",Ностальгия
 http://178.124.152.238:8088/nostalgia
@@ -16641,13 +16432,9 @@ http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",НТВ +4
 http://91.205.199.3/ntvplus4/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/НТВ +7.png",НТВ +7
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
@@ -16655,8 +16442,6 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
 https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="http://bezbe.my1.ru/logo/ntv.png",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
 http://213.226.137.140:81/tl/l40/mpegts
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
@@ -16725,8 +16510,6 @@ http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 http://91.205.199.3/ntvstil/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/НТВ Стиль.png",НТВ Стиль
 http://185.23.80.28:8080/NTVStil/index.m3u8?token=test
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/НТВ Хит.png",НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/НТВ Хит.png",НТВ Хит
@@ -16940,14 +16723,12 @@ http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
 http://91.205.199.3:80/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
-http://live.admuspeh.my/8001/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="../Channel/Logo/Первый канал (Евразия).png",Первый канал (Евразия)
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/23885/hls/pl.m3u8
 #EXTINF:-1 group-title="📺Эфирные",ПЕРВЫЙ КАНАЛ FHD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNjAwODIzNCwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDAzNDM0LCJzZXNzaW9uX2lkIjoiOGE2MzhjZDQwZDYyMTM0M2U0M2M1MzcwZGM5OWRjNTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X12lioKSQEQLUc2RmL7DrwPID2pIz0Gy_0abf4uYqS4
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Первый канал HD.png",Первый канал HD
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Первый канал HD.png",Первый канал HD
 http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Первый канал HD.png",Первый канал HD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
@@ -17147,8 +16928,6 @@ http://ronaldo.tvfor.pro/tEWBXWBgsy/l6i55j264w9187bml44emph2
 http://ott.server-iptv.live/612/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Премиальное HD.png",Премиальное HD
 http://116bc677.amazzin.pw/iptv/DDUW3MS3CHQ98L2M74NWZZRR/7222/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Премиальное HD.png",Премиальное HD
-http://live.admuspeh.my/8028/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Премиум Кино HD
 http://87.99.87.203:2007/channel/79b89867/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",ПРИ3РАКИ В ВЕНЕЦИИ 2023
@@ -17287,7 +17066,7 @@ http://cam.indikom.ru/32/hls/stream.m3u8
 http://cam.indikom.ru/14/hls/stream.m3u8
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Пчеловод 2024 Джейсон Стейтем
 https://o8.anwap.be/ohls/5gUyGpOuFXgabybcQVp0Vw/1706742335/Pchelovod-40556_(anwap.org).m3u8
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Пятница.png",Пятница
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Пятница.png",Пятница
 http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Пятница.png",Пятница
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
@@ -17311,8 +17090,6 @@ http://stream01.vnet.am/Pyatnica/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 group-title="📺 Региональные" tvg-logo="../Channel/Logo/Пятый канал.png",Пятый канал
 http://93.189.224.246:52900/play/a00y/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Пятый канал.png",Пятый канал
-http://live.admuspeh.my/8009/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Пятый канал.png",Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 group-title="Общие Orig 🌐",Пятый канал HD
@@ -17391,8 +17168,6 @@ http://listen7.myradio24.com:9000/alyaxen
 https://cdn.radioplayer.kg:8443/new64
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Beat FM
 http://drh-node-02.dline-media.com/beatfm
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио BLVCK Station
-http://relay.radiotoolkit.com/blvckstation
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Bulbul (KZ)
 http://radiobulbul.stream.laut.fm/radiobulbul
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Capital FM (Moscow)
@@ -18221,14 +17996,10 @@ http://icecast-rian.cdnvideo.ru/voicesuh
 http://icecast-rian.cdnvideo.ru/voicearm1
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Спутник (Веб-камера)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Спутник (Калининград)
-http://orig.video.ria.ru:8000/voiceklgstudio
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Спутник (Киргизия)
 http://icecast-rian.cdnvideo.ru/voicekgz
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Спутник (Крым)
 http://icecast-rian.cdnvideo.ru/voicesym
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Спутник (Санкт-Петербург)
-http://orig.video.ria.ru:8000/voicespb
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Спутник (Сербия)
 http://icecast-rian.cdnvideo.ru/voicesrb
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Спутник (Турция)
@@ -18455,8 +18226,6 @@ http://185.23.80.28:8080/RBK/index.m3u8?token=test
 http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Реаліті Шоу Врятуйте нашу сімю r
 http://cdnua05.hls.tv/6321/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Редкие Рыбы 18+
-https://stream01.pcradio.ru/redkie_ryby-med
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿",Река Желаний 2022
 https://cdn6.video.az/storage/movie/20/20543/video.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рекс - укротитель
@@ -18473,8 +18242,6 @@ http://185.23.80.28:8080/REN/index.m3u8
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
-http://live.admuspeh.my/8004/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",РЕН ТВ HD
 http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",Рен ТВ HD
@@ -18487,8 +18254,6 @@ http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-
 http://ip1.orgip.net/106/video.m3u8?token=A3b61a999e
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",Рен ТВ HD
 https://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",Рен ТВ HD
-http://live.admuspeh.my/8312/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Рен ТВ International.png",РЕН ТВ International
 http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Рен ТВ International.png",РЕН ТВ International
@@ -18553,7 +18318,7 @@ http://87.99.87.203:2007/channel/n76c9178c/index.m3u8?q=5a96c7e48a4072ebac1835b7
 https://mults.info/mp4/rikki_tikki_tavi.mp4
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Родничокъ
 https://stream01.pcradio.ru/rodnichok_bel-med
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Родное кино.png",Родное кино
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Родное кино.png",Родное кино
 http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Родное кино.png",РОДНОЕ КИНО
 http://213.226.137.140:81/tl/l54/mpegts
@@ -18575,8 +18340,6 @@ http://listen1.myradio24.com:9000/2761
 http://fs2.persik.by/Romanticheskie9/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/2772.png",Романтичное HD
 http://ott.server-iptv.live/1660/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Романтичное HD
-http://live.admuspeh.my/8948/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Российский Национальный Канал
 http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
 #EXTINF:-1 group-title="Новости",Россия
@@ -18677,8 +18440,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
-http://live.admuspeh.my/8002/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Новости",Россия 1 (Абакан)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Новости",Россия 1 (Краснодар)
@@ -18719,6 +18480,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png",РОССИЯ 1 FHD
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNjAwODIzNCwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDAzNDM0LCJzZXNzaW9uX2lkIjoiOGE2MzhjZDQwZDYyMTM0M2U0M2M1MzcwZGM5OWRjNTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X12lioKSQEQLUc2RmL7DrwPID2pIz0Gy_0abf4uYqS4
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
@@ -18733,14 +18496,12 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
 http://213.226.137.140:81/tl/l42/mpegts
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
-http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
 http://213.226.137.140:81/tl/l42/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
-http://live.admuspeh.my/8152/index.m3u8?token=TestuspehTva
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
+http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
 #EXTINF:-1 group-title="Новости" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
@@ -18897,8 +18658,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
-http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
 http://213.226.137.140:81/tl/l44/mpegts
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
@@ -19105,8 +18864,6 @@ http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/547/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский иллюзион.png",Русский Иллюзион
 http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Русский Иллюзион HD
-http://live.admuspeh.my/8132/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Русский корабль
 https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Русский корабль
@@ -19121,8 +18878,6 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/91/hls/pl.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман
 http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман
-http://live.admuspeh.my/8010/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://pcradio.ru/images/stations/62ea3eb8c2d54.jpg",Русский Рэп 18+
 https://stream05.pcradio.ru/Rap-hi
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Русское
@@ -19201,8 +18956,6 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8
 http://213.226.137.140:81/tl/l103/mpegts
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Сарафан.png",Сарафан
 http://213.226.137.140:81/tl/l103/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Сарафан.png",Сарафан
-http://live.admuspeh.my/8020/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="📺 Региональные" tvg-logo="../Channel/Logo/Саров 24.png",Саров 24
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сварожичи.png",Сварожичи
@@ -19463,10 +19216,6 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/pl
 https://mults.info/mp4/starye_znakomye.mp4
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/СТБ.png",СТБ
 http://ip1.orgip.net/304/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/СТБ.png",СТБ
-http://live.admuspeh.my/8090/index.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",СТБ HD
-http://live.admuspeh.my/8090/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 group-title="Беларусь | Беларускія 🥔🇧🇾",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь | Беларускія 🥔🇧🇾",СТВ Беларусь
@@ -19507,8 +19256,6 @@ http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31720/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/11069/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Страх HD.png",СТРАХ HD
 http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11069/index.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Страшное.png",Страшное
-http://live.admuspeh.my/8198/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/STRASHNOEHD200.png",Страшное HD
 http://158.101.194.132:8080/channel/42c15d29/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Страшное HD.png",Страшное HD
@@ -19545,8 +19292,6 @@ http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 http://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNjAwODIzNCwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDAzNDM0LCJzZXNzaW9uX2lkIjoiOGE2MzhjZDQwZDYyMTM0M2U0M2M1MzcwZGM5OWRjNTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X12lioKSQEQLUc2RmL7DrwPID2pIz0Gy_0abf4uYqS4
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/СТС HD.png",СТС HD
 http://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/СТС HD.png",СТС HD
-http://live.admuspeh.my/8005/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Общие Orig 🌐",СТС Int. HD СНГ
 http://stream01.vnet.am/CTC/index.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/СТС International.png",СТС International
@@ -19561,7 +19306,7 @@ http://s1.merlive.am:80/STSkids/index.m3u8
 http://91.205.199.3/stskids/index.m3u8
 #EXTINF:-1 group-title="Детские 👶" tvg-logo="../Channel/Logo/СТС Kids HD.png",СТС Kids HD
 https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/СТС Love.png",СТС Love
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/СТС Love.png",СТС Love
 http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/СТС Love.png",СТС Love
 https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
@@ -19628,8 +19373,6 @@ http://portal.ott.pink/watch/7763/index.m3u8?geo=auto&free=true&token=2B8378CADC
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Суспільне Одеса
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Суспільне Спорт
-http://live.admuspeh.my/8828/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Суспільне Спорт
 http://cdnua03.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Суспільне Спорт FHD
 http://95.67.12.81:10625
@@ -19637,8 +19380,6 @@ http://95.67.12.81:10625
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4856/stream.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Суспільне Спорт hd
 http://cdnua03.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4856/stream.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Суспільне Спорт HD UA
-http://live.admuspeh.my/8828/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Суспільне Суми
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Суспільне Тернопiль
@@ -19719,14 +19460,14 @@ https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/ТВ-3 HD.png",ТВ-3 HD
 https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
+http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
 http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
 http://213.226.137.140:81/tl/l51/mpegts
-#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
-http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
 http://213.226.137.140:81/tl/l51/index.m3u8
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТВ3.png",ТВ3
@@ -19769,8 +19510,6 @@ http://213.226.137.140:81/tl/l28/mpegts
 http://185.23.80.28:8080/TVCentr/index.m3u8?token=test
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
 http://213.226.137.140:81/tl/l28/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
-http://live.admuspeh.my/8006/index.m3u8?token=TestuspehTva
 #EXTINF:-1 group-title="Общие Orig 🌐",ТВЦ International
 http://g7zlaw9c.akciatv.ru/iptv/NH44PYSCNA5G84/15229/index.m3u8
 #EXTINF:-1 group-title="📺Эфирные",ТВЦ International
@@ -19835,8 +19574,6 @@ http://iptv.prosto.tv:7000/ch336/video.m3u8
 http://ott.server-iptv.live/342/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/2171.png",ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.it999.ru/img/3349.png",ТЕТ HD
-http://live.admuspeh.my/8138/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Техно 24.png",Техно 24
 http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 group-title="🔎 Познавательные ✈️🌍🏝" tvg-logo="../Channel/Logo/Техно 24.png",Техно 24
@@ -19861,8 +19598,6 @@ https://mults.info/mp4/tihaja_poljana.mp4
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 group-title="📺 Региональные",ТКР Рязань
 http://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",ТМ-26
-https://stream01.pcradio.ru/tm26_online-med
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/ТНВ-Татарстан.png",ТНВ-Татарстан
 http://185.23.80.28:8080/Tatarstan/index.m3u8?token=test
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/ТНТ.png",ТНТ
@@ -20201,7 +19936,7 @@ https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/pl
 https://mults.info/mp4/tsiplenok_v_kletochku.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Часовые полей
 https://mults.info/mp4/chasovye_poley.mp4
-#EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Че.png",Че
+#EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Че.png",Че
 http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Че.png",Че
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
