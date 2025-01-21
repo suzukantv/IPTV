@@ -95,8 +95,6 @@ http://strm112.1.fm/reggae_mobile_mp3
 https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="Грузия | ქართული 🇬🇪 (GEO)",1 არხი განათლება
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International
-http://de.seetv.cc/play/8798/4A72FC937CCA2A7/video.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",1+1 Maрaфoн
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28937/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",1+1 Марафон HD
@@ -109,8 +107,6 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27652/hls/pl.m3u8
 http://158.101.214.187:8080/channel/n4440b0b8/index.m3u8?q=f0a6c9939631aa1da84c5fbc3b8f5d9f
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/8897.png",1+1 Україна HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53229/hls/pl.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.it999.ru/img/2194.png",1+1 Україна HD
-http://ca.ukrainske.tv/403/4A72FC937CCA2A7/video.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",1.FM - Absolute Country Hits
@@ -243,8 +239,6 @@ https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18657/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/2+2.png",2+2
 http://31.43.48.248:7000/ch8/video.m3u8
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.it999.ru/img/3343.png",2+2 FHD
-http://de.seetv.cc/play/9953/4A72FC937CCA2A7/video.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/2195.png",2+2 HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27654/hls/pl.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/2195.png",2+2 HD
@@ -525,10 +519,6 @@ http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="http://ttvrun.one/uploads/GLTL5bq2Ib6yPpfAsT1UzIN9WbuR0x.png",A2
 http://91.205.199.3:80/amedia2/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://www.avm.gen.tr/resimler/network_kadin_1.jpg",A21 Network
-https://tv.a21network.ru/content/37909/index.m3u8
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",A21 Network
-https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",A2i Music [sn]
@@ -1319,8 +1309,6 @@ http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 1.png",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Amedia 1 HD.png",Amedia 1 HD
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
 http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Amedia 2.png",Amedia 2
@@ -1381,8 +1369,6 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Anger Management
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦",Anger Management
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecb53ccf-2d45-4edb-949e-540d922e0d69
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Anger Management
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0873-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba8090e5-75c3-49e1-b27f-57399848d7ed
 #EXTINF:-1 group-title="Швейцария | Switzerland",Anger Management
@@ -1541,8 +1527,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a7d99f4a10d800086083a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0874-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8cf3451c-2f6e-495e-93bc-62d48d70c6bc
 #EXTINF:-1 group-title="Швейцария | Switzerland",Assassination Classroom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a7d99f4a10d800086083a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82bb02-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7de6182-9651-48c2-b822-a1694d110899
-#EXTINF:-1 group-title="США | USA PindosUnited States",AssyriaSat (720p) [Not 24/7]
-http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="../Channel/Logo/Astana TV.png",Astana TV
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Asterios
@@ -1611,8 +1595,6 @@ http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64332.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Auto Motor Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f82-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd6f9149-f825-44a8-988e-28acbcdc798e
-#EXTINF:-1 group-title="Швейцария | Switzerland",Auto Motor Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82e211-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed9bb283-dacb-4765-bf95-fbea4893d023
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",auto motor und sport channel
 http://78.130.250.2:8023/play/a018/index.m3u8
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/8TR4noi.png",AVA (720p)
@@ -1731,8 +1713,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱",BBC BRIT
 http://178.219.128.68:64889/BBCBRITHD
-#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/EQZPSZx.png",BBC Drama
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 #EXTINF:-1 group-title="США | USA PindosUnited States",BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/kcmHcSx.png",BBC Food
@@ -1989,8 +1969,6 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 group-title="Болгария | Blgartabac" tvg-logo="../Channel/Logo/Bloomberg.png",Bloomberg
 http://87.246.60.6:11047?token=fas-tv.com
-#EXTINF:-1 group-title="США | USA PindosUnited States",Bloomberg Adria (1080p)
-https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Bloomberg Quicktake
 http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Bloomberg Television
@@ -2947,8 +2925,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Cold Case Files by A&E
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280715-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd8b3bcc-fbd9-4795-b86b-dfb2b2c8addd
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",Colimdo TV [do]
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Collier Television CTV (Naples FL) (720p)
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil",Combate Global
@@ -3023,12 +2999,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Corazón turco
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5f062d9-fdb9-46bc-9aff-35744350dcd4
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Corfe Station
-http://maybach.railcam.co.uk:80/Corfe_14435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/CvxVN0L.png",Corfu TV (576p) [Not 24/7]
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",Cosmos TV (720p)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Costa de Caparica - CDS Norte
 https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Costa Nova
@@ -3295,8 +3267,6 @@ http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",Deluxe Dance
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge (1080p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="../Channel/Logo/Deluxe Music.png",Deluxe Music
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵" tvg-logo="https://i.ibb.co/0XKVvrY/image-85.png",Deluxe Rap
@@ -3351,8 +3321,6 @@ https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 http://diffusion.lafrap.fr:8000/sun.flac
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",DIGI 4K
 http://ronaldo.tvfor.pro/Wgerger44f/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="Франция | France 🇫🇷",Digimon Adventure
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d081da78-acbb-459e-9034-63720548296e
 #EXTINF:-1 group-title="США | USA PindosUnited States",Digital809 TV (720p)
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/7hNwUV2.png",Dios Te Ve (720p)
@@ -3437,8 +3405,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦",Doc Martin
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e922f6675f71000736db3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0683-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=999d1690-f7fb-40a5-b944-462166e9515a
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦",Doctor Who
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92d2e9bc0ab00072e10a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0684-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=37ea7b78-1453-4bf3-b9ff-3fe34d4fc035
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/5vtPBfj.png",Doctor Who Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/DocuBox.png",DocuBox
@@ -3513,8 +3479,6 @@ https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Drake & Josh
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c494a10d800085cab06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d07619e-6f1c-4551-b814-afb62e97b485
-#EXTINF:-1 group-title="Швейцария | Switzerland",Drake & Josh
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c494a10d800085cab06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83cc77-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=473366bf-5387-4c31-a695-826199ad3433
 #EXTINF:-1 group-title="США | USA PindosUnited States",Drama
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 group-title="🏝RELAX",DRON DUNYASI
@@ -3571,8 +3535,6 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53832/hls/pl.m3u8
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19748/hls/pl.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://epgx.site/p/duo6tv.png",Duo6 HD (Эстония)
 http://345f89f7.ottrast.com/iptv/BG3TE5HEQRXENC/14130/index.m3u8
-#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/8k8DsBL.png",Durán TV (480p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",DW Arabic HD
@@ -4989,8 +4951,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dfff5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3ceee80-9777-46f1-8004-ade52d4f7837
 #EXTINF:-1 group-title="США | USA PindosUnited States",House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Hoвий кaнaл
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18023/hls/pl.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵",Hoвий кaнaл HD
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43869/hls/pl.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",hr-fernsehen
@@ -6711,8 +6671,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
 #EXTINF:-1 group-title="Музыкальные 🔊🎶🎵",MTV Classic East [us]
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦",MTV Dating
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a0c230ab3300084369b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70f03476-c602-474c-9bec-e1c4bbf13a02
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/dD7WbQC.png",MTV Dating
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5ae0ea87-0212-4457-893b-bd236028e5de
 #EXTINF:-1 group-title="США | USA PindosUnited States",MTV en español
@@ -7325,8 +7283,6 @@ http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",NTD TV West (New Tang Dynasty Television)
 https://ntd02.akamaized.net/NTD-West/index.m3u8
-#EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹",NTS Moldova
-http://5.56.77.9:50000
 #EXTINF:-1 group-title="США | USA PindosUnited States",NTV (720p)
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Nuevo Mundo TV (720p)
@@ -7495,8 +7451,6 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="Италия | Italy 🇮🇹",Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa" tvg-logo="https://i.imgur.com/UPlfzFx.png",One
@@ -7725,8 +7679,6 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 http://185.37.150.40:8092/Piksel/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",PL KASPROWYrynek Podg??i
 http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://images.vfl.ru/ii/1611831392/10add4f2/33129238.png",Plai
-http://stream.radioplai.md:8000/live
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",Plan B HD
 http://87.99.87.203:2007/channel/n1b7bd116/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=186695",Plan B HD
@@ -7801,8 +7753,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e046710-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5a0b272-dd4e-43ac-a7de-c838f640afd0
 #EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV CMT (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦",Pluto TV Comedy
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92178946c8000079a3160/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7bb58dcf-41b0-4375-8a36-1b947b81616b
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/MTVrbd5.png",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
 #EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Comedy Central (720p)
@@ -7837,8 +7787,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9391-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc31112d-4925-4f44-b50f-ddf0ca08e7c7
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/xoaIAus.png",Pluto TV Cult Films
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Dating (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a2b1311-2550-464b-8060-15765b30c4f8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Pluto TV Deutsches Kino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8690-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f5cb1d4b-78b7-49ae-9323-87ef9ddac228
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Pluto TV Deutsches Kino
@@ -7883,8 +7831,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea080-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f9d11a2-637a-40fd-aae8-8ad9bf48a0e2
 #EXTINF:-1 group-title="Швейцария | Switzerland",Pluto TV heiße Nächte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855316-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=002e46e5-58f3-4305-8faa-7260768ded4e
-#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/JE5xcCV.png",Pluto TV Histoire
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
 #EXTINF:-1 group-title="Швейцария | Switzerland",Pluto TV History
@@ -7905,8 +7851,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855319-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06931d84-a426-40a9-a48b-79153be696f3
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/k6qttca.png",Pluto TV Horror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92
-#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Hélène et les garçons (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b2fd0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65d7f2cc-e6f8-4e43-9cb5-1de8d1f71f71
 #EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Icons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1451-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c10b5837-0a92-452a-adc5-3de9f420226f
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/8LdACfR.png",Pluto TV Investigation
@@ -8009,8 +7953,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb4888c5-7223-4af0-9aec-f74be7f97304
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/Gxipj7d.png",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/grmHcZs.png",Pluto TV Romance
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec799-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cee60e-49f2-4985-953a-f2cde441fe54
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
 #EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Romance (720p)
@@ -11769,8 +11711,6 @@ http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51284/hls/pl.m3u8
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽",TV Extra
 http://87.99.87.203:2020/channel/5aedb841/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
-#EXTINF:-1 group-title="Испания | Spain 🇪🇸" tvg-logo="https://i.imgur.com/TjpjoOu.png",TV Ferrol (576p)
-https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States",TV Filopoli (360p) [Not 24/7]
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/XzAYOFK.png",TV Hram (576p) [Not 24/7]
@@ -12071,8 +12011,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/TVW-2.png",TVW-2
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",TVWorkNet (480p)
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱" tvg-logo="https://i.imgur.com/llDbOoU.png",Tynaarlo Lokaal TV (1080p)
@@ -12581,20 +12519,8 @@ http://91.205.199.3/vipserialhd/index.m3u8
 http://eqatmiyg.megogo.xyz/iptv/MVTMCC4UTAZVDT/20099/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7539.png",ViP Sport 1
 http://eqatmiyg.megogo.xyz/iptv/NMES8T6ZCFEU65/20099/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7539.png",ViP Sport 1 HD
-http://de.seetv.cc/play/5009/A05E1ACFF8AB394/video.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 10 HD
-http://de.seetv.cc/play/5018/A05E1ACFF8AB394/video.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 11 HD
-http://de.seetv.cc/play/5019/A05E1ACFF8AB394/video.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 12 HD
-http://de.seetv.cc/play/5020/A05E1ACFF8AB394/video.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 13 HD
-http://de.seetv.cc/play/5021/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7540.png",ViP Sport 2
 http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7540.png",ViP Sport 2 HD
-http://de.seetv.cc/play/5010/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",ViP Sport 3
 http://musdjgc4.akciatv.ru/iptv/VWX3U69RGEHNDD/20104/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆",ViP Sport 3
@@ -12603,32 +12529,20 @@ http://musdjgc4.akciatv.ru/iptv/49CL2GP7HTA2FZ/20104/index.m3u8
 http://musdjgc4.akciatv.ru/iptv/UFERDUQS58TBD3/20104/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7541.png",ViP Sport 3
 http://musdjgc4.akciatv.ru/iptv/T29HHXYHLY4UKF/20104/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7541.png",ViP Sport 3 HD
-http://de.seetv.cc/play/5011/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7542.png",ViP Sport 4
 http://vp4hcjiv.rostelekom.xyz/iptv/UFERDUQS58TBD3/20105/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7542.png",ViP Sport 4
 http://vp4hcjiv.rostelekom.xyz/iptv/CTHKNGFSE8DXT3/20105/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 4 HD
-http://pl.seetv.cc/play/5012/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 5
 http://vp4hcjiv.rostelekom.xyz/iptv/TPTP2HX82NCNCE/20106/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 5
 http://vp4hcjiv.rostelekom.xyz/iptv/NERH9UMA84Z6UU/20106/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 5 HD
-http://de.seetv.cc/play/5013/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7544.png",ViP Sport 6
 http://vp4hcjiv.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20107/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 6 HD
-http://de.seetv.cc/play/5014/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7547.png",ViP Sport 7
 http://vp4hcjiv.rostelekom.xyz/iptv/TPTP2HX82NCNCE/20108/index.m3u8
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7547.png",ViP Sport 7
 http://vp4hcjiv.rostelekom.xyz/iptv/AVNFCNQBEC9VQU/20108/index.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 7 HD
-http://de.seetv.cc/play/5015/A05E1ACFF8AB394/video.m3u8
-#EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="http://epg.one/img2/7543.png",ViP Sport 8 HD
-http://de.seetv.cc/play/5016/A05E1ACFF8AB394/video.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Viper
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218263-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0162be0e-f4f2-43a7-b854-e6dce2dd1d3d
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Viper
@@ -13057,8 +12971,6 @@ http://streamer.enchart.one/42/e8e33ef76319cf63b58ba2d6cbca16ec724bb353/2119/str
 http://6a0296cf.edemist.com/iptv/RVA4V85DBGYNBW/14177/index.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=183531",Yosso TV New Кино HD
 http://streamer.enchart.one/42/e8e33ef76319cf63b58ba2d6cbca16ec724bb353/1772/stream.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=186067",Yosso TV Oblivion HD
-http://streamer.enchart.one/42/e8e33ef76319cf63b58ba2d6cbca16ec724bb353/1780/stream.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=186391",Yosso TV Thriller HD
 http://streamer.enchart.one/42/e8e33ef76319cf63b58ba2d6cbca16ec724bb353/1782/stream.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=183533",Yosso TV VHS HD
@@ -13083,8 +12995,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6130d9c712c2b000070abb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9dfe906b-1b35-424b-b7f0-ed75c3050f92
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00012-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7978130e-8cf9-40ac-8973-675ca743190d
-#EXTINF:-1 group-title="Швейцария | Switzerland",Yu-Gi-Oh!
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86d9b6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb788c52-b6d0-48f4-99a5-61f412d9e79b
 #EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/Tl6aW2u.png",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 #EXTINF:-1 group-title="США | USA PindosUnited States",Yuma77
@@ -13715,8 +13625,6 @@ http://stream01.vnet.am/BoksTv/index.m3u8
 http://158.101.214.187:8080/channel/n5b587424/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Болгар Радиосы
 https://stream01.pcradio.ru/rad_blgrrds-med
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺",Болгар Радиосы (WEB)
-https://user73612.clients-cdnnow.ru/hls/user73612_1/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Болгария
 http://old.rn-tv.com/live/stream.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png",Болгария 3
@@ -16715,8 +16623,6 @@ https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 http://193.107.168.98:7006/play/526/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦",Перший Західний
 http://iptv.prosto.tv:7000/id35/video.m3u8?secret=kp7brelm
-#EXTINF:-1 group-title="Украина | Українські 🇺🇦",Перший Кабельний
-http://91.226.35.134:8081/PK
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Пес в сапогах
 https://mults.info/mp4/pes_v_sapogah.mp4
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Песенка мышонка
@@ -17889,8 +17795,6 @@ https://stream01.pcradio.ru/rad_siek-med
 http://stream.radiosibir.ru:8090/biysk_RS
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Радио Сибирь (Красноярск)
 http://stream-2.radiosibir.ru:8090/kr2
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Сибирь (Нижний Тагил)
-http://stream-2.radiosibir.ru:8090/ntagil
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Сибирь (Новокузнецк)
 http://stream.radiosibir.ru:8090/kuzny_RS
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Сибирь (Омск)
@@ -18736,8 +18640,6 @@ http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия К.png",Россия К
 http://213.226.137.140:81/tl/l49/mpegts
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия К.png",Россия К
-https://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4
-#EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия К.png",Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1 group-title="CloudSuzusMixerFlareInc 📺" tvg-logo="../Channel/Logo/Россия К.png",Россия К
 http://213.226.137.140:81/tl/l49/index.m3u8
@@ -18765,8 +18667,6 @@ http://sc.id-tv.kz/RossiyaRTR.m3u8
 https://stream05.pcradio.ru/Ruki_Vverh-hi
 #EXTINF:-1 group-title="📺 Кино-МультЗал🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Русалочка
 https://mults.info/mp4/rusalochka.mp4
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский бестселлер.png",Русский Бестселлер
-http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы | КиноМиксер 📽" tvg-logo="../Channel/Logo/Русский бестселлер.png",Русский Бестселлер
 http://185.37.150.40:8092/russkiy_b/playlist.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский детектив.png",Русский детектив
@@ -18787,8 +18687,6 @@ http://87.99.87.203:2007/channel/n30333a7a/index.m3u8?q=88c76c60a23785bf0ffdb34d
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский роман.png",Русский Роман
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/91/hls/pl.m3u8
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман
-http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://pcradio.ru/images/stations/62ea3eb8c2d54.jpg",Русский Рэп 18+
 https://stream05.pcradio.ru/Rap-hi
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Русское
@@ -19053,8 +18951,6 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/pls
 https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
 #EXTINF:-1 group-title="Новости",Соловьев.Live
 https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNjAwODIzNCwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDAzNDM0LCJzZXNzaW9uX2lkIjoiOGE2MzhjZDQwZDYyMTM0M2U0M2M1MzcwZGM5OWRjNTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X12lioKSQEQLUc2RmL7DrwPID2pIz0Gy_0abf4uYqS4
-#EXTINF:-1 group-title="Новости",Соловьев.Live HD
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сонце.png",Сонце
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48832/hls/pl.m3u8
 #EXTINF:-1 group-title="Развлекательные 🎡" tvg-logo="../Channel/Logo/Сонце.png",Сонце
