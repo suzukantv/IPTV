@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
 	<info>
-		<version>3.10, 2025-23-01</version>
+		<version>3.11, 2025-23-01</version>
 		<name>IPTV# SuzuS Wizard</name>
-		<comment>Wizard-SuzuS-file, ver.3.10, файл для android-приложения LazyIPTV#</comment>
+		<comment>Wizard-SuzuS-file, ver.3.11, файл для LazyIPTV# android-приложения</comment>
 		<warning></warning>
 </info>
 
