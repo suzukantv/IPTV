@@ -2516,7 +2516,7 @@ http://50.7.28.226/8891/index.m3u8
 http://50.7.28.226/8878/index.m3u8
 #EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="https://iptvx.one/picons/bcu-comedy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bcu-comedy" $ExtFilter="SUZTV",BCU Comedy HD
 http://178.217.72.72/BCUComedyHD/index.m3u8
-#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="https://iptvx.one/picons/bcu-comedy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bcu-comedy" $ExtFilter="SUZTV",BCU COMEDY HD
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bcu-cosmo" $ExtFilter="SUZTV",BCU COSMO HD
 http://50.7.28.226/8480/index.m3u8
 #EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="https://iptvx.one/picons/bcu-criminal.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bcu-criminal" $ExtFilter="SUZTV",BCU CRIMINAL HD
 http://50.7.28.226/8890/index.m3u8
