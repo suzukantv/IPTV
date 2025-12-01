@@ -1,0 +1,3 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS",Россия Культура HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
