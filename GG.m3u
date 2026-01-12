@@ -1,0 +1,246 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал AlexVira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/106103.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" $ExtFilter="SuzuS TV2",Кинозал Абсолют синема
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/122102.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Kinoteka
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/146065.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/27032025/logos/43064-67e592cc0c172.png" $ExtFilter="SuzuS TV2",Кинозал Малдер Всё тв
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал STRIMACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/154297.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_sint.png" $ExtFilter="SuzuS TV2",Rus Brony TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/156945.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FAN HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" $ExtFilter="SuzuS TV2",Кинозал SeleCaoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/157269.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" $ExtFilter="SuzuS TV2",Кинозал Selecao TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",Music Mikulski
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/167782.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" $ExtFilter="SuzuS TV2",Кинозал VKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/173945.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Mega Radio
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/175789.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/6005.png" $ExtFilter="SuzuS TV2",Видеокасета VHS
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" $ExtFilter="SuzuS TV2",Striam KROPOTKIN_POWER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/177016.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Delta Omega
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/180204.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://logo.vivamax.pro/logo/technodancemusic.png" $ExtFilter="SuzuS TV2",TECHNO DANCE MUSIC
+http://195.9.195.3:8080/hls/180509.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VIVA Russia
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/180805.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MIXM TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Хома ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/185708.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" $ExtFilter="SuzuS TV2",SeriesTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Fantastic Mistyc FMC
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" $ExtFilter="SuzuS TV2",Striam Yesnomb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/189993.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Hot Beats TV HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/191858.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",WWW
+http://195.9.195.3:8080/hls/192005.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал 24/7 Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/194731.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" $ExtFilter="SuzuS TV2",Азиатские танцульки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/196745.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/6242.png" $ExtFilter="SuzuS TV2",VB Новогодний канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://195.9.195.3:8080/hls/198088.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Звуки дождя 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/RGCQzpkk/image-22.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",МУЛЬТИКИ И СКАЗКИ
+http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/Futurama.jpeg" $ExtFilter="SuzuS TV2",Кинозал Futurama
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Grin43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/201734.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" $ExtFilter="SuzuS TV2",TMF RUS
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/201891.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" $ExtFilter="SuzuS TV2",Кинозал Восход ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/202997.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",1FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/koshmar-hd.jpg" $ExtFilter="SuzuS TV2",Кинозал Кошмар HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",2FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/688SVFy/image-38.png" $ExtFilter="SuzuS TV2",Кинозал Фантомас
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.postimg.cc/vTBKPsXk/alpha-Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Alpha Cinema
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/k62yvqx6/alphamoretimehd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",alpha Moretime
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205116.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" $ExtFilter="SuzuS TV2",Millenniym
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/TB1NPyM6/alphafunnyhd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",alpha Funny
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_sint.png" $ExtFilter="SuzuS TV2",Striam KPOT666NETOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/207482.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" $ExtFilter="SuzuS TV2",Music CRINGE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/208391.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Katastroff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/208789.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",MusicBiskbitLive радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/209782.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Kino-Jam.png" $ExtFilter="SuzuS TV2",Кинозал KinoJam
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Dn russia
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210275.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" $ExtFilter="SuzuS TV2",Кинозал Dimpon HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210470.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кибер Задов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/210558.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/211351.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",Music Info News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/211955.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6807.png" $ExtFilter="SuzuS TV2",Best Films HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/212682.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Ретро Мульт
+http://195.9.195.3:8080/hls/213086.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/photo_2025-11-04_22-49-31.jpg" $ExtFilter="SuzuS TV2",Кинозал CyberTV_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214421.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/photo_2025-11-04_22-49-31.jpg" $ExtFilter="SuzuS TV2",Кинозал CyberTV_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214433.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/photo_2025-11-04_22-49-31.jpg" $ExtFilter="SuzuS TV2",Кинозал CyberTV_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214454.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" $ExtFilter="SuzuS TV2",Кинозал MovieeToper
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",Music Palmera Blanca Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214802.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",Music Disco Dance Party!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215020.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" $ExtFilter="SuzuS TV2",Кинозал GRAND IPTV TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал ⚡FoxKids
+http://195.9.195.3:8080/hls/215291.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал КиноХит - 24 / 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215741.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" $ExtFilter="SuzuS TV2",Кинозал Kino Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/216612.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал KoraxPlus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/217044.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/SCRIPACH_TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SCRIPACH TV
+http://195.9.195.3:8080/hls/217083.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/217855.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" $ExtFilter="SuzuS TV2",Кинозал Revolyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218087.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал КиноФраншиза 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал КиноФильмы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Tocoxoj361
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218475.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал юмор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218490.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/av_1643167_Q5gP.jpg" $ExtFilter="SuzuS TV2",Кинозал VHS кино MIX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" $ExtFilter="SuzuS TV2",MusicLofi музыка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218690.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Video_Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218886.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/5HD76RP.png" $ExtFilter="SuzuS TV2",VHDV TV
+http://195.9.195.3:8080/hls/219390.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал Fizcultprivet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/29969.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_sint.png" $ExtFilter="SuzuS TV2",Striam Scatman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/3893.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал P Boy Podpischik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/40391.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/5357.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Akudji TV HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" $ExtFilter="SuzuS TV2",Кинозал Selecao TV2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Korean Muzic
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/196745_master.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/tv-voskhod-tv_1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Восход ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/202997_master.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="SuzuS TV2",Кинозал P Boy Podpischik
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/40391_master.m3u8
