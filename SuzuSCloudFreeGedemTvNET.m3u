@@ -1,4 +1,13 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.it999.ru/edem.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.it999.ru/edem.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#USERAGENT http-user-agent Mozilla/5.0 SUZUKANTV/1.34.1 (AndroidTV/6.1.1) SUZUSTVPlayer
+#PLAYLIST:SITE-https://suzustv.clan.su/
+#INFO: Телеграм: https://t.me/iptvsuzukan2
+#INFO: Преимущества нашего сервиса. Одно из преимуществ нашего сервиса – его простота и удобство.  Новые технологии вещания позволяют транслировать сигнал в любую точку мира в идеальном качестве. Большой выбор каналов, среди которых основное количество в оригинальном качестве – еще одно неоспоримое преимущество нашего сервиса. Огромное разнообразие каналов различных категорий и направлений приведет в восторг абсолютно любого пользователя: на выбор спортивные, развлекательные, детские, научные или музыкальные каналы.
+Уважаемые Правообладатели, мы не транслируем и не ретранслируем каналы и остальное.
+Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
+Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
+Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 url-tvg="https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.it999.ru/edem.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #USERAGENT http-user-agent Mozilla/5.0 SUZUKANTV/1.34.1 (AndroidTV/6.1.1) SUZUSTVPlayer
 #PLAYLIST:SITE-https://suzustv.clan.su/
 #INFO: Телеграм: https://t.me/iptvsuzukan2
