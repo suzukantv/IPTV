@@ -7,7 +7,7 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/Проект Gedem TV закрыт
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",.Black
@@ -150,10 +150,6 @@ http://prmstrm.1.fm:8000/opera
 http://prmstrm.1.fm:8000/reggae
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",100% News
 http://85.238.112.40:8810/hls_sec/online/list-100.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",101 smooth jazz
-http://edge4.peta.live365.net/b22139_128mp3
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",101 Smooth Jazz Mellow
-http://ais-sa5.cdnstream1.com/b48071_128mp3
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="../Channel/Logo/11 канал (Пенза).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",11
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-logo="http://i115.fastpic.org/big/2021/0824/3a/5b1e753b1ed80f40cd0cc51ddfb1f43a.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",12 Канал (Омск) HD
@@ -180,8 +176,6 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="http://epg.one/img/2578.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",24 KZ
 http://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
-#EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",24 TV
-http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",24 канал
@@ -226,10 +220,6 @@ https://30a-tv.com/beachy.m3u8
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",312 Сериал
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://i120.fastpic.org/big/2022/0902/56/8e7f7b0e21771cdac82a2a99e9999556.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",360 Tune BOX
 http://iptv.prosto.tv:7000/ch141/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",360 TV Turkey
@@ -286,8 +276,6 @@ https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 group-title="Молдова | Moldova 🇲🇩" tvg-logo="../Channel/Logo/7tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",7TV
 http://185.164.82.18:9009/aDxLhVQm_7TV
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸 🇵🇹" tvg-logo="https://i.imgur.com/BTJvvBK.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://epg.one/img2/2550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",8 Канал HD
@@ -916,8 +904,6 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/yQzXErU.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",AFRO MUSIC
-http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/95374
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://i.ibb.co/JshR7fB/resize-73.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Afrobeats
@@ -944,8 +930,6 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://i.imgur.com/K81vNbk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱 | ישראלי  ✨" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",akamai
-http://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Aksu TV
@@ -1174,8 +1158,6 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="../Channel/Logo/Ani.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 group-title="Греция | Greece" tvg-logo="https://i.imgur.com/ItxKvVS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ANT1 (1080p) [Geo-blocked]
-http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Antena (Mexico)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/.m3u8
 #EXTINF:-1 group-title="Чехия | Czech Republic 🇨🇿" tvg-logo="../Channel/Logo/Shant news.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Antena 1
@@ -1216,8 +1198,6 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Are We There Yet?
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc
-#EXTINF:-1 group-title="Dominican Republic" tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Area 809 El Original (1080p)
-https://vdo.voxhdnet.com:3159/stream/play.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Areia Branca
 https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="../Channel/Logo/Arirang.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Arirang
@@ -1268,8 +1248,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1 group-title="Информационные | Intrnational" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Asharq News
 http://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱 | ישראלי  ✨" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Asharq News
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="Туркменистан | Turkmenistan 🇹🇲" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",asharqd
 http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Туркменистан | Turkmenistan 🇹🇲" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",asharqdocumentary
@@ -1502,8 +1480,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 http://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://i.imgur.com/P3whqna.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Balkan Radio Salzburg
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Balkan Trip
 http://5.57.74.130:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Balkan Turk
@@ -1680,8 +1656,6 @@ https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 #EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Billiard TV
-https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Binz 1
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Binz 2
@@ -1934,8 +1908,6 @@ http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
 https://jwwcam2.movingmedia.eu/hls/live.stream.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CampusLore
 https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-logo="http://i117.fastpic.org/big/2022/0416/24/0a7fa9c52e03016653fce44502a1dd24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Can TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Canada 1
 http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸 🇵🇹" tvg-logo="https://i.imgur.com/MQOwCdZ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Canal 1 Mar Menor-Torre Pacheco (1080p)
@@ -2268,12 +2240,6 @@ http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
 http://193.27.209.122/cine_plus_legend/index.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/RIUNuMQ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CINEMA
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CINEMA
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cinema
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://i.imgur.com/mgXeEE4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
 #EXTINF:-1 group-title="TEST ꀤᖘ꓄ᐯ NOT STABLE" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CINEMA
@@ -2496,8 +2462,6 @@ http://applevalley.coxctv.com/live-1/live/live.m3u8
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Anime
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Cartoon
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Comedy
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Drama
@@ -2508,8 +2472,6 @@ http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Investigation
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Jackie Chan
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Mix
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cracow 1
@@ -2522,12 +2484,8 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cramlington
 https://maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Crave 2
-https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="https://i.imgur.com/kOi0Adn.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Crave 3
 https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="https://i.imgur.com/MyH3Q2p.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Crave 4
-https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CRC TV
 https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cremona 1
@@ -2626,28 +2584,16 @@ http://ice.actve.net/dance-radio128.mp3
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV Mnml
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV Techno
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dance TV Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV Algorhythm
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV Minimal Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DanceTV Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dare To Dream Network (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://iptvx.one/picons/das-erste.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Das Erste
@@ -2842,8 +2788,6 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 http://s.emisoras.tv:8080/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Dios Teve Kids
 http://s.emisoras.tv:8080/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Disco Mix
-http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/54140
 #EXTINF:-1 group-title="Болгария | Болгария 🇧🇬" tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Discovery BG
 http://84.54.128.52:9090/play/7001/index.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ᴴᴰ ✈️🌍🦎" tvg-logo="https://iptvx.one/picons/discovery-channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Discovery HD
@@ -3012,8 +2956,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="https://iptvx.one/picons/enter-film.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ENTER-ФIЛЬМ
 http://31.43.48.248:7000/ch54/video.m3u8
-#EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://i.imgur.com/fkOxQtS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Enter10 Bangla (720p) [Not 24/7]
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="SkyNet Undefined" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Entertainment Hub (1080p)
 https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/nr4zRjZQ/8189-5l-LPn-L.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Epic Rock Radio
@@ -3236,8 +3178,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f14a19a-0066-4a45-be41-279347754e05
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",F.B.I. Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f382-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa64c647-2f96-4079-b84a-59fc5c704816
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Fabulosa Estereo 100.5 FM
-https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Face TV
 http://23.88.66.93/Face/index.m3u8
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/CoDZXtv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FailArmy
@@ -3318,40 +3258,12 @@ http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958075
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://4.imimg.com/data4/TV/CX/MY-12278352/cctv-camera-office-250x250.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ferragudo - Praia Grande
 https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ferreira do Zêzere - Dornes
-https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ferreira do Zêzere - Lago Azul
-https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="https://iptvx.one/picons/fightbox-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FightBOX
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Figueira da Foz
-https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Filamchi Bhojpuri (1080p)
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Axterix
-http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Axterix
-http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV DJUA
-http://filmtvgroup.hopto.org/DJUa/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP Axterix
-http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP КИНО
-http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP МультКазки
-http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV MUSIC
-http://filmtvgroup.hopto.org/FILMtvMUSIC/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV RETRO WAVE UA TV
-http://filmtvgroup.hopto.org/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV TRANCE IS STAR RADIO
-http://filmtvgroup.hopto.org/RadiO/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Кінозал
-http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Леді Баг & Щенячий патруль.
-http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://rafail1982.uz/logo/kino2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Filmgold
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1db1d4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a90c28a-e616-4ce8-bd9d-18ee8820eede
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://rafail1982.uz/logo/kino2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Filmgold
@@ -3902,8 +3814,6 @@ http://mscp2.live-streams.nl:8100/flac.flac
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",HiHop TV
 http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Hilando Fino
-https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Hind Hits
@@ -3990,8 +3900,6 @@ https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Hora TV
 http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/751645
-#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Horizon Sports
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Horizons Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/62170944-ffa7-4c2c-b0fe-c0dfe765647b/1.m3u8
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="http://i121.fastpic.org/big/2023/0118/35/05004ce2314c03db9017c91d177f6f35.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Horror
@@ -4362,8 +4270,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",K-TV (Fernsehen)
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",KAFANSKO VECE OTV VALENTINOVO
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/299.ts
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/zGGeSQg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kaifa TV (576p)
 http://82.212.74.2:8000/live/7311.m3u8
 #EXTINF:-1 group-title="SkyNet Undefined" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kajou TV (480p) [Not 24/7]
@@ -4534,8 +4440,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Klagenfurt Neuer Platz
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Klan Music
-http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/4970
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Knallhart
@@ -4714,8 +4618,6 @@ https://cloudpro.servidoresdestream.com:8081/8026/tracks-v1a1/mono.m3u8
 http://stream.eleden.com:1935/livelax/livelax/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",La7
 http://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",labor14 (720p)
-https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Lagoa de Albufeira
 https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
 #EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Lalegul TV (1080p)
@@ -4726,8 +4628,6 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Las Estrellas (
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Latina HD
 http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 group-title="Прибалтика | Balticum 🇱🇻🇪🇪🇱🇹" tvg-logo="https://i.imgur.com/4npOpPj.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Latvia | Латвия TV Net
@@ -4899,8 +4799,6 @@ https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
 http://82.223.102.59:8002/;
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
@@ -4996,8 +4894,6 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko)
@@ -5199,8 +5095,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=NM
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=fAu2zTLgTM2KxVaQt9vxFA&e=2067169966&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=_0p6drp3kbjLLYahFteO6Q&e=2067169987&scheme=https
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=l0UKtPhQU2V01buC1DCLLg&e=2067169987&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Iik_mZmyYaa1gidBQqFNmQ&e=2067169951&scheme=https
@@ -5231,8 +5125,6 @@ https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=P2
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=eYkFEQQJNvI0ok-A7NITpw&e=2067169950&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c3a00280a36a173641f422a7bf832c4f/index.m3u8?s=uMtDPb5UsIZimSnitSWAAw&e=2067169957&scheme=https
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Pi-xPITobvyC2eBMIWz7Sg&e=2067169949&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=kKxli8KB1I1Izz9GbLlL-A&e=2067169961&scheme=https
@@ -5260,8 +5152,6 @@ https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=Ao
 https://bl.rutube.ru/livestream/d8857b5b4c4fa78869a13f5e3ca9d4c4/index.m3u8?s=mQMojQfXka4YccJuTaSd5A&e=2067169961&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=w2bDJykR9rnRpLhEDZpwdg&e=2067169983&scheme=https
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=-RcoBc3qzyGIShopXQVm9g&e=2067169957&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=lEyV4aBE19HelGtBYG_zOw&e=2067169982&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -5316,8 +5206,6 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LiveCam
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LiveCam
-http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LiveCam
 https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LiveNOW from FOX (720p)
@@ -5380,8 +5268,6 @@ https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 https://radio.stereoscenic.com/ama-shttps://14133.live.streamtheworld.com/SP_R2103906.mp3
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LTV (360p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="https://iptvx.one/picons/ltv7.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LTV7
-http://84.32.80.23/LTV7/index.m3u8?token=test
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="https://i.imgur.com/Nc7K060.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Lucha Libre AAA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=827dfdd0-3b91-4726-a4ee-e0fff420c780
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="../Channel/Logo/Luxury.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",LUX TV
@@ -5444,10 +5330,6 @@ http://xantv.site:41480/MahniTV/video.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱 | ישראלי  ✨" tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Majid Al Mohandis (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Makan 33
-http://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
-#EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Makedonia TV (1080p) [Geo-blocked]
-http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱 | ישראלי  ✨" tvg-logo="https://i.postimg.cc/GtN8v94c/makkahtv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mako TV
@@ -5484,8 +5366,6 @@ http://1601580044.rsc.cdn77.org/live/_jcn_/PALMIAMI/chunklist.m3u8
 http://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/chunklist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Markiza TV
 http://dvr1.kablova.tv/Markiza/index.m3u8
-#EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/0jj9Vx0.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Master Video (1080p)
-https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mastiii
 https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://i.imgur.com/diQftzP.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mathrubhumi News (576p) [Not 24/7]
@@ -5622,8 +5502,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/2zCOXmH.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mezőkövesdi Televízió (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mh One Music TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/8013
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Miami TV Fashion
@@ -5658,8 +5536,6 @@ http://serv1.milliy.tv/hls/index_480.m3u8
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 #EXTINF:-1 group-title="Чехия | Czech Republic 🇨🇿" tvg-logo="https://i.imgur.com/WWOlm1x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Minimax (576p) (576p)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/rc68GZJ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Miracle TV (576p)
-https://live.miraclechannel.com/hls/miracle1.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://i.imgur.com/N96LwKG.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mirror Now (720p)
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/GfOy2ok.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Mishapi Voice TV (1080p)
@@ -5722,8 +5598,6 @@ https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/in
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index_6.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/fbI2ybo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Moinesti TV
-https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Moleta Mix
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w360765263.m3u8
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MONO 29 (1080p)
@@ -5754,8 +5628,6 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/hKDccCL.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
-#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Motor TV
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MotorTrend FAST TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Motorvision TV
@@ -6116,12 +5988,8 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 https://tv02.zas.media:1936/natureza/natureza/chunklist_w396461624.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://www.epicon.in/img/nazara-logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Nazara (1080p)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Nazaré - Forte S. Miguel Arcanjo - Baía
-https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Nazaré - Praia da Vila
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Nazaré - Praia do Norte
-https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://4.imimg.com/data4/TV/CX/MY-12278352/cctv-camera-office-250x250.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Nazaré - Praia do Norte panorâmica
 https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="http://epg.one/img/2258.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",NBC
@@ -6560,8 +6428,6 @@ https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 http://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="Грузия | ქართული 🇬🇪 (GEO)" tvg-logo="http://epg.one/img/2568.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Palitranews
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Palmeras TV
-http://play.agenciastreaming.com:8080/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Panda
 https://outbound-production.explore.org/stream-production-33/.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://i.imgur.com/JkDD3bK.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Panorama FM
@@ -7218,12 +7084,8 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://i.ibb.co/y5mXndW/resize-2024-09-29-T191414-134.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="https://i.imgur.com/DjgNNHK.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Qwest TV
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Qwest TV
 https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Qwest TV HD
-https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-qwestjazz-rakuten/cb5638186573668684c33e78d9f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0f7b30940db3df0ac151e9d2b58e68314c9c94ded80d546cd128076a511c895f782d642e0c3ab4391bd122f733a1048dbe64b86da4ebfdbe81853fe541d36d2d17bc1e9986b29944853598293a33a81bf61a8a42a926338ac42e9273ad4ca19c92488d634c680b4cc414e2eeeac310776f2b2f5dda96770d5078aa645e058d426dd34016e87f299bf851ab0b7a63191d11a86b36ca8bb7a1e37d7ab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978a5e98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984f814c68982d9f874b68688ac23bd0bc2b109727130e5f340c/112/1280x720_3329040/index.m3u8
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/89yWH5L.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Qwest TV Jazz & Beyond (1080p)
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",R Plus
@@ -7234,8 +7096,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/in
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",radio
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",radio
-http://edge2.peta.live365.net/b75154_128mp3
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",radio
 http://funkyradio.streamingmedia.it:8001/audio.aac
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",radio
@@ -7442,8 +7302,6 @@ http://edge126.rdsnet.ro:84/profm/dancefm.mp3
 https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Digi FM (ROM)
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Drive FM (Moldova)
-http://109.185.236.241:8000/DriveFM
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Duo
 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Duo (EST)
@@ -7738,8 +7596,6 @@ http://p8.p4groupaudio.com/P08_MH
 http://p9.p4groupaudio.com/P09_MH
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Palitra (GE)
 http://92.241.82.245:8000/liveliveogg
-#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Paradise
-http://stream.radioparadise.com/flac
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Parsifal Tv
 https://stream9.xdevel.com/video0s976542-1303/stream/chunks.m3u8
 #EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Radio Party FM (GRE)
@@ -8762,8 +8618,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-
 http://91.224.104.112:80/rysianka2/index.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸 🇵🇹" tvg-logo="https://i.imgur.com/MzUQtrl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ràdio Bocairent TV (1080p) [Not 24/7]
 http://185.81.77.4/BocairentTV/index.m3u8
-#EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",S4C (1080p) [Geo-blocked]
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Saarland TV 1
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Saarland TV 2
@@ -8784,8 +8638,6 @@ http://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.
 http://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Saga Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/759e7bfe-b3bb-4ea3-9c59-4091eb3e1e1f/0.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Saga TV
-http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 group-title="SkyNet Undefined" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Sailor Moon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246
 #EXTINF:-1 group-title="Индия | India 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sakshi_tv.jpg/512px-Sakshi_tv.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Sakshi TV (576p)
@@ -8875,17 +8727,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 group-title="Австрия | AUSTRIA" tvg-logo="../Channel/Logo/Discovery Science.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c841-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2a5a32b-6b54-46b8-9676-29c0ec343296
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/SCRIPACH_TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SCRIPACH TV
-https://kino-stream.online/hls/scripach.m3u8
+https://live.kinescopecdn.net/preview/e8001cbb-fccd-452e-bb42-681288793be1/701487a9-a5dc-4ac2-a986-bc319d472f8c/1080p/media.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/WUNc721.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SCRIPACH TV
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Scripps News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 #EXTINF:-1 group-title="Турция | Türk 🇹🇷" tvg-logo="https://i.postimg.cc/B621rdsw/In-Shot-20250210-104639637.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SDM SİNEMA ᵀᵛˢʰᵃᵐ
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SeleCaoTV
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SeleCaoTV 2
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Semear TV
 https://5c483b9d1019c.streamlock.net/semeartv/semeartv/chunklist.m3u8
 #EXTINF:-1 group-title="Италия | Italy 🇮🇹" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Senato TV
@@ -9446,8 +9296,6 @@ https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alk
 http://videostreams.streekstadcentraal.nl/hls/streekstad_dijkenwaard/streekstad_dijkenwaard.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Striam Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Striam Suspense
-http://146.120.14.239:3001/play/a08o
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Strongman (720p)
 https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды | Netherlands 🇳🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Studio Rheden
@@ -9552,8 +9400,6 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://tagesschau.akamaized.net/hls/live/2020116/tagesschau/tagesschau_2/master-720p-3328.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Taivas TV7 (FIN)
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Taiwan Plus TV (1080p)
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/KuK72kL.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Takeshi's Castle
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98bea881-8ec4-4d3c-ad12-0a142e47ffe1
 #EXTINF:-1 group-title="Австрия | AUSTRIA" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Takeshi's Castle
@@ -9842,8 +9688,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Judge Judy Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ff2c99b-7400-4062-9fa7-4705ef8ac8e2
-#EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/irwOxj4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Library Channel TV18 (360p)
-https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 group-title="SkyNet Undefined" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Lone Ranger
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14d4cc80-1b91-4f3d-aef3-50b19094af58
 #EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Love Boat
@@ -9868,8 +9712,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c220e15dc1660008a79c96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7780-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8557389-071b-4c1a-ad15-977e50610abe
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="https://i.imgur.com/LuE8Wl4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Price Is Right: The Barker Era
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b11caad2-6afe-44b5-8ca3-9e98672f6a0f
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/60YejJs.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Rifleman
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",The Shopping Channel
@@ -9892,8 +9734,6 @@ https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",This Old House
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
-#EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/C013OWn.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Thornton Government Access Channel 17 (Thornton CO) (1080p)
-https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Three Angels Broadcasting Network English (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Three Angels Broadcasting Network French (3ABN) (720p)
@@ -10210,8 +10050,6 @@ https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="../Channel/Logo/MTV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱 | ישראלי  ✨" tvg-logo="https://i.imgur.com/zLRzyVS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV Arbëria 1 (720p)
-https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="../Channel/Logo/songtv armenia.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tv Aventura
 https://stmv1.liveplushd.com.br/tvaventura/tvaventura/chunklist_w685533034.m3u8
 #EXTINF:-1 group-title="Бразилия | Brasil 🇧🇷" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV Bahia (1080i)
@@ -10422,7 +10260,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TVI África (480p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6261.png" tvg-id="cc668781276fd092727c0507369cc752_6261" $ExtFilter="ГЕДЕМ",Tviksel Детское кино International
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6261.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tviksel Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6258.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tviksel Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
@@ -10770,8 +10608,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/chunklist_w1976464850.m3u8
 #EXTINF:-1 group-title="Dominican Republic" tvg-logo="https://i.imgur.com/lNpgFAU.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Vallevision Canal 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VB VHS Classic
-https://rpn3.bozztv.com/dvrfl07/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/VlKl2VB.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VClassic TV
@@ -10842,16 +10678,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/5HD76RP.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VHDV TV
-https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="../Channel/Logo/Viasat Sport.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Viasat 3
 http://178.23.88.55/Viasat_3/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Viasat Explore
 http://85.11.144.9:4222/ViasatExplorer
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Viasat History
 http://5.57.74.130:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://logo.vivamax.pro/logo/viasastkinocomedy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Viasat Kino Comedy
-http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VIASAT Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VIASAT KINO HD
@@ -10880,8 +10712,6 @@ https://straume.vdtv.lv/vdtv2/index.m3u8
 https://straume.vdtv.lv/vdtv3/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Vidusdaugavas TV
 http://straume.vdtv.lv/vdtv3/index.m3u8
-#EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Vijay Takkar
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/865933
 #EXTINF:-1 group-title="🔎 Познавательные ᴴᴰ ✈️🌍🦎" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="🔎 Познавательные ᴴᴰ ✈️🌍🦎" tvg-logo="https://iptvx.one/picons/viasat-nature.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",viju Nature
@@ -10910,8 +10740,6 @@ https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 http://live.visir.is/hls-live/visir.smil/chunklist_b4736000.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VIVA PLUS
 https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VIVA TV Peru
-http://38.252.213.12:8000/play/a013
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Vive TV
@@ -10934,8 +10762,6 @@ http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 http://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VOX Music
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111071
-#EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VTK
-http://185.18.56.26:8888/vtk/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="http://i116.fastpic.org/big/2022/0227/e0/16eb03017484cb56ce038ab3ceafe2e0.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VTV
 http://5.57.74.130:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-logo="http://i116.fastpic.org/big/2022/0227/e0/16eb03017484cb56ce038ab3ceafe2e0.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VTV
@@ -11122,8 +10948,6 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 http://tv02.zas.media:1935/wordingtv/wordingtv/chunklist.m3u8
 #EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/World Fashion Channel HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",World Fashion Channel HD
-http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-logo="https://i.imgur.com/xtbkDDN.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 group-title="🎡 Развлекательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",WORLD HD
@@ -11692,8 +11516,6 @@ http://puls-radio.ru:8000/detradio
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Дикий.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Дикий
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ДимГрад 24
-http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ДНІПРО ТВ
 http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4880/stream.m3u8
 #EXTINF:-1 group-title="🔎 Познавательные ᴴᴰ ✈️🌍🦎" tvg-logo="https://iptvx.one/picons/doktor.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Доктор
@@ -11888,8 +11710,6 @@ https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
 https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал TVBoom
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Жизнь Глазова
-http://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Кинорейс
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозалы  ?
@@ -12276,10 +12096,6 @@ http://gr.seetv.cc/play/603/D70CC021CA87DF2/video.m3u8
 http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Неизвестная Россия
-http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Неизвестная РоссияHD
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Нейросеть
 https://fl1001.bozztv.com/ushba104/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Новое радио (BY)
@@ -12314,8 +12130,6 @@ http://62.89.220.15/streams/media/nostalgiya_720x576/index.m3u8
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТА
 http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ
-http://5.188.221.43:8080/play/ntv
 #EXTINF:-1 group-title="Общественные orig" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ HD
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ HD
@@ -12388,8 +12202,6 @@ http://194.158.222.36:6102
 http://cdnua05.hls.tv/614/hls/f62d71219200da4130d13b21d23fb23c/4889/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ОПЕР за викликом+ HD
 http://cdnua05.hls.tv/0941/hls/8743361621b245838bee193c9ec28322/4889/stream.m3u8
-#EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Оплот
-http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Орел та Решка
 http://cdnua03.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4872/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Орел та Решка
@@ -12398,8 +12210,6 @@ http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4872/stream.m3u8
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Оружие
 https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
-#EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="http://i116.fastpic.org/big/2022/0121/91/ce68f7dad784229e6afb3fa422292191.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ОСН ТВ
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ОТР
 https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Панянка селянка
@@ -12432,8 +12242,6 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 http://iptv.prosto.tv:7000/id35/video.m3u8?secret=kp7brelm
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Пингвин Лоло ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пингвин Лоло
 http://62.89.220.15/streams/media/pingvin_720x576/index.m3u8
-#EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-logo="../Channel/Logo/Пингвин Лоло ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пинск ТВ
-http://87.252.229.200:8083/pinsk
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Победа
 http://62.89.220.15/streams/media/pobeda_720x576/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ПравдаТУТ Львів
@@ -12442,8 +12250,6 @@ http://iptv.prosto.tv:7000/ch192/video.m3u8?secret=kp7brelm
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Приколы 2
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пятница
-http://5.188.221.43:8080/play/Pyatnica
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пятница
 http://62.89.220.15/streams/media/pyatnica_720x576/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пятница!
@@ -12514,10 +12320,6 @@ http://s01.radio-tochka.com:4990/radio
 https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сайт: https://suzustv.clan.su/
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Салям.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Салям
-http://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-logo="https://iptvx.one/picons/salam.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Салям
-http://bsttv.bonus-tv.ru/cdn/salyamhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сапфир
 https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сарафан
@@ -12540,8 +12342,6 @@ http://cdnua05.hls.tv/6816/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноДетектив
@@ -12552,8 +12352,6 @@ https://cityeden.catcast.tv/content/38354/index.m3u8
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноФантастика
@@ -12562,14 +12360,10 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Другое ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Сказки Зайки.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сказка
 https://s06.watcher.uz/135/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Словакия 11
@@ -12777,8 +12571,6 @@ http://178.217.215.57/mob/mystream.m3u8
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-logo="../Channel/Logo/Туапсе 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Туапсе 24
 http://185.185.69.62:8084/hls/tuapse24.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://i.postimg.cc/NjkMFwq9/security-camera-sign.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Тулун 1
-http://tv.t-tk.ru/cam_vokzal/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://i.postimg.cc/NjkMFwq9/security-camera-sign.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Тулун 1
 http://tv.t-tk.ru/ostanovka_lenina/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Тулун 10
 http://tv.t-tk.ru/cam_park_mira_ploshad/index.m3u8
@@ -12808,8 +12600,6 @@ http://tv.t-tk.ru/cam_bratskoe_kolco/index.m3u8
 http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="WEBCAMS LIVE 🔴👁️👻👁‍🗨" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Турция 13
 http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ты супер !
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="https://iptvx.one/picons/tuso.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Тюсо
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="https://epgx.site/p/ufc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Удар HD
